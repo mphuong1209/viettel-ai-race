@@ -1,0 +1,2047 @@
+2025-11-12 03:42:24,397 [INFO] [START] Pipeline starting
+2025-11-12 03:42:24,397 [INFO] [EXTRACT] Starting extraction pass
+2025-11-12 03:42:27,553 [INFO] [EXTRACT] Wrote submissions\Public_427\main.md (images in submissions\Public_427\images)
+2025-11-12 03:42:44,169 [INFO] [EXTRACT] Wrote submissions\Public_428\main.md (images in submissions\Public_428\images)
+2025-11-12 03:42:56,578 [INFO] [EXTRACT] Wrote submissions\Public_441\main.md (images in submissions\Public_441\images)
+2025-11-12 03:46:22,787 [INFO] [EXTRACT] Wrote submissions\Public_442\main.md (images in submissions\Public_442\images)
+2025-11-12 03:46:45,659 [INFO] [EXTRACT] Wrote submissions\Public_444\main.md (images in submissions\Public_444\images)
+2025-11-12 03:48:05,672 [INFO] [EXTRACT] Wrote submissions\Public_445\main.md (images in submissions\Public_445\images)
+2025-11-12 03:48:48,953 [INFO] [EXTRACT] Wrote submissions\Public_446\main.md (images in submissions\Public_446\images)
+2025-11-12 03:49:23,860 [INFO] [EXTRACT] Wrote submissions\Public_447\main.md (images in submissions\Public_447\images)
+2025-11-12 03:49:50,762 [INFO] [EXTRACT] Wrote submissions\Public_448\main.md (images in submissions\Public_448\images)
+2025-11-12 03:50:21,409 [INFO] [EXTRACT] Wrote submissions\Public_449\main.md (images in submissions\Public_449\images)
+2025-11-12 03:50:24,339 [INFO] [EXTRACT] Wrote submissions\Public_465\main.md (images in submissions\Public_465\images)
+2025-11-12 03:50:26,874 [INFO] [EXTRACT] Wrote submissions\Public_466\main.md (images in submissions\Public_466\images)
+2025-11-12 03:50:28,723 [INFO] [EXTRACT] Wrote submissions\Public_468\main.md (images in submissions\Public_468\images)
+2025-11-12 03:50:32,834 [INFO] [EXTRACT] Wrote submissions\Public_469\main.md (images in submissions\Public_469\images)
+2025-11-12 03:50:35,740 [INFO] [EXTRACT] Wrote submissions\Public_470\main.md (images in submissions\Public_470\images)
+2025-11-12 03:50:37,505 [INFO] [EXTRACT] Wrote submissions\Public_471\main.md (images in submissions\Public_471\images)
+2025-11-12 03:50:39,290 [INFO] [EXTRACT] Wrote submissions\Public_472\main.md (images in submissions\Public_472\images)
+2025-11-12 03:50:40,505 [INFO] [EXTRACT] Wrote submissions\Public_473\main.md (images in submissions\Public_473\images)
+2025-11-12 03:50:42,904 [INFO] [EXTRACT] Wrote submissions\Public_474\main.md (images in submissions\Public_474\images)
+2025-11-12 03:50:52,341 [INFO] [EXTRACT] Wrote submissions\Public_624\main.md (images in submissions\Public_624\images)
+2025-11-12 03:51:07,518 [INFO] [EXTRACT] Wrote submissions\Public_626\main.md (images in submissions\Public_626\images)
+2025-11-12 03:51:15,016 [INFO] [EXTRACT] Wrote submissions\Public_634\main.md (images in submissions\Public_634\images)
+2025-11-12 03:51:23,707 [INFO] [EXTRACT] Wrote submissions\Public_635\main.md (images in submissions\Public_635\images)
+2025-11-12 03:51:32,930 [INFO] [EXTRACT] Wrote submissions\Public_636\main.md (images in submissions\Public_636\images)
+2025-11-12 03:52:02,254 [INFO] [EXTRACT] Wrote submissions\Public_637\main.md (images in submissions\Public_637\images)
+2025-11-12 03:52:26,460 [INFO] [EXTRACT] Wrote submissions\Public_638\main.md (images in submissions\Public_638\images)
+2025-11-12 03:52:41,471 [INFO] [EXTRACT] Wrote submissions\Public_639\main.md (images in submissions\Public_639\images)
+2025-11-12 03:52:57,607 [INFO] [EXTRACT] Wrote submissions\Public_640\main.md (images in submissions\Public_640\images)
+2025-11-12 03:53:26,646 [INFO] [EXTRACT] Wrote submissions\Public_641\main.md (images in submissions\Public_641\images)
+2025-11-12 03:53:58,467 [INFO] [EXTRACT] Wrote submissions\Public_642\main.md (images in submissions\Public_642\images)
+2025-11-12 03:54:32,311 [INFO] [EXTRACT] Wrote submissions\Public_643\main.md (images in submissions\Public_643\images)
+2025-11-12 03:55:05,655 [INFO] [EXTRACT] Wrote submissions\Public_644\main.md (images in submissions\Public_644\images)
+2025-11-12 03:56:14,577 [INFO] [EXTRACT] Wrote submissions\Public_645\main.md (images in submissions\Public_645\images)
+2025-11-12 03:56:44,980 [INFO] [EXTRACT] Wrote submissions\Public_646\main.md (images in submissions\Public_646\images)
+2025-11-12 03:57:00,332 [INFO] [EXTRACT] Wrote submissions\Public_647\main.md (images in submissions\Public_647\images)
+2025-11-12 03:57:22,456 [INFO] [EXTRACT] Wrote submissions\Public_648\main.md (images in submissions\Public_648\images)
+2025-11-12 03:57:42,063 [INFO] [EXTRACT] Wrote submissions\Public_649\main.md (images in submissions\Public_649\images)
+2025-11-12 03:57:56,001 [INFO] [EXTRACT] Wrote submissions\Public_650\main.md (images in submissions\Public_650\images)
+2025-11-12 03:57:59,271 [INFO] [EXTRACT] Wrote submissions\Public_651\main.md (images in submissions\Public_651\images)
+2025-11-12 03:58:01,557 [INFO] [EXTRACT] Wrote submissions\Public_652\main.md (images in submissions\Public_652\images)
+2025-11-12 03:58:05,982 [INFO] [EXTRACT] Wrote submissions\Public_653\main.md (images in submissions\Public_653\images)
+2025-11-12 03:58:07,589 [INFO] [EXTRACT] Wrote submissions\Public_654\main.md (images in submissions\Public_654\images)
+2025-11-12 03:58:10,167 [INFO] [EXTRACT] Wrote submissions\Public_655\main.md (images in submissions\Public_655\images)
+2025-11-12 03:58:11,843 [INFO] [EXTRACT] Wrote submissions\Public_656\main.md (images in submissions\Public_656\images)
+2025-11-12 03:58:13,958 [INFO] [EXTRACT] Wrote submissions\Public_657\main.md (images in submissions\Public_657\images)
+2025-11-12 03:58:15,866 [INFO] [EXTRACT] Wrote submissions\Public_658\main.md (images in submissions\Public_658\images)
+2025-11-12 03:58:17,019 [INFO] [EXTRACT] Wrote submissions\Public_659\main.md (images in submissions\Public_659\images)
+2025-11-12 03:58:18,329 [INFO] [EXTRACT] Wrote submissions\Public_660\main.md (images in submissions\Public_660\images)
+2025-11-12 03:58:20,307 [INFO] [EXTRACT] Wrote submissions\Public_661\main.md (images in submissions\Public_661\images)
+2025-11-12 03:58:22,215 [INFO] [EXTRACT] Wrote submissions\Public_662\main.md (images in submissions\Public_662\images)
+2025-11-12 03:58:24,122 [INFO] [EXTRACT] Wrote submissions\Public_665\main.md (images in submissions\Public_665\images)
+2025-11-12 03:58:25,749 [INFO] [EXTRACT] Wrote submissions\Public_668\main.md (images in submissions\Public_668\images)
+2025-11-12 03:58:27,278 [INFO] [EXTRACT] Wrote submissions\Public_669\main.md (images in submissions\Public_669\images)
+2025-11-12 03:58:28,799 [INFO] [EXTRACT] Wrote submissions\Public_670\main.md (images in submissions\Public_670\images)
+2025-11-12 03:58:30,080 [INFO] [EXTRACT] Wrote submissions\Public_671\main.md (images in submissions\Public_671\images)
+2025-11-12 03:58:31,965 [INFO] [EXTRACT] Wrote submissions\Public_672\main.md (images in submissions\Public_672\images)
+2025-11-12 03:58:33,916 [INFO] [EXTRACT] Wrote submissions\Public_673\main.md (images in submissions\Public_673\images)
+2025-11-12 03:58:36,520 [INFO] [EXTRACT] Wrote submissions\Public_675\main.md (images in submissions\Public_675\images)
+2025-11-12 03:58:38,060 [INFO] [INDEX] Built 11147 chunks from 58 docs
+2025-11-12 03:58:38,060 [INFO] [INDEX] Preparing retrievers (TF-IDF, BM25, semantic embeddings, reranker)
+2025-11-12 03:58:38,060 [INFO] [INDEX] Building TF-IDF matrix...
+2025-11-12 03:58:42,683 [INFO] [INDEX] Building BM25 index...
+2025-11-12 03:58:44,554 [INFO] [INDEX] Loading embedder intfloat/multilingual-e5-small on cpu ...
+2025-11-12 03:58:44,573 [INFO] Load pretrained SentenceTransformer: intfloat/multilingual-e5-small
+2025-11-12 03:58:52,458 [INFO] [INDEX] Encoding 11147 chunks with embedder (progress bar shown)...
+2025-11-12 05:08:06,049 [INFO] [INDEX] Embedder encoding done.
+2025-11-12 05:08:06,066 [INFO] [INDEX] Loading reranker cross-encoder/ms-marco-MiniLM-L-6-v2 on cpu ...
+2025-11-12 05:08:07,941 [INFO] [INDEX] Reranker model loaded.
+2025-11-12 05:08:08,076 [INFO] [QA] Q1: Tu\u1ed5i th\u1ecd trung bình c\u1ee7a t\u1ea5m pin n\u0103ng l\u01b0\u1ee3ng m\u1eb7t tr\u1eddi là bao nhiêu n\u0103m?
+2025-11-12 05:10:08,172 [INFO] [QA-DEBUG] chosen=['D'] | scores_norm=[A=0.00, B=0.30, C=0.75, D=1.00]
+2025-11-12 05:10:08,172 [INFO]    Option A score=0.9015
+2025-11-12 05:10:08,174 [INFO]    Option B score=0.9017
+2025-11-12 05:10:08,174 [INFO]    Option C score=0.9020
+2025-11-12 05:10:08,174 [INFO]    Option D score=0.9022
+2025-11-12 05:10:08,174 [INFO]    => chosen: ['D']
+2025-11-12 05:10:08,175 [INFO] [QA] Q2: Bi\u1ec3u t\u01b0\u1ee3ng nào hi\u1ec3n th\u1ecb màu l\u1ee5c khi \u0111\u1ed9ng c\u01a1 servo \u0111ang b\u1eadt?
+2025-11-12 05:11:58,986 [INFO] [QA-DEBUG] chosen=['A', 'B', 'D'] | scores_norm=[A=0.90, B=1.00, C=0.00, D=0.90]
+2025-11-12 05:11:58,986 [INFO]    Option A score=0.9125
+2025-11-12 05:11:58,986 [INFO]    Option B score=0.9127
+2025-11-12 05:11:58,988 [INFO]    Option C score=0.9109
+2025-11-12 05:11:58,988 [INFO]    Option D score=0.9125
+2025-11-12 05:11:58,988 [INFO]    => chosen: ['A', 'B', 'D']
+2025-11-12 05:11:58,990 [INFO] [QA] Q3: Theo tài li\u1ec7u Public_656, LED nào sáng khi tr\u1ed1ng (Drum) c\u1ea7n \u0111\u01b0\u1ee3c thay th\u1ebf s\u1edbm?
+2025-11-12 05:13:56,030 [INFO] [QA-DEBUG] chosen=['B'] | scores_norm=[A=0.54, B=1.00, C=0.35, D=0.00]
+2025-11-12 05:13:56,030 [INFO]    Option A score=0.9089
+2025-11-12 05:13:56,039 [INFO]    Option B score=0.9099
+2025-11-12 05:13:56,039 [INFO]    Option C score=0.9084
+2025-11-12 05:13:56,039 [INFO]    Option D score=0.9077
+2025-11-12 05:13:56,039 [INFO]    => chosen: ['B']
+2025-11-12 05:13:56,042 [INFO] [QA] Q4: Nút bàn di chu\u1ed9t ph\u1ea3i có ch\u1ee9c n\u0103ng gì?
+2025-11-12 05:15:51,783 [INFO] [QA-DEBUG] chosen=['D'] | scores_norm=[A=0.26, B=0.22, C=0.00, D=1.00]
+2025-11-12 05:15:51,783 [INFO]    Option A score=0.9100
+2025-11-12 05:15:51,783 [INFO]    Option B score=0.9098
+2025-11-12 05:15:51,783 [INFO]    Option C score=0.9094
+2025-11-12 05:15:51,783 [INFO]    Option D score=0.9116
+2025-11-12 05:15:51,783 [INFO]    => chosen: ['D']
+2025-11-12 05:15:51,785 [INFO] [QA] Q5: Thành ph\u1ea7n nào dùng \u0111\u1ec3 \u0111\u1eb7t gi\u1edbi h\u1ea1n t\u1ed1i \u0111a có th\u1ec3 \u0111i\u1ec1u ch\u1ec9nh khi \u1edf ch\u1ebf \u0111\u1ed9 th\u1ee7 công c\u1ee7a E-Drive?
+2025-11-12 05:17:41,888 [INFO] [QA-DEBUG] chosen=['D'] | scores_norm=[A=0.32, B=0.17, C=0.00, D=1.00]
+2025-11-12 05:17:41,888 [INFO]    Option A score=0.9241
+2025-11-12 05:17:41,888 [INFO]    Option B score=0.9237
+2025-11-12 05:17:41,888 [INFO]    Option C score=0.9232
+2025-11-12 05:17:41,888 [INFO]    Option D score=0.9261
+2025-11-12 05:17:41,890 [INFO]    => chosen: ['D']
+2025-11-12 05:17:41,890 [INFO] [QA] Q6: \u0110\u1ea7u dò Convex và \u0111\u1ea7u dò Sector c\u1ee7a máy siêu âm ICU trong TD636 l\u1ea7n l\u01b0\u1ee3t có d\u1ea3i t\u1ea7n s\u1ed1 ho\u1ea1t \u0111\u1ed9ng bao nhiêu?
+2025-11-12 05:19:37,612 [INFO] [QA-DEBUG] chosen=['A'] | scores_norm=[A=1.00, B=0.00, C=0.64, D=0.00]
+2025-11-12 05:19:37,612 [INFO]    Option A score=0.9310
+2025-11-12 05:19:37,612 [INFO]    Option B score=0.9304
+2025-11-12 05:19:37,612 [INFO]    Option C score=0.9308
+2025-11-12 05:19:37,612 [INFO]    Option D score=0.9304
+2025-11-12 05:19:37,614 [INFO]    => chosen: ['A']
+2025-11-12 05:19:37,615 [INFO] [QA] Q7: Trong tài li\u1ec7u Public_665, có bao nhiêu lo\u1ea1i vít \u0111\u01b0\u1ee3c li\u1ec7t kê trong danh sách chi ti\u1ebft l\u1eafp xi\u1ebft?
+2025-11-12 05:21:21,149 [INFO] [QA-DEBUG] chosen=['A', 'C'] | scores_norm=[A=1.00, B=0.69, C=0.99, D=0.00]
+2025-11-12 05:21:21,150 [INFO]    Option A score=0.8960
+2025-11-12 05:21:21,150 [INFO]    Option B score=0.8960
+2025-11-12 05:21:21,152 [INFO]    Option C score=0.8960
+2025-11-12 05:21:21,152 [INFO]    Option D score=0.8958
+2025-11-12 05:21:21,152 [INFO]    => chosen: ['A', 'C']
+2025-11-12 05:21:21,155 [INFO] [QA] Q8: V\u0103n b\u1ea3n Public_675 ch\u1ee7 y\u1ebfu mô t\u1ea3 v\u1ec1 n\u1ed9i dung gì?
+2025-11-12 05:23:23,238 [INFO] [QA-DEBUG] chosen=['B'] | scores_norm=[A=0.89, B=1.00, C=0.00, D=0.31]
+2025-11-12 05:23:23,240 [INFO]    Option A score=0.9156
+2025-11-12 05:23:23,240 [INFO]    Option B score=0.9160
+2025-11-12 05:23:23,240 [INFO]    Option C score=0.9124
+2025-11-12 05:23:23,240 [INFO]    Option D score=0.9136
+2025-11-12 05:23:23,240 [INFO]    => chosen: ['B']
+2025-11-12 05:23:23,248 [INFO] [QA] Q9: Theo c\u1ea5u trúc b\u1ea3ng trong TD648, các c\u1ed9t thông tin chính g\u1ed3m nh\u1eefng m\u1ee5c nào?
+2025-11-12 05:25:19,089 [INFO] [QA-DEBUG] chosen=['A'] | scores_norm=[A=1.00, B=0.26, C=0.00, D=0.43]
+2025-11-12 05:25:19,089 [INFO]    Option A score=0.9201
+2025-11-12 05:25:19,089 [INFO]    Option B score=0.9176
+2025-11-12 05:25:19,091 [INFO]    Option C score=0.9167
+2025-11-12 05:25:19,091 [INFO]    Option D score=0.9182
+2025-11-12 05:25:19,091 [INFO]    => chosen: ['A']
+2025-11-12 05:25:19,093 [INFO] [QA] Q10: V\u0103n b\u1ea3n Public 449 mô t\u1ea3 yêu c\u1ea7u gì v\u1ec1 d\u1eef li\u1ec7u nh\u1eadp m\u1edbi? Và b\u01b0\u1edbc nào c\u1ea7n kích ho\u1ea1t n\u1ebfu d\u1eef li\u1ec7u không \u0111\u1ea1t chu\u1ea9n?
+2025-11-12 05:27:04,738 [INFO] [QA-DEBUG] chosen=['B'] | scores_norm=[A=0.19, B=0.00, C=1.00, D=0.24]
+2025-11-12 05:27:04,738 [INFO]    Option A score=0.9265
+2025-11-12 05:27:04,738 [INFO]    Option B score=0.9260
+2025-11-12 05:27:04,738 [INFO]    Option C score=0.9288
+2025-11-12 05:27:04,740 [INFO]    Option D score=0.9267
+2025-11-12 05:27:04,740 [INFO]    => chosen: ['B']
+2025-11-12 05:27:04,740 [INFO] [QA] Q11: Vít c\u1ea5y A1-M12×45 \u0111\u01b0\u1ee3c quy \u0111\u1ecbnh trong tiêu chu\u1ea9n nào?
+2025-11-12 05:28:56,037 [INFO] [QA-DEBUG] chosen=['B'] | scores_norm=[A=0.00, B=1.00, C=0.56, D=0.86]
+2025-11-12 05:28:56,037 [INFO]    Option A score=0.8872
+2025-11-12 05:28:56,037 [INFO]    Option B score=0.8900
+2025-11-12 05:28:56,039 [INFO]    Option C score=0.8887
+2025-11-12 05:28:56,039 [INFO]    Option D score=0.8896
+2025-11-12 05:28:56,039 [INFO]    => chosen: ['B']
+2025-11-12 05:28:56,039 [INFO] [QA] Q12: SLA \u0111\u01b0\u1ee3c quy \u0111\u1ecbnh trong Public 446 ph\u1ea3i \u0111\u1ea1t __________. (\u0111i\u1ec1n khuy\u1ebft)
+2025-11-12 05:30:45,510 [INFO] [QA-DEBUG] chosen=['B', 'C'] | scores_norm=[A=0.15, B=0.92, C=1.00, D=0.00]
+2025-11-12 05:30:45,510 [INFO]    Option A score=0.9143
+2025-11-12 05:30:45,510 [INFO]    Option B score=0.9164
+2025-11-12 05:30:45,512 [INFO]    Option C score=0.9166
+2025-11-12 05:30:45,512 [INFO]    Option D score=0.9139
+2025-11-12 05:30:45,512 [INFO]    => chosen: ['B', 'C']
+2025-11-12 05:30:45,513 [INFO] [QA] Q13: Tài li\u1ec7u TD651 gi\u1edbi thi\u1ec7u v\u1ec1 n\u1ed9i dung chính nào?
+2025-11-12 05:32:12,470 [INFO] [QA-DEBUG] chosen=['B'] | scores_norm=[A=0.00, B=1.00, C=0.61, D=0.37]
+2025-11-12 05:32:12,472 [INFO]    Option A score=0.9007
+2025-11-12 05:32:12,472 [INFO]    Option B score=0.9197
+2025-11-12 05:32:12,472 [INFO]    Option C score=0.9122
+2025-11-12 05:32:12,472 [INFO]    Option D score=0.9076
+2025-11-12 05:32:12,472 [INFO]    => chosen: ['B']
+2025-11-12 05:32:12,476 [INFO] [QA] Q14: Tiêu chu\u1ea9n Public_669 quy \u0111\u1ecbnh ký hi\u1ec7u quy \u01b0\u1edbc cho nh\u1eefng b\u1ed9 ph\u1eadn nào c\u1ee7a ngôi nhà?
+2025-11-12 05:34:07,468 [INFO] [QA-DEBUG] chosen=['B'] | scores_norm=[A=0.87, B=1.00, C=0.46, D=0.00]
+2025-11-12 05:34:07,470 [INFO]    Option A score=0.9347
+2025-11-12 05:34:07,470 [INFO]    Option B score=0.9359
+2025-11-12 05:34:07,470 [INFO]    Option C score=0.9310
+2025-11-12 05:34:07,470 [INFO]    Option D score=0.9269
+2025-11-12 05:34:07,470 [INFO]    => chosen: ['B']
+2025-11-12 05:34:07,472 [INFO] [QA] Q15: Model \u0111\u1ea7u dò Convex \u0111i kèm máy siêu âm TD634 là gì?
+2025-11-12 05:35:14,339 [INFO] [QA-DEBUG] chosen=['C'] | scores_norm=[A=0.33, B=0.00, C=1.00, D=0.51]
+2025-11-12 05:35:14,341 [INFO]    Option A score=0.8912
+2025-11-12 05:35:14,341 [INFO]    Option B score=0.8843
+2025-11-12 05:35:14,341 [INFO]    Option C score=0.9052
+2025-11-12 05:35:14,343 [INFO]    Option D score=0.8951
+2025-11-12 05:35:14,343 [INFO]    => chosen: ['C']
+2025-11-12 05:35:14,343 [INFO] [QA] Q16: Theo tài li\u1ec7u `Public_445`, h\u1ec7 th\u1ed1ng CRM yêu c\u1ea7u gì khi thêm m\u1edbi Opportunity và c\u01a1 ch\u1ebf nào ph\u1ea3i ho\u1ea1t \u0111\u1ed9ng khi có l\u1ed7i phát sinh?
+2025-11-12 05:36:51,079 [INFO] [QA-DEBUG] chosen=['D'] | scores_norm=[A=0.70, B=0.13, C=0.00, D=1.00]
+2025-11-12 05:36:51,079 [INFO]    Option A score=0.9333
+2025-11-12 05:36:51,079 [INFO]    Option B score=0.9324
+2025-11-12 05:36:51,079 [INFO]    Option C score=0.9322
+2025-11-12 05:36:51,079 [INFO]    Option D score=0.9337
+2025-11-12 05:36:51,084 [INFO]    => chosen: ['D']
+2025-11-12 05:36:51,086 [INFO] [QA] Q17: \u0110èn báo b\u1ed9 \u0111\u1ed5i ngu\u1ed3n AC và pin màu h\u1ed5 phách th\u1ec3 hi\u1ec7n tr\u1ea1ng thái nào?
+2025-11-12 05:38:45,113 [INFO] [QA-DEBUG] chosen=['D'] | scores_norm=[A=0.37, B=0.45, C=0.00, D=1.00]
+2025-11-12 05:38:45,113 [INFO]    Option A score=0.9338
+2025-11-12 05:38:45,115 [INFO]    Option B score=0.9342
+2025-11-12 05:38:45,115 [INFO]    Option C score=0.9321
+2025-11-12 05:38:45,115 [INFO]    Option D score=0.9366
+2025-11-12 05:38:45,115 [INFO]    => chosen: ['D']
+2025-11-12 05:38:45,121 [INFO] [QA] Q18: Khi import d\u1eef li\u1ec7u, h\u1ec7 th\u1ed1ng c\u1ea7n \u0111\u1ea3m b\u1ea3o tính toàn v\u1eb9n và h\u1ee3p l\u1ec7 c\u1ee7a d\u1eef li\u1ec7u nh\u01b0 th\u1ebf nào, và c\u01a1 ch\u1ebf x\u1eed lý l\u1ed7i nào c\u1ea7n \u0111\u01b0\u1ee3c kích ho\u1ea1t khi phát hi\u1ec7n d\u1eef li\u1ec7u không h\u1ee3p l\u1ec7 ho\u1eb7c không th\u1ec3 nh\u1eadp?
+2025-11-12 05:40:25,276 [INFO] [QA-DEBUG] chosen=['A'] | scores_norm=[A=0.00, B=0.33, C=0.38, D=1.00]
+2025-11-12 05:40:25,276 [INFO]    Option A score=0.9251
+2025-11-12 05:40:25,278 [INFO]    Option B score=0.9277
+2025-11-12 05:40:25,278 [INFO]    Option C score=0.9281
+2025-11-12 05:40:25,278 [INFO]    Option D score=0.9330
+2025-11-12 05:40:25,278 [INFO]    => chosen: ['A']
+2025-11-12 05:40:25,280 [INFO] [QA] Q19: Kh\u1ed1i l\u01b0\u1ee3ng bê tông \u0111á d\u0103m lót móng (R \u2264 250cm, v\u1eefa bê tông \u0111á 4x6 M100) trong h\u1ea1ng m\u1ee5c ph\u1ea7n móng là bao nhiêu?
+2025-11-12 05:42:20,962 [INFO] [QA-DEBUG] chosen=['D'] | scores_norm=[A=0.32, B=0.00, C=0.46, D=1.00]
+2025-11-12 05:42:20,967 [INFO]    Option A score=0.8923
+2025-11-12 05:42:20,967 [INFO]    Option B score=0.8921
+2025-11-12 05:42:20,967 [INFO]    Option C score=0.8923
+2025-11-12 05:42:20,967 [INFO]    Option D score=0.8926
+2025-11-12 05:42:20,969 [INFO]    => chosen: ['D']
+2025-11-12 05:42:20,971 [INFO] [QA] Q20: N\u1ed9i dung chính \u0111\u01b0\u1ee3c mô t\u1ea3 trong tài li\u1ec7u Public_670 là gì?
+2025-11-12 05:44:22,020 [INFO] [QA-DEBUG] chosen=['A', 'C'] | scores_norm=[A=1.00, B=0.70, C=0.98, D=0.00]
+2025-11-12 05:44:22,020 [INFO]    Option A score=0.9126
+2025-11-12 05:44:22,023 [INFO]    Option B score=0.9119
+2025-11-12 05:44:22,023 [INFO]    Option C score=0.9125
+2025-11-12 05:44:22,023 [INFO]    Option D score=0.9103
+2025-11-12 05:44:22,023 [INFO]    => chosen: ['A', 'C']
+2025-11-12 05:44:22,025 [INFO] [QA] Q21: \u0110i\u1ec3m nh\u1ea5n c\u1ed1t lõi c\u1ee7a Public 449 là gì?
+2025-11-12 05:46:15,167 [INFO] [QA-DEBUG] chosen=['C'] | scores_norm=[A=0.40, B=0.00, C=1.00, D=0.35]
+2025-11-12 05:46:15,169 [INFO]    Option A score=0.9083
+2025-11-12 05:46:15,169 [INFO]    Option B score=0.8995
+2025-11-12 05:46:15,169 [INFO]    Option C score=0.9213
+2025-11-12 05:46:15,169 [INFO]    Option D score=0.9071
+2025-11-12 05:46:15,169 [INFO]    => chosen: ['C']
+2025-11-12 05:46:15,173 [INFO] [QA] Q22: V\u0103n b\u1ea3n này nói v\u1ec1 n\u1ed9i dung gì?
+2025-11-12 05:47:30,055 [INFO] [QA-DEBUG] chosen=['C'] | scores_norm=[A=0.00, B=0.09, C=1.00, D=0.17]
+2025-11-12 05:47:30,056 [INFO]    Option A score=0.9198
+2025-11-12 05:47:30,056 [INFO]    Option B score=0.9215
+2025-11-12 05:47:30,057 [INFO]    Option C score=0.9383
+2025-11-12 05:47:30,057 [INFO]    Option D score=0.9229
+2025-11-12 05:47:30,057 [INFO]    => chosen: ['C']
+2025-11-12 05:47:30,058 [INFO] [QA] Q23: Tài li\u1ec7u Public_673 ch\u1ee7 y\u1ebfu mô t\u1ea3 v\u1ec1 n\u1ed9i dung gì?
+2025-11-12 05:49:31,561 [INFO] [QA-DEBUG] chosen=['C'] | scores_norm=[A=0.00, B=0.88, C=1.00, D=0.57]
+2025-11-12 05:49:31,561 [INFO]    Option A score=0.9230
+2025-11-12 05:49:31,563 [INFO]    Option B score=0.9335
+2025-11-12 05:49:31,563 [INFO]    Option C score=0.9349
+2025-11-12 05:49:31,563 [INFO]    Option D score=0.9297
+2025-11-12 05:49:31,563 [INFO]    => chosen: ['C']
+2025-11-12 05:49:31,565 [INFO] [QA] Q24: Theo c\u1ea5u trúc TD640, các c\u1ed9t thông tin chính trong b\u1ea3ng giá v\u1eadt li\u1ec7u g\u1ed3m nh\u1eefng m\u1ee5c nào?
+2025-11-12 05:51:27,843 [INFO] [QA-DEBUG] chosen=['A'] | scores_norm=[A=1.00, B=0.00, C=0.08, D=0.21]
+2025-11-12 05:51:27,843 [INFO]    Option A score=0.9274
+2025-11-12 05:51:27,845 [INFO]    Option B score=0.9190
+2025-11-12 05:51:27,845 [INFO]    Option C score=0.9197
+2025-11-12 05:51:27,845 [INFO]    Option D score=0.9208
+2025-11-12 05:51:27,845 [INFO]    => chosen: ['A']
+2025-11-12 05:51:27,847 [INFO] [QA] Q25: Trong TD643, “S\u01a1n bóng nano” có giá bán (ch\u01b0a VAT) là bao nhiêu \u0111\u1ed3ng/lít?
+2025-11-12 05:53:10,000 [INFO] [QA-DEBUG] chosen=['C'] | scores_norm=[A=0.00, B=0.10, C=1.00, D=0.63]
+2025-11-12 05:53:10,001 [INFO]    Option A score=0.9223
+2025-11-12 05:53:10,001 [INFO]    Option B score=0.9232
+2025-11-12 05:53:10,003 [INFO]    Option C score=0.9313
+2025-11-12 05:53:10,003 [INFO]    Option D score=0.9280
+2025-11-12 05:53:10,010 [INFO]    => chosen: ['C']
+2025-11-12 05:53:10,011 [INFO] [QA] Q26: Giá bán \u0111\u1ebfn chân công trình c\u1ee7a “Kh\u1edbp n\u1ed1i m\u1ec1m gang c\u1ea7u BE DN 500 (mm)” là bao nhiêu \u0111\u1ed3ng/b\u1ed9?
+2025-11-12 05:54:27,832 [INFO] [QA-DEBUG] chosen=['C'] | scores_norm=[A=0.00, B=0.33, C=1.00, D=0.24]
+2025-11-12 05:54:27,832 [INFO]    Option A score=0.8879
+2025-11-12 05:54:27,832 [INFO]    Option B score=0.8884
+2025-11-12 05:54:27,832 [INFO]    Option C score=0.8893
+2025-11-12 05:54:27,832 [INFO]    Option D score=0.8882
+2025-11-12 05:54:27,834 [INFO]    => chosen: ['C']
+2025-11-12 05:54:27,834 [INFO] [QA] Q27: V\u0103n b\u1ea3n Public_662 mô t\u1ea3 ch\u1ee7 y\u1ebfu v\u1ec1 n\u1ed9i dung gì?
+2025-11-12 05:56:29,500 [INFO] [QA-DEBUG] chosen=['D'] | scores_norm=[A=0.82, B=0.00, C=0.52, D=1.00]
+2025-11-12 05:56:29,502 [INFO]    Option A score=0.9020
+2025-11-12 05:56:29,502 [INFO]    Option B score=0.8983
+2025-11-12 05:56:29,502 [INFO]    Option C score=0.9006
+2025-11-12 05:56:29,502 [INFO]    Option D score=0.9028
+2025-11-12 05:56:29,502 [INFO]    => chosen: ['D']
+2025-11-12 05:56:29,511 [INFO] [QA] Q28: Trong ph\u1ea7n Open Trigger c\u1ee7a màn hình cài \u0111\u1eb7t c\u1eeda van, có bao nhiêu tùy ch\u1ecdn kích ho\u1ea1t \u0111\u01b0\u1ee3c li\u1ec7t kê?
+2025-11-12 05:58:23,665 [INFO] [QA-DEBUG] chosen=['B'] | scores_norm=[A=0.00, B=1.00, C=0.79, D=0.62]
+2025-11-12 05:58:23,665 [INFO]    Option A score=0.9147
+2025-11-12 05:58:23,665 [INFO]    Option B score=0.9150
+2025-11-12 05:58:23,665 [INFO]    Option C score=0.9149
+2025-11-12 05:58:23,668 [INFO]    Option D score=0.9149
+2025-11-12 05:58:23,668 [INFO]    => chosen: ['B']
+2025-11-12 05:58:23,670 [INFO] [QA] Q29: Gi\u1ea3i pháp \u0111\u01b0\u1ee3c \u0111\u1ec1 xu\u1ea5t trong tài li\u1ec7u Public_470 \u0111\u1ec3 gi\u1ea3m thi\u1ec3u x\u1eed lý th\u1ee7 công khi qu\u1ea3n lý d\u1eef li\u1ec7u 3D là gì?
+2025-11-12 06:00:13,697 [INFO] [QA-DEBUG] chosen=['D'] | scores_norm=[A=0.50, B=0.22, C=0.00, D=1.00]
+2025-11-12 06:00:13,697 [INFO]    Option A score=0.9207
+2025-11-12 06:00:13,697 [INFO]    Option B score=0.9194
+2025-11-12 06:00:13,697 [INFO]    Option C score=0.9183
+2025-11-12 06:00:13,697 [INFO]    Option D score=0.9231
+2025-11-12 06:00:13,699 [INFO]    => chosen: ['D']
+2025-11-12 06:00:13,699 [INFO] [QA] Q30: “Xe nâng ng\u01b0\u1eddi làm vi\u1ec7c trên cao” trong TD649 có Mã s\u1ed1 theo bi\u1ec3u thu\u1ebf nh\u1eadp kh\u1ea9u theo nhóm nào?
+2025-11-12 06:01:21,290 [INFO] [QA-DEBUG] chosen=['A'] | scores_norm=[A=1.00, B=0.78, C=0.00, D=0.26]
+2025-11-12 06:01:21,290 [INFO]    Option A score=0.9356
+2025-11-12 06:01:21,290 [INFO]    Option B score=0.9355
+2025-11-12 06:01:21,290 [INFO]    Option C score=0.9350
+2025-11-12 06:01:21,290 [INFO]    Option D score=0.9352
+2025-11-12 06:01:21,290 [INFO]    => chosen: ['A']
+2025-11-12 06:01:21,293 [INFO] [QA] Q31: Nêu các phím t\u1eaft \u0111\u1ec3: làm m\u1edbi tài li\u1ec7u trong Microsoft Word, g\u1eedi/nh\u1eadn email trong Outlook, và kích ho\u1ea1t thanh menu c\u1ee7a \u1ee9ng d\u1ee5ng \u0111ang m\u1edf.
+2025-11-12 06:03:12,063 [INFO] [QA-DEBUG] chosen=['D'] | scores_norm=[A=0.28, B=0.00, C=0.34, D=1.00]
+2025-11-12 06:03:12,063 [INFO]    Option A score=0.9280
+2025-11-12 06:03:12,063 [INFO]    Option B score=0.9279
+2025-11-12 06:03:12,063 [INFO]    Option C score=0.9281
+2025-11-12 06:03:12,063 [INFO]    Option D score=0.9284
+2025-11-12 06:03:12,067 [INFO]    => chosen: ['D']
+2025-11-12 06:03:12,067 [INFO] [QA] Q32: Giá T\u1ea5m Panel Bê tông nh\u1eb9 khí ch\u01b0ng áp SCL-ALC-LC (m3) theo TD638 là bao nhiêu \u0111\u1ed3ng/m3?
+2025-11-12 06:04:58,747 [INFO] [QA-DEBUG] chosen=['A', 'B', 'D'] | scores_norm=[A=1.00, B=0.97, C=0.00, D=0.94]
+2025-11-12 06:04:58,747 [INFO]    Option A score=0.9238
+2025-11-12 06:04:58,747 [INFO]    Option B score=0.9237
+2025-11-12 06:04:58,747 [INFO]    Option C score=0.9205
+2025-11-12 06:04:58,749 [INFO]    Option D score=0.9236
+2025-11-12 06:04:58,749 [INFO]    => chosen: ['A', 'B', 'D']
+2025-11-12 06:04:58,749 [INFO] [QA] Q33: Giá bán (ch\u01b0a VAT) c\u1ee7a “\u0110á (5x10)mm” t\u1ea1i M\u1ecf \u0111á Lùng Kh\u1ee9, xã H\u01b0ng V\u0169, huy\u1ec7n B\u1eafc S\u01a1n là bao nhiêu \u0111\u1ed3ng/m³?
+2025-11-12 06:06:38,799 [INFO] [QA-DEBUG] chosen=['C'] | scores_norm=[A=0.50, B=0.00, C=1.00, D=0.63]
+2025-11-12 06:06:38,801 [INFO]    Option A score=0.9163
+2025-11-12 06:06:38,801 [INFO]    Option B score=0.9161
+2025-11-12 06:06:38,801 [INFO]    Option C score=0.9165
+2025-11-12 06:06:38,801 [INFO]    Option D score=0.9163
+2025-11-12 06:06:38,801 [INFO]    => chosen: ['C']
+2025-11-12 06:06:38,802 [INFO] [QA] Q34: Mã “BCCS2_TT_HOPDONG” trong tài li\u1ec7u Public 444 th\u1ec3 hi\u1ec7n nghi\u1ec7p v\u1ee5 gì?
+2025-11-12 06:08:25,138 [INFO] [QA-DEBUG] chosen=['C'] | scores_norm=[A=0.48, B=0.00, C=1.00, D=0.13]
+2025-11-12 06:08:25,138 [INFO]    Option A score=0.9197
+2025-11-12 06:08:25,138 [INFO]    Option B score=0.9143
+2025-11-12 06:08:25,138 [INFO]    Option C score=0.9255
+2025-11-12 06:08:25,141 [INFO]    Option D score=0.9157
+2025-11-12 06:08:25,142 [INFO]    => chosen: ['C']
+2025-11-12 06:08:25,143 [INFO] [QA] Q35: Trong TD650, có t\u1ed5ng c\u1ed9ng bao nhiêu tên m\u1eb7t hàng có Mã s\u1ed1 theo bi\u1ec3u thu\u1ebf nh\u1eadp kh\u1ea9u theo nhóm 8517?
+2025-11-12 06:09:31,829 [INFO] [QA-DEBUG] chosen=['A'] | scores_norm=[A=1.00, B=0.00, C=0.30, D=0.71]
+2025-11-12 06:09:31,829 [INFO]    Option A score=0.9381
+2025-11-12 06:09:31,831 [INFO]    Option B score=0.9376
+2025-11-12 06:09:31,831 [INFO]    Option C score=0.9378
+2025-11-12 06:09:31,831 [INFO]    Option D score=0.9380
+2025-11-12 06:09:31,831 [INFO]    => chosen: ['A']
+2025-11-12 06:09:31,833 [INFO] [QA] Q36: Giá bán (ch\u01b0a VAT) c\u1ee7a \u1ed1ng HDPE 80 DN 32 PN 10 và \u1ed1ng HDPE 80 DN 50 PN 12.5 l\u1ea7n l\u01b0\u1ee3t là bao nhiêu \u0111\u1ed3ng/m?
+2025-11-12 06:10:59,228 [INFO] [QA-DEBUG] chosen=['B'] | scores_norm=[A=0.62, B=1.00, C=0.62, D=0.00]
+2025-11-12 06:10:59,228 [INFO]    Option A score=0.9427
+2025-11-12 06:10:59,228 [INFO]    Option B score=0.9434
+2025-11-12 06:10:59,228 [INFO]    Option C score=0.9427
+2025-11-12 06:10:59,228 [INFO]    Option D score=0.9415
+2025-11-12 06:10:59,230 [INFO]    => chosen: ['B']
+2025-11-12 06:10:59,231 [INFO] [QA] Q37: Trong s\u1ed1 hóa 3D, thu\u1ed9c tính “Identifier” (\u0111\u1ecbnh danh) dùng \u0111\u1ec3 làm gì?
+2025-11-12 06:12:56,260 [INFO] [QA-DEBUG] chosen=['D'] | scores_norm=[A=0.48, B=0.00, C=0.63, D=1.00]
+2025-11-12 06:12:56,260 [INFO]    Option A score=0.9160
+2025-11-12 06:12:56,261 [INFO]    Option B score=0.9147
+2025-11-12 06:12:56,261 [INFO]    Option C score=0.9164
+2025-11-12 06:12:56,261 [INFO]    Option D score=0.9173
+2025-11-12 06:12:56,261 [INFO]    => chosen: ['D']
+2025-11-12 06:12:56,264 [INFO] [QA] Q38: Theo Public 449, khi ki\u1ec3m th\u1eed transaction, log h\u1ec7 th\u1ed1ng c\u1ea7n l\u01b0u thông tin nào tr\u01b0\u1edbc tiên?
+2025-11-12 06:14:37,335 [INFO] [QA-DEBUG] chosen=['D'] | scores_norm=[A=0.00, B=0.75, C=0.38, D=1.00]
+2025-11-12 06:14:37,335 [INFO]    Option A score=0.9128
+2025-11-12 06:14:37,335 [INFO]    Option B score=0.9257
+2025-11-12 06:14:37,335 [INFO]    Option C score=0.9194
+2025-11-12 06:14:37,341 [INFO]    Option D score=0.9300
+2025-11-12 06:14:37,341 [INFO]    => chosen: ['D']
+2025-11-12 06:14:37,342 [INFO] [QA] Q39: Theo c\u1ea5u trúc b\u1ea3ng giá trong TD641, các c\u1ed9t thông tin chính g\u1ed3m nh\u1eefng m\u1ee5c nào?
+2025-11-12 06:16:31,331 [INFO] [QA-DEBUG] chosen=['D'] | scores_norm=[A=0.00, B=0.72, C=0.75, D=1.00]
+2025-11-12 06:16:31,333 [INFO]    Option A score=0.9156
+2025-11-12 06:16:31,333 [INFO]    Option B score=0.9165
+2025-11-12 06:16:31,333 [INFO]    Option C score=0.9165
+2025-11-12 06:16:31,333 [INFO]    Option D score=0.9168
+2025-11-12 06:16:31,333 [INFO]    => chosen: ['D']
+2025-11-12 06:16:31,335 [INFO] [QA] Q40: B\u1ed9 \u0111\u1ebfm s\u1ed1 l\u1ea7n s\u1ea3n xu\u1ea5t (Prod. Counter) hi\u1ec3n th\u1ecb các giá tr\u1ecb nào?
+2025-11-12 06:18:23,422 [INFO] [QA-DEBUG] chosen=['B'] | scores_norm=[A=0.00, B=1.00, C=0.43, D=0.60]
+2025-11-12 06:18:23,422 [INFO]    Option A score=0.9182
+2025-11-12 06:18:23,426 [INFO]    Option B score=0.9221
+2025-11-12 06:18:23,426 [INFO]    Option C score=0.9199
+2025-11-12 06:18:23,426 [INFO]    Option D score=0.9206
+2025-11-12 06:18:23,426 [INFO]    => chosen: ['B']
+2025-11-12 06:18:23,428 [INFO] [QA] Q41: Giá bán t\u1ea1i m\u1ecf c\u1ee7a “Cát trát” thu\u1ed9c m\u1ecf cát s\u1ecfi Kéo Thin, xã B\u1ea1ch \u0110\u1eb1ng là bao nhiêu \u0111\u1ed3ng/m³?
+2025-11-12 06:20:15,581 [INFO] [QA-DEBUG] chosen=['A'] | scores_norm=[A=1.00, B=0.28, C=0.00, D=0.83]
+2025-11-12 06:20:15,581 [INFO]    Option A score=0.9410
+2025-11-12 06:20:15,581 [INFO]    Option B score=0.9405
+2025-11-12 06:20:15,581 [INFO]    Option C score=0.9404
+2025-11-12 06:20:15,581 [INFO]    Option D score=0.9409
+2025-11-12 06:20:15,581 [INFO]    => chosen: ['A']
+2025-11-12 06:20:15,585 [INFO] [QA] Q42: Trong tài li\u1ec7u Public_642, t\u1ed5ng c\u1ed9ng có bao nhiêu lo\u1ea1i “Mô t\u01a1” \u0111\u01b0\u1ee3c li\u1ec7t kê trong b\u1ea3ng giá?
+2025-11-12 06:22:09,268 [INFO] [QA-DEBUG] chosen=['C'] | scores_norm=[A=0.00, B=0.48, C=1.00, D=0.51]
+2025-11-12 06:22:09,270 [INFO]    Option A score=0.9134
+2025-11-12 06:22:09,270 [INFO]    Option B score=0.9135
+2025-11-12 06:22:09,270 [INFO]    Option C score=0.9135
+2025-11-12 06:22:09,270 [INFO]    Option D score=0.9135
+2025-11-12 06:22:09,270 [INFO]    => chosen: ['C']
+2025-11-12 06:22:09,272 [INFO] [QA] Q43: Mi\u1ec7ng thoát khí th\u1ea3i c\u1ee7a \u1ed1ng x\u1ea3 trên xe \u0111\u01b0\u1ee3c phép h\u01b0\u1edbng theo h\u01b0\u1edbng nào?
+2025-11-12 06:24:04,894 [INFO] [QA-DEBUG] chosen=['B'] | scores_norm=[A=0.68, B=1.00, C=0.00, D=0.87]
+2025-11-12 06:24:04,894 [INFO]    Option A score=0.9246
+2025-11-12 06:24:04,896 [INFO]    Option B score=0.9252
+2025-11-12 06:24:04,896 [INFO]    Option C score=0.9234
+2025-11-12 06:24:04,897 [INFO]    Option D score=0.9250
+2025-11-12 06:24:04,897 [INFO]    => chosen: ['B']
+2025-11-12 06:24:04,899 [INFO] [QA] Q44: Trong b\u1ea3ng giá v\u1eadt li\u1ec7u TD637, nh\u1ef1a \u0111\u01b0\u1eddng \u0111\u01b0\u1ee3c li\u1ec7t kê v\u1edbi t\u1ed5ng c\u1ed9ng bao nhiêu lo\u1ea1i?
+2025-11-12 06:25:20,090 [INFO] [QA-DEBUG] chosen=['B'] | scores_norm=[A=0.03, B=1.00, C=0.45, D=0.00]
+2025-11-12 06:25:20,090 [INFO]    Option A score=0.9592
+2025-11-12 06:25:20,090 [INFO]    Option B score=0.9594
+2025-11-12 06:25:20,090 [INFO]    Option C score=0.9593
+2025-11-12 06:25:20,092 [INFO]    Option D score=0.9592
+2025-11-12 06:25:20,092 [INFO]    => chosen: ['B']
+2025-11-12 06:25:20,094 [INFO] [QA] Q45: Windows 1.0 và Windows 2.0 ra m\u1eaft n\u0103m nào?
+2025-11-12 06:26:18,539 [INFO] [QA-DEBUG] chosen=['B'] | scores_norm=[A=0.68, B=1.00, C=0.03, D=0.00]
+2025-11-12 06:26:18,539 [INFO]    Option A score=0.8858
+2025-11-12 06:26:18,539 [INFO]    Option B score=0.8875
+2025-11-12 06:26:18,541 [INFO]    Option C score=0.8825
+2025-11-12 06:26:18,541 [INFO]    Option D score=0.8823
+2025-11-12 06:26:18,541 [INFO]    => chosen: ['B']
+2025-11-12 06:26:18,541 [INFO] [QA] Q46: Trong tài li\u1ec7u Public_448, ph\u01b0\u01a1ng th\u1ee9c nào c\u1ee7a API /network/qos/monitor có ch\u1ee9c n\u0103ng Export d\u1eef li\u1ec7u?
+2025-11-12 06:27:36,634 [INFO] [QA-DEBUG] chosen=['D'] | scores_norm=[A=0.00, B=0.48, C=0.28, D=1.00]
+2025-11-12 06:27:36,634 [INFO]    Option A score=0.9239
+2025-11-12 06:27:36,634 [INFO]    Option B score=0.9248
+2025-11-12 06:27:36,634 [INFO]    Option C score=0.9244
+2025-11-12 06:27:36,636 [INFO]    Option D score=0.9257
+2025-11-12 06:27:36,636 [INFO]    => chosen: ['D']
+2025-11-12 06:27:36,636 [INFO] [QA] Q47: Trong ph\u1ea7n “Các lo\u1ea1i \u0111èn \u0111i\u1ec7n và thi\u1ebft b\u1ecb dùng \u0111i\u1ec7n”, t\u1ed5ng c\u1ed9ng có bao nhiêu lo\u1ea1i \u0111\u01b0\u1ee3c li\u1ec7t kê?
+2025-11-12 06:29:33,508 [INFO] [QA-DEBUG] chosen=['A', 'D'] | scores_norm=[A=0.91, B=0.89, C=0.00, D=1.00]
+2025-11-12 06:29:33,508 [INFO]    Option A score=0.9137
+2025-11-12 06:29:33,508 [INFO]    Option B score=0.9137
+2025-11-12 06:29:33,508 [INFO]    Option C score=0.9136
+2025-11-12 06:29:33,508 [INFO]    Option D score=0.9137
+2025-11-12 06:29:33,508 [INFO]    => chosen: ['A', 'D']
+2025-11-12 06:29:33,511 [INFO] [QA] Q48: Trong BCCS2, mã BCCS2_SALE_HOPDONG \u0111\u01b0\u1ee3c mô t\u1ea3 là ch\u1ee9c n\u0103ng gì?
+2025-11-12 06:31:19,226 [INFO] [QA-DEBUG] chosen=['B'] | scores_norm=[A=0.00, B=1.00, C=0.58, D=0.11]
+2025-11-12 06:31:19,226 [INFO]    Option A score=0.8868
+2025-11-12 06:31:19,226 [INFO]    Option B score=0.9005
+2025-11-12 06:31:19,226 [INFO]    Option C score=0.8947
+2025-11-12 06:31:19,226 [INFO]    Option D score=0.8882
+2025-11-12 06:31:19,228 [INFO]    => chosen: ['B']
+2025-11-12 06:31:19,228 [INFO] [QA] Q49: Trong ph\u1ea7n “Ký hi\u1ec7u c\u1eeda \u0111i”, có t\u1ed5ng c\u1ed9ng bao nhiêu lo\u1ea1i c\u1eeda khác nhau \u0111\u01b0\u1ee3c li\u1ec7t kê?
+2025-11-12 06:33:14,769 [INFO] [QA-DEBUG] chosen=['C'] | scores_norm=[A=0.47, B=0.00, C=1.00, D=0.77]
+2025-11-12 06:33:14,769 [INFO]    Option A score=0.9210
+2025-11-12 06:33:14,769 [INFO]    Option B score=0.9209
+2025-11-12 06:33:14,769 [INFO]    Option C score=0.9211
+2025-11-12 06:33:14,769 [INFO]    Option D score=0.9211
+2025-11-12 06:33:14,773 [INFO]    => chosen: ['C']
+2025-11-12 06:33:14,774 [INFO] [QA] Q50: Mã ch\u1ee9c n\u0103ng BCCS2_SALE_CONGNO th\u1ec3 hi\u1ec7n nghi\u1ec7p v\u1ee5 gì? Và \u0111\u01a1n v\u1ecb nào là ph\u1ee5 trách chính ch\u1ee9c n\u0103ng này?
+2025-11-12 06:34:27,062 [INFO] [QA-DEBUG] chosen=['A'] | scores_norm=[A=1.00, B=0.00, C=0.53, D=0.16]
+2025-11-12 06:34:27,064 [INFO]    Option A score=0.8990
+2025-11-12 06:34:27,064 [INFO]    Option B score=0.8873
+2025-11-12 06:34:27,064 [INFO]    Option C score=0.8935
+2025-11-12 06:34:27,064 [INFO]    Option D score=0.8892
+2025-11-12 06:34:27,066 [INFO]    => chosen: ['A']
+2025-11-12 06:34:27,066 [INFO] [QA] Q51: Trong TD647, có t\u1ed5ng c\u1ed9ng bao nhiêu lo\u1ea1i "V\u1eacT LI\u1ec6U H\u1ea0 T\u1ea6NG C\u01a0 S\u1ede" \u0111\u01b0\u1ee3c li\u1ec7t kê trong b\u1ea3ng
+2025-11-12 06:34:44,157 [INFO] [QA-DEBUG] chosen=['A', 'D'] | scores_norm=[A=0.95, B=0.00, C=0.45, D=1.00]
+2025-11-12 06:34:44,157 [INFO]    Option A score=0.9328
+2025-11-12 06:34:44,157 [INFO]    Option B score=0.8572
+2025-11-12 06:34:44,157 [INFO]    Option C score=0.8928
+2025-11-12 06:34:44,159 [INFO]    Option D score=0.9365
+2025-11-12 06:34:44,159 [INFO]    => chosen: ['A', 'D']
+2025-11-12 06:34:44,160 [INFO] [QA] Q52: Giá bán (ch\u01b0a VAT) c\u1ee7a “C\u1eeda 2 cánh li\u1ec1n vách (thanh nhôm vách dày 1,5mm)” trong TD642 là bao nhiêu \u0111\u1ed3ng/m²?
+2025-11-12 06:36:38,339 [INFO] [QA-DEBUG] chosen=['A'] | scores_norm=[A=1.00, B=0.57, C=0.75, D=0.00]
+2025-11-12 06:36:38,341 [INFO]    Option A score=0.9380
+2025-11-12 06:36:38,341 [INFO]    Option B score=0.9378
+2025-11-12 06:36:38,341 [INFO]    Option C score=0.9379
+2025-11-12 06:36:38,341 [INFO]    Option D score=0.9377
+2025-11-12 06:36:38,341 [INFO]    => chosen: ['A']
+2025-11-12 06:36:38,343 [INFO] [QA] Q53: Trong TD649, có t\u1ed5ng c\u1ed9ng bao nhiêu tên m\u1eb7t hàng có Mã s\u1ed1 theo bi\u1ec3u thu\u1ebf nh\u1eadp kh\u1ea9u theo nhóm 6902?
+2025-11-12 06:37:46,658 [INFO] [QA-DEBUG] chosen=['B'] | scores_norm=[A=0.28, B=1.00, C=0.00, D=0.31]
+2025-11-12 06:37:46,658 [INFO]    Option A score=0.9350
+2025-11-12 06:37:46,658 [INFO]    Option B score=0.9351
+2025-11-12 06:37:46,658 [INFO]    Option C score=0.9349
+2025-11-12 06:37:46,661 [INFO]    Option D score=0.9350
+2025-11-12 06:37:46,661 [INFO]    => chosen: ['B']
+2025-11-12 06:37:46,662 [INFO] [QA] Q54: Các giai \u0111o\u1ea1n chính c\u1ee7a quá trình s\u1ed1 hóa 3D, t\u1eeb thu th\u1eadp d\u1eef li\u1ec7u \u0111\u1ebfn t\u1ea1o mô hình, bao g\u1ed3m nh\u1eefng b\u01b0\u1edbc nào?
+2025-11-12 06:39:38,578 [INFO] [QA-DEBUG] chosen=['C'] | scores_norm=[A=0.00, B=0.64, C=1.00, D=0.79]
+2025-11-12 06:39:38,578 [INFO]    Option A score=0.9237
+2025-11-12 06:39:38,578 [INFO]    Option B score=0.9240
+2025-11-12 06:39:38,580 [INFO]    Option C score=0.9242
+2025-11-12 06:39:38,580 [INFO]    Option D score=0.9241
+2025-11-12 06:39:38,580 [INFO]    => chosen: ['C']
+2025-11-12 06:39:38,580 [INFO] [QA] Q55: C\u1ea7u dao 1 pha có nh\u1eefng d\u1ea1ng nào và c\u1ea7u dao 3 pha có nh\u1eefng d\u1ea1ng nào?
+2025-11-12 06:41:29,755 [INFO] [QA-DEBUG] chosen=['D'] | scores_norm=[A=0.65, B=0.00, C=0.04, D=1.00]
+2025-11-12 06:41:29,755 [INFO]    Option A score=0.9019
+2025-11-12 06:41:29,755 [INFO]    Option B score=0.8999
+2025-11-12 06:41:29,755 [INFO]    Option C score=0.9000
+2025-11-12 06:41:29,757 [INFO]    Option D score=0.9029
+2025-11-12 06:41:29,758 [INFO]    => chosen: ['D']
+2025-11-12 06:41:29,759 [INFO] [QA] Q56: V\u0103n b\u1ea3n này ch\u1ee7 y\u1ebfu nói v\u1ec1 n\u1ed9i dung gì?
+2025-11-12 06:42:44,807 [INFO] [QA-DEBUG] chosen=['B'] | scores_norm=[A=0.00, B=1.00, C=0.52, D=0.81]
+2025-11-12 06:42:44,807 [INFO]    Option A score=0.9166
+2025-11-12 06:42:44,807 [INFO]    Option B score=0.9363
+2025-11-12 06:42:44,807 [INFO]    Option C score=0.9268
+2025-11-12 06:42:44,807 [INFO]    Option D score=0.9325
+2025-11-12 06:42:44,809 [INFO]    => chosen: ['B']
+2025-11-12 06:42:44,810 [INFO] [QA] Q57: Theo c\u1ea5u trúc b\u1ea3ng giá trong TD645, các c\u1ed9t thông tin chính g\u1ed3m nh\u1eefng m\u1ee5c nào?
+2025-11-12 06:44:39,529 [INFO] [QA-DEBUG] chosen=['D'] | scores_norm=[A=0.00, B=0.78, C=0.59, D=1.00]
+2025-11-12 06:44:39,529 [INFO]    Option A score=0.9163
+2025-11-12 06:44:39,529 [INFO]    Option B score=0.9196
+2025-11-12 06:44:39,529 [INFO]    Option C score=0.9188
+2025-11-12 06:44:39,533 [INFO]    Option D score=0.9205
+2025-11-12 06:44:39,533 [INFO]    => chosen: ['D']
+2025-11-12 06:44:39,534 [INFO] [QA] Q58: H\u1ec7 th\u1ed1ng vCOC trong v\u0103n b\u1ea3n \u0111\u01b0\u1ee3c mô t\u1ea3 là công c\u1ee5 gì?
+2025-11-12 06:45:57,606 [INFO] [QA-DEBUG] chosen=['D'] | scores_norm=[A=0.76, B=0.00, C=0.75, D=1.00]
+2025-11-12 06:45:57,606 [INFO]    Option A score=0.9283
+2025-11-12 06:45:57,606 [INFO]    Option B score=0.9264
+2025-11-12 06:45:57,606 [INFO]    Option C score=0.9282
+2025-11-12 06:45:57,612 [INFO]    Option D score=0.9289
+2025-11-12 06:45:57,612 [INFO]    => chosen: ['D']
+2025-11-12 06:45:57,612 [INFO] [QA] Q59: C\u1ed5ng nào có th\u1ec3 k\u1ebft n\u1ed1i thi\u1ebft b\u1ecb USB, truy\u1ec1n d\u1eef li\u1ec7u t\u1ed1c \u0111\u1ed9 cao và s\u1ea1c thi\u1ebft b\u1ecb nh\u1ecf ngay c\u1ea3 khi máy tính \u0111ã t\u1eaft?
+2025-11-12 06:47:52,448 [INFO] [QA-DEBUG] chosen=['B'] | scores_norm=[A=0.77, B=1.00, C=0.09, D=0.00]
+2025-11-12 06:47:52,448 [INFO]    Option A score=0.9292
+2025-11-12 06:47:52,448 [INFO]    Option B score=0.9299
+2025-11-12 06:47:52,448 [INFO]    Option C score=0.9272
+2025-11-12 06:47:52,451 [INFO]    Option D score=0.9270
+2025-11-12 06:47:52,451 [INFO]    => chosen: ['B']
+2025-11-12 06:47:52,451 [INFO] [QA] Q60: Theo c\u1ea5u trúc b\u1ea3ng trong TD647, các c\u1ed9t thông tin chính g\u1ed3m nh\u1eefng m\u1ee5c nào?
+2025-11-12 06:49:48,424 [INFO] [QA-DEBUG] chosen=['A'] | scores_norm=[A=1.00, B=0.25, C=0.00, D=0.20]
+2025-11-12 06:49:48,426 [INFO]    Option A score=0.9188
+2025-11-12 06:49:48,426 [INFO]    Option B score=0.9166
+2025-11-12 06:49:48,426 [INFO]    Option C score=0.9159
+2025-11-12 06:49:48,428 [INFO]    Option D score=0.9164
+2025-11-12 06:49:48,428 [INFO]    => chosen: ['A']
+2025-11-12 06:49:48,428 [INFO] [QA] Q61: Ký hi\u1ec7u Aptomat 3 pha thu\u1ed9c nhóm thi\u1ebft b\u1ecb nào?
+2025-11-12 07:07:07,243 [INFO] [QA-DEBUG] chosen=['C'] | scores_norm=[A=0.00, B=0.31, C=1.00, D=0.62]
+2025-11-12 07:07:07,246 [INFO]    Option A score=0.9180
+2025-11-12 07:07:07,247 [INFO]    Option B score=0.9210
+2025-11-12 07:07:07,247 [INFO]    Option C score=0.9277
+2025-11-12 07:07:07,247 [INFO]    Option D score=0.9241
+2025-11-12 07:07:07,247 [INFO]    => chosen: ['C']
+2025-11-12 07:07:07,260 [INFO] [QA] Q62: Home to Closed Position Only có ý ngh\u0129a gì và Max Stroke có ý ngh\u0129a gì?
+2025-11-12 07:08:16,814 [INFO] [QA-DEBUG] chosen=['B'] | scores_norm=[A=0.82, B=1.00, C=0.84, D=0.00]
+2025-11-12 07:08:16,815 [INFO]    Option A score=0.8842
+2025-11-12 07:08:16,815 [INFO]    Option B score=0.8854
+2025-11-12 07:08:16,815 [INFO]    Option C score=0.8843
+2025-11-12 07:08:16,816 [INFO]    Option D score=0.8789
+2025-11-12 07:08:16,816 [INFO]    => chosen: ['B']
+2025-11-12 07:08:16,817 [INFO] [QA] Q63: Trong TD643, có t\u1ed5ng c\u1ed9ng bao nhiêu lo\u1ea1i s\u01a1n thu\u1ed9c nhóm "S\u01a0N KOVA)
+2025-11-12 07:09:00,338 [INFO] [QA-DEBUG] chosen=['B'] | scores_norm=[A=0.37, B=1.00, C=0.48, D=0.00]
+2025-11-12 07:09:00,340 [INFO]    Option A score=0.9342
+2025-11-12 07:09:00,340 [INFO]    Option B score=0.9355
+2025-11-12 07:09:00,340 [INFO]    Option C score=0.9344
+2025-11-12 07:09:00,340 [INFO]    Option D score=0.9334
+2025-11-12 07:09:00,340 [INFO]    => chosen: ['B']
+2025-11-12 07:09:00,342 [INFO] [QA] Q64: Airbus A321 th\u01b0\u1eddng \u0111\u01b0\u1ee3c \u1ee9ng d\u1ee5ng cho các tuy\u1ebfn bay nào?
+2025-11-12 07:10:05,348 [INFO] [QA-DEBUG] chosen=['D'] | scores_norm=[A=0.61, B=0.59, C=0.00, D=1.00]
+2025-11-12 07:10:05,348 [INFO]    Option A score=0.9189
+2025-11-12 07:10:05,348 [INFO]    Option B score=0.9188
+2025-11-12 07:10:05,348 [INFO]    Option C score=0.9170
+2025-11-12 07:10:05,348 [INFO]    Option D score=0.9201
+2025-11-12 07:10:05,348 [INFO]    => chosen: ['D']
+2025-11-12 07:10:05,350 [INFO] [QA] Q65: Y\u1ebfu t\u1ed1 quan tr\u1ecdng nào c\u1ea7n kh\u1ea3o sát tr\u01b0\u1edbc khi l\u1eafp \u0111\u1eb7t h\u1ec7 th\u1ed1ng \u0111i\u1ec7n m\u1eb7t tr\u1eddi?
+2025-11-12 07:11:10,030 [INFO] [QA-DEBUG] chosen=['B'] | scores_norm=[A=0.17, B=1.00, C=0.00, D=0.60]
+2025-11-12 07:11:10,031 [INFO]    Option A score=0.9083
+2025-11-12 07:11:10,031 [INFO]    Option B score=0.9103
+2025-11-12 07:11:10,031 [INFO]    Option C score=0.9079
+2025-11-12 07:11:10,031 [INFO]    Option D score=0.9094
+2025-11-12 07:11:10,031 [INFO]    => chosen: ['B']
+2025-11-12 07:11:10,031 [INFO] [QA] Q66: Hai hãng s\u1ea3n xu\u1ea5t CPU n\u1ed5i ti\u1ebfng nh\u1ea5t th\u1ebf gi\u1edbi hi\u1ec7n nay là gì?
+2025-11-12 07:12:22,110 [INFO] [QA-DEBUG] chosen=['D'] | scores_norm=[A=0.18, B=0.00, C=0.40, D=1.00]
+2025-11-12 07:12:22,110 [INFO]    Option A score=0.9084
+2025-11-12 07:12:22,110 [INFO]    Option B score=0.9079
+2025-11-12 07:12:22,110 [INFO]    Option C score=0.9089
+2025-11-12 07:12:22,110 [INFO]    Option D score=0.9105
+2025-11-12 07:12:22,110 [INFO]    => chosen: ['D']
+2025-11-12 07:12:22,110 [INFO] [QA] Q67: “Thi\u1ebft b\u1ecb \u0111\u1ea7u cu\u1ed1i ADSL có \u0111\u1ecbnh tuy\u1ebfn và thu phát vô tuy\u1ebfn s\u1eed d\u1ee5ng k\u1ef9 thu\u1eadt \u0111i\u1ec1u ch\u1ebf tr\u1ea3i ph\u1ed5 trong b\u0103ng t\u1ea7n 2,4 GHz (iGate AW300N)” trong TD650 có Mã s\u1ed1 theo bi\u1ec3u thu\u1ebf nh\u1eadp kh\u1ea9u theo nhóm nào?
+2025-11-12 07:13:15,933 [INFO] [QA-DEBUG] chosen=['B'] | scores_norm=[A=0.62, B=1.00, C=0.00, D=0.02]
+2025-11-12 07:13:15,933 [INFO]    Option A score=0.8970
+2025-11-12 07:13:15,933 [INFO]    Option B score=0.8970
+2025-11-12 07:13:15,933 [INFO]    Option C score=0.8969
+2025-11-12 07:13:15,933 [INFO]    Option D score=0.8969
+2025-11-12 07:13:15,933 [INFO]    => chosen: ['B']
+2025-11-12 07:13:15,933 [INFO] [QA] Q68: Trong tài li\u1ec7u Public_651, có t\u1ed5ng c\u1ed9ng bao nhiêu b\u1ed9 ph\u1eadn c\u01a1 b\u1ea3n c\u1ee7a máy tính \u0111\u01b0\u1ee3c li\u1ec7t kê?
+2025-11-12 07:14:14,425 [INFO] [QA-DEBUG] chosen=['C'] | scores_norm=[A=0.50, B=0.00, C=1.00, D=0.59]
+2025-11-12 07:14:14,425 [INFO]    Option A score=0.8992
+2025-11-12 07:14:14,425 [INFO]    Option B score=0.8987
+2025-11-12 07:14:14,425 [INFO]    Option C score=0.8996
+2025-11-12 07:14:14,425 [INFO]    Option D score=0.8992
+2025-11-12 07:14:14,425 [INFO]    => chosen: ['C']
+2025-11-12 07:14:14,425 [INFO] [QA] Q69: “C\u1ed9t ch\u1ed1ng th\u1ee7y l\u1ef1c \u0111\u01a1n” trong TD648 có Mã s\u1ed1 theo bi\u1ec3u thu\u1ebf nh\u1eadp kh\u1ea9u theo nhóm nào?
+2025-11-12 07:15:05,563 [INFO] [QA-DEBUG] chosen=['B'] | scores_norm=[A=0.33, B=1.00, C=0.00, D=0.35]
+2025-11-12 07:15:05,563 [INFO]    Option A score=0.9432
+2025-11-12 07:15:05,563 [INFO]    Option B score=0.9435
+2025-11-12 07:15:05,563 [INFO]    Option C score=0.9431
+2025-11-12 07:15:05,563 [INFO]    Option D score=0.9433
+2025-11-12 07:15:05,563 [INFO]    => chosen: ['B']
+2025-11-12 07:15:05,563 [INFO] [QA] Q70: Trong Public 445, ch\u1ec9 tiêu SLA c\u1ee7a h\u1ec7 th\u1ed1ng CRM \u0111\u01b0\u1ee3c yêu c\u1ea7u \u0111\u1ea1t m\u1ee9c bao nhiêu ph\u1ea7n tr\u0103m?
+2025-11-12 07:16:14,024 [INFO] [QA-DEBUG] chosen=['A'] | scores_norm=[A=1.00, B=0.86, C=0.00, D=0.15]
+2025-11-12 07:16:14,024 [INFO]    Option A score=0.9268
+2025-11-12 07:16:14,024 [INFO]    Option B score=0.9266
+2025-11-12 07:16:14,024 [INFO]    Option C score=0.9255
+2025-11-12 07:16:14,024 [INFO]    Option D score=0.9257
+2025-11-12 07:16:14,024 [INFO]    => chosen: ['A']
+2025-11-12 07:16:14,024 [INFO] [QA] Q71: Trong b\u1ea3ng ký hi\u1ec7u c\u1ee7a tài li\u1ec7u Public_671, t\u1ed5ng c\u1ed9ng có bao nhiêu ph\u1ea7n t\u1eed \u0111i\u1ec7n \u0111\u01b0\u1ee3c li\u1ec7t kê?
+2025-11-12 07:17:33,955 [INFO] [QA-DEBUG] chosen=['B'] | scores_norm=[A=0.50, B=1.00, C=0.84, D=0.00]
+2025-11-12 07:17:33,966 [INFO]    Option A score=0.9231
+2025-11-12 07:17:33,966 [INFO]    Option B score=0.9232
+2025-11-12 07:17:33,966 [INFO]    Option C score=0.9232
+2025-11-12 07:17:33,966 [INFO]    Option D score=0.9230
+2025-11-12 07:17:33,966 [INFO]    => chosen: ['B']
+2025-11-12 07:17:33,966 [INFO] [QA] Q72: Có bao nhiêu c\u1ea5p \u0111\u01b0\u1eddng \u0111ô th\u1ecb chính \u0111\u01b0\u1ee3c li\u1ec7t kê trong B\u1ea3ng 4.4 c\u1ee7a tiêu chu\u1ea9n này?
+2025-11-12 07:18:53,520 [INFO] [QA-DEBUG] chosen=['D'] | scores_norm=[A=0.00, B=0.18, C=0.41, D=1.00]
+2025-11-12 07:18:53,520 [INFO]    Option A score=0.9223
+2025-11-12 07:18:53,520 [INFO]    Option B score=0.9224
+2025-11-12 07:18:53,520 [INFO]    Option C score=0.9225
+2025-11-12 07:18:53,520 [INFO]    Option D score=0.9228
+2025-11-12 07:18:53,520 [INFO]    => chosen: ['D']
+2025-11-12 07:18:53,526 [INFO] [QA] Q73: Trong TD640, t\u1ed5ng c\u1ed9ng có bao nhiêu lo\u1ea1i \u1ed1ng nh\u1ef1a HDPE PE100 \u0111\u01b0\u1ee3c li\u1ec7t kê trong b\u1ea3ng giá?
+2025-11-12 07:20:08,089 [INFO] [QA-DEBUG] chosen=['C'] | scores_norm=[A=0.00, B=0.26, C=1.00, D=0.26]
+2025-11-12 07:20:08,089 [INFO]    Option A score=0.9111
+2025-11-12 07:20:08,089 [INFO]    Option B score=0.9112
+2025-11-12 07:20:08,089 [INFO]    Option C score=0.9118
+2025-11-12 07:20:08,100 [INFO]    Option D score=0.9113
+2025-11-12 07:20:08,100 [INFO]    => chosen: ['C']
+2025-11-12 07:20:08,100 [INFO] [QA] Q74: \u0110\u1ea7u dò Convex (PVT-375BT) và \u0111\u1ea7u dò Sector (PST-30BT) l\u1ea7n l\u01b0\u1ee3t \u0111\u01b0\u1ee3c s\u1eed d\u1ee5ng cho các \u1ee9ng d\u1ee5ng nào?
+2025-11-12 07:21:26,743 [INFO] [QA-DEBUG] chosen=['D'] | scores_norm=[A=0.00, B=0.48, C=0.30, D=1.00]
+2025-11-12 07:21:26,743 [INFO]    Option A score=0.8954
+2025-11-12 07:21:26,744 [INFO]    Option B score=0.8969
+2025-11-12 07:21:26,744 [INFO]    Option C score=0.8964
+2025-11-12 07:21:26,744 [INFO]    Option D score=0.8985
+2025-11-12 07:21:26,744 [INFO]    => chosen: ['D']
+2025-11-12 07:21:26,745 [INFO] [QA] Q75: Trong Public 449, \u0111i\u1ec1u ki\u1ec7n nào \u0111\u01b0\u1ee3c xem là b\u1eaft bu\u1ed9c \u0111\u1ec3 d\u1eef li\u1ec7u m\u1edbi \u0111\u01b0\u1ee3c ch\u1ea5p nh\u1eadn?
+2025-11-12 07:22:41,283 [INFO] [QA-DEBUG] chosen=['D'] | scores_norm=[A=0.00, B=0.28, C=0.56, D=1.00]
+2025-11-12 07:22:41,283 [INFO]    Option A score=0.9338
+2025-11-12 07:22:41,283 [INFO]    Option B score=0.9355
+2025-11-12 07:22:41,283 [INFO]    Option C score=0.9373
+2025-11-12 07:22:41,283 [INFO]    Option D score=0.9400
+2025-11-12 07:22:41,283 [INFO]    => chosen: ['D']
+2025-11-12 07:22:41,283 [INFO] [QA] Q76: D\u1ef1a vào tài li\u1ec7u, có bao nhiêu tr\u1ea1ng thái khác nhau c\u1ee7a máy in \u0111\u01b0\u1ee3c mô t\u1ea3 (READY, PRINTING, WARMING UP, COOLING DOWN, SLEEP, DEEP SLEEP, RECEIVING DATA, DATA REMAINING)?
+2025-11-12 07:24:02,827 [INFO] [QA-DEBUG] chosen=['A'] | scores_norm=[A=1.00, B=0.20, C=0.00, D=0.32]
+2025-11-12 07:24:02,827 [INFO]    Option A score=0.8987
+2025-11-12 07:24:02,827 [INFO]    Option B score=0.8984
+2025-11-12 07:24:02,827 [INFO]    Option C score=0.8984
+2025-11-12 07:24:02,827 [INFO]    Option D score=0.8985
+2025-11-12 07:24:02,827 [INFO]    => chosen: ['A']
+2025-11-12 07:24:02,827 [INFO] [QA] Q77: Trên màn hình cài \u0111\u1eb7t c\u1eeda van, các tab \u1edf \u0111\u1ea7u màn hình cho phép làm gì?
+2025-11-12 07:25:22,203 [INFO] [QA-DEBUG] chosen=['C', 'D'] | scores_norm=[A=0.23, B=0.00, C=1.00, D=0.92]
+2025-11-12 07:25:22,203 [INFO]    Option A score=0.9341
+2025-11-12 07:25:22,203 [INFO]    Option B score=0.9330
+2025-11-12 07:25:22,203 [INFO]    Option C score=0.9379
+2025-11-12 07:25:22,203 [INFO]    Option D score=0.9375
+2025-11-12 07:25:22,203 [INFO]    => chosen: ['C', 'D']
+2025-11-12 07:25:22,203 [INFO] [QA] Q78: Tiêu chu\u1ea9n này quy \u0111\u1ecbnh ký hi\u1ec7u quy \u01b0\u1edbc cho nh\u1eefng b\u1ed9 ph\u1eadn nào c\u1ee7a ngôi nhà?
+2025-11-12 07:26:41,007 [INFO] [QA-DEBUG] chosen=['C'] | scores_norm=[A=0.50, B=0.67, C=1.00, D=0.00]
+2025-11-12 07:26:41,007 [INFO]    Option A score=0.9329
+2025-11-12 07:26:41,007 [INFO]    Option B score=0.9335
+2025-11-12 07:26:41,007 [INFO]    Option C score=0.9346
+2025-11-12 07:26:41,023 [INFO]    Option D score=0.9312
+2025-11-12 07:26:41,023 [INFO]    => chosen: ['C']
+2025-11-12 07:26:41,023 [INFO] [QA] Q79: Ký hi\u1ec7u c\u1eeda s\u1ed5 \u0111\u01a1n th\u1ec3 hi\u1ec7n trên m\u1eb7t b\u1eb1ng \u0111\u01b0\u1ee3c v\u1ebd theo t\u1ef7 l\u1ec7 nào, theo quy \u0111\u1ecbnh trong tài li\u1ec7u Public_669?
+2025-11-12 07:28:00,001 [INFO] [QA-DEBUG] chosen=['D'] | scores_norm=[A=0.31, B=0.22, C=0.00, D=1.00]
+2025-11-12 07:28:00,002 [INFO]    Option A score=0.9219
+2025-11-12 07:28:00,002 [INFO]    Option B score=0.9217
+2025-11-12 07:28:00,002 [INFO]    Option C score=0.9213
+2025-11-12 07:28:00,002 [INFO]    Option D score=0.9231
+2025-11-12 07:28:00,002 [INFO]    => chosen: ['D']
+2025-11-12 07:28:00,010 [INFO] [QA] Q80: Trong tài li\u1ec7u Public_659, ý ngh\u0129a c\u1ee7a “Inject pressure” trong m\u1ee5c \u0111i\u1ec1u ki\u1ec7n chuy\u1ec3n ti\u1ebfp là gì và “Cut Off Activation Position” \u0111\u01b0\u1ee3c dùng \u0111\u1ec3 làm gì?
+2025-11-12 07:29:15,704 [INFO] [QA-DEBUG] chosen=['C'] | scores_norm=[A=0.00, B=0.29, C=1.00, D=0.12]
+2025-11-12 07:29:15,704 [INFO]    Option A score=0.9106
+2025-11-12 07:29:15,704 [INFO]    Option B score=0.9118
+2025-11-12 07:29:15,704 [INFO]    Option C score=0.9147
+2025-11-12 07:29:15,704 [INFO]    Option D score=0.9111
+2025-11-12 07:29:15,704 [INFO]    => chosen: ['C']
+2025-11-12 07:29:15,704 [INFO] [QA] Q81: \u01afu \u0111i\u1ec3m n\u1ed5i b\u1eadt c\u1ee7a \u1ed5 c\u1ee9ng SSD so v\u1edbi HDD là gì?
+2025-11-12 07:30:28,416 [INFO] [QA-DEBUG] chosen=['A'] | scores_norm=[A=1.00, B=0.35, C=0.00, D=0.54]
+2025-11-12 07:30:28,416 [INFO]    Option A score=0.9259
+2025-11-12 07:30:28,416 [INFO]    Option B score=0.9231
+2025-11-12 07:30:28,416 [INFO]    Option C score=0.9216
+2025-11-12 07:30:28,416 [INFO]    Option D score=0.9239
+2025-11-12 07:30:28,416 [INFO]    => chosen: ['A']
+2025-11-12 07:30:28,416 [INFO] [QA] Q82: Trong tài li\u1ec7u Public_644, c\u1ea5u trúc b\u1ea3ng giá g\u1ed3m nh\u1eefng c\u1ed9t thông tin chính nào?
+2025-11-12 07:31:44,183 [INFO] [QA-DEBUG] chosen=['C'] | scores_norm=[A=0.00, B=0.83, C=1.00, D=0.88]
+2025-11-12 07:31:44,183 [INFO]    Option A score=0.9131
+2025-11-12 07:31:44,184 [INFO]    Option B score=0.9150
+2025-11-12 07:31:44,184 [INFO]    Option C score=0.9154
+2025-11-12 07:31:44,184 [INFO]    Option D score=0.9151
+2025-11-12 07:31:44,184 [INFO]    => chosen: ['C']
+2025-11-12 07:31:44,184 [INFO] [QA] Q83: Theo tài li\u1ec7u Public_471, sau khi th\u1eed nghi\u1ec7m v\u1edbi n\u01b0\u1edbc, hình \u1ea3nh nhi\u1ec1u màu ph\u1ea3i \u0111\u01b0\u1ee3c \u0111ánh giá theo tiêu chu\u1ea9n nào?
+2025-11-12 07:33:04,487 [INFO] [QA-DEBUG] chosen=['B'] | scores_norm=[A=0.08, B=1.00, C=0.19, D=0.00]
+2025-11-12 07:33:04,487 [INFO]    Option A score=0.9045
+2025-11-12 07:33:04,487 [INFO]    Option B score=0.9059
+2025-11-12 07:33:04,487 [INFO]    Option C score=0.9046
+2025-11-12 07:33:04,487 [INFO]    Option D score=0.9043
+2025-11-12 07:33:04,487 [INFO]    => chosen: ['B']
+2025-11-12 07:33:04,487 [INFO] [QA] Q84: Theo tài li\u1ec7u Public_441, n\u1ebfu h\u1ec7 th\u1ed1ng vCOC không còn theo dõi t\u1ef7 l\u1ec7 hài lòng khách hàng, \u0111i\u1ec1u này s\u1ebd tác \u0111\u1ed9ng nh\u01b0 th\u1ebf nào \u0111\u1ebfn các ch\u1ec9 s\u1ed1 kinh doanh và kh\u1ea3 n\u0103ng ra quy\u1ebft \u0111\u1ecbnh c\u1ee7a doanh nghi\u1ec7p?
+2025-11-12 07:34:21,460 [INFO] [QA-DEBUG] chosen=['C'] | scores_norm=[A=0.94, B=0.78, C=0.00, D=1.00]
+2025-11-12 07:34:21,460 [INFO]    Option A score=0.9176
+2025-11-12 07:34:21,460 [INFO]    Option B score=0.9174
+2025-11-12 07:34:21,460 [INFO]    Option C score=0.9164
+2025-11-12 07:34:21,461 [INFO]    Option D score=0.9176
+2025-11-12 07:34:21,461 [INFO]    => chosen: ['C']
+2025-11-12 07:34:21,461 [INFO] [QA] Q85: Giá bán (ch\u01b0a VAT) c\u1ee7a “Bê tông nh\u1ef1a Carboncor Asphalt - CA 9.5” trong TD644 là bao nhiêu \u0111\u1ed3ng/t\u1ea5n?
+2025-11-12 07:35:40,420 [INFO] [QA-DEBUG] chosen=['B', 'C'] | scores_norm=[A=0.33, B=0.91, C=1.00, D=0.00]
+2025-11-12 07:35:40,420 [INFO]    Option A score=0.9402
+2025-11-12 07:35:40,420 [INFO]    Option B score=0.9407
+2025-11-12 07:35:40,420 [INFO]    Option C score=0.9408
+2025-11-12 07:35:40,420 [INFO]    Option D score=0.9399
+2025-11-12 07:35:40,420 [INFO]    => chosen: ['B', 'C']
+2025-11-12 07:35:40,420 [INFO] [QA] Q86: Giá bán t\u1ea1i thành ph\u1ed1 L\u1ea1ng S\u01a1n c\u1ee7a “Cáp CVV-(3x70mm² +1x35mm²)” và “Cáp CVV-(3x70mm² +1x50mm²)” l\u1ea7n l\u01b0\u1ee3t là bao nhiêu \u0111\u1ed3ng/m?
+2025-11-12 07:36:42,970 [INFO] [QA-DEBUG] chosen=['A', 'C'] | scores_norm=[A=1.00, B=0.02, C=0.91, D=0.00]
+2025-11-12 07:36:42,970 [INFO]    Option A score=0.9326
+2025-11-12 07:36:42,970 [INFO]    Option B score=0.9308
+2025-11-12 07:36:42,970 [INFO]    Option C score=0.9325
+2025-11-12 07:36:42,970 [INFO]    Option D score=0.9307
+2025-11-12 07:36:42,970 [INFO]    => chosen: ['A', 'C']
+2025-11-12 07:36:42,970 [INFO] [QA] Q87: Trong ph\u1ea7n “Ký hi\u1ec7u vách ng\u0103n”, có t\u1ed5ng c\u1ed9ng bao nhiêu lo\u1ea1i vách ng\u0103n \u0111\u01b0\u1ee3c li\u1ec7t kê?
+2025-11-12 07:37:30,445 [INFO] [QA-DEBUG] chosen=['B'] | scores_norm=[A=0.55, B=1.00, C=0.41, D=0.00]
+2025-11-12 07:37:30,445 [INFO]    Option A score=0.9062
+2025-11-12 07:37:30,445 [INFO]    Option B score=0.9065
+2025-11-12 07:37:30,445 [INFO]    Option C score=0.9061
+2025-11-12 07:37:30,445 [INFO]    Option D score=0.9058
+2025-11-12 07:37:30,447 [INFO]    => chosen: ['B']
+2025-11-12 07:37:30,447 [INFO] [QA] Q88: Giá bán (ch\u01b0a VAT) c\u1ee7a \u1ed1ng HDPE 80 DN 20 PN 6 trong TD640 là bao nhiêu \u0111\u1ed3ng/m?
+2025-11-12 07:38:43,680 [INFO] [QA-DEBUG] chosen=['B'] | scores_norm=[A=0.06, B=1.00, C=0.03, D=0.00]
+2025-11-12 07:38:43,680 [INFO]    Option A score=0.9375
+2025-11-12 07:38:43,680 [INFO]    Option B score=0.9378
+2025-11-12 07:38:43,680 [INFO]    Option C score=0.9375
+2025-11-12 07:38:43,680 [INFO]    Option D score=0.9375
+2025-11-12 07:38:43,680 [INFO]    => chosen: ['B']
+2025-11-12 07:38:43,680 [INFO] [QA] Q89: M\u1ee5c \u0111ích chính c\u1ee7a Public 448 là gì?
+2025-11-12 07:40:04,479 [INFO] [QA-DEBUG] chosen=['B', 'D'] | scores_norm=[A=0.00, B=0.92, C=0.16, D=1.00]
+2025-11-12 07:40:04,479 [INFO]    Option A score=0.8928
+2025-11-12 07:40:04,479 [INFO]    Option B score=0.9060
+2025-11-12 07:40:04,479 [INFO]    Option C score=0.8951
+2025-11-12 07:40:04,479 [INFO]    Option D score=0.9071
+2025-11-12 07:40:04,479 [INFO]    => chosen: ['B', 'D']
+2025-11-12 07:40:04,479 [INFO] [QA] Q90: Có th\u1ec3 \u0111\u1eb7t ch\u1ebf \u0111\u1ed9 hi\u1ec3n th\u1ecb bi\u1ec3u \u0111\u1ed3 s\u1ea3n xu\u1ea5t theo nh\u1eefng d\u1ea1ng nào?
+2025-11-12 07:41:20,527 [INFO] [QA-DEBUG] chosen=['D'] | scores_norm=[A=0.28, B=0.60, C=0.00, D=1.00]
+2025-11-12 07:41:20,527 [INFO]    Option A score=0.9247
+2025-11-12 07:41:20,527 [INFO]    Option B score=0.9254
+2025-11-12 07:41:20,527 [INFO]    Option C score=0.9240
+2025-11-12 07:41:20,527 [INFO]    Option D score=0.9263
+2025-11-12 07:41:20,527 [INFO]    => chosen: ['D']
+2025-11-12 07:41:20,534 [INFO] [QA] Q91: Tài li\u1ec7u Public_665 mô t\u1ea3 ch\u1ee7 y\u1ebfu v\u1ec1 n\u1ed9i dung gì?
+2025-11-12 07:42:21,152 [INFO] [QA-DEBUG] chosen=['B'] | scores_norm=[A=0.54, B=1.00, C=0.13, D=0.00]
+2025-11-12 07:42:21,152 [INFO]    Option A score=0.9179
+2025-11-12 07:42:21,152 [INFO]    Option B score=0.9223
+2025-11-12 07:42:21,152 [INFO]    Option C score=0.9139
+2025-11-12 07:42:21,162 [INFO]    Option D score=0.9127
+2025-11-12 07:42:21,162 [INFO]    => chosen: ['B']
+2025-11-12 07:42:21,162 [INFO] [QA] Q92: Kích th\u01b0\u1edbc c\u1ee7a “Máy tính \u0111\u1ec3 bàn” và “Máy tính xách tay” trong Public_651 l\u1ea7n l\u01b0\u1ee3t là gì?
+2025-11-12 07:43:40,713 [INFO] [QA-DEBUG] chosen=['A', 'C'] | scores_norm=[A=1.00, B=0.85, C=0.94, D=0.00]
+2025-11-12 07:43:40,713 [INFO]    Option A score=0.9257
+2025-11-12 07:43:40,713 [INFO]    Option B score=0.9251
+2025-11-12 07:43:40,713 [INFO]    Option C score=0.9255
+2025-11-12 07:43:40,713 [INFO]    Option D score=0.9218
+2025-11-12 07:43:40,713 [INFO]    => chosen: ['A', 'C']
+2025-11-12 07:43:40,713 [INFO] [QA] Q93: C\u1eeda \u0111i \u0111\u01a1n m\u1ed9t cánh m\u1edf c\u1ea3 hai phía d\u1ea1ng t\u1ef1 \u0111\u1ed9ng \u0111\u01b0\u1ee3c v\u1ebd ký hi\u1ec7u nh\u01b0 th\u1ebf nào và góc m\u1edf quy \u0111\u1ecbnh là bao nhiêu \u0111\u1ed9?
+2025-11-12 07:44:59,352 [INFO] [QA-DEBUG] chosen=['B'] | scores_norm=[A=0.80, B=1.00, C=0.00, D=0.65]
+2025-11-12 07:44:59,353 [INFO]    Option A score=0.9106
+2025-11-12 07:44:59,353 [INFO]    Option B score=0.9112
+2025-11-12 07:44:59,353 [INFO]    Option C score=0.9083
+2025-11-12 07:44:59,353 [INFO]    Option D score=0.9102
+2025-11-12 07:44:59,353 [INFO]    => chosen: ['B']
+2025-11-12 07:44:59,353 [INFO] [QA] Q94: N\u1ebfu không có popup hi\u1ec3n th\u1ecb l\u1ecbch s\u1eed t\u01b0\u01a1ng tác khách hàng, nguyên nhân có th\u1ec3 là gì?
+2025-11-12 07:46:14,457 [INFO] [QA-DEBUG] chosen=['C'] | scores_norm=[A=0.40, B=0.71, C=0.00, D=1.00]
+2025-11-12 07:46:14,457 [INFO]    Option A score=0.9174
+2025-11-12 07:46:14,457 [INFO]    Option B score=0.9192
+2025-11-12 07:46:14,467 [INFO]    Option C score=0.9152
+2025-11-12 07:46:14,467 [INFO]    Option D score=0.9208
+2025-11-12 07:46:14,467 [INFO]    => chosen: ['C']
+2025-11-12 07:46:14,468 [INFO] [QA] Q95: Trong tài li\u1ec7u, t\u1ed5ng c\u1ed9ng có bao nhiêu lo\u1ea1i c\u1eeda s\u1ed5 khác nhau \u0111\u01b0\u1ee3c li\u1ec7t kê ký hi\u1ec7u?
+2025-11-12 07:47:33,694 [INFO] [QA-DEBUG] chosen=['C'] | scores_norm=[A=0.03, B=0.00, C=1.00, D=0.52]
+2025-11-12 07:47:33,694 [INFO]    Option A score=0.9174
+2025-11-12 07:47:33,694 [INFO]    Option B score=0.9174
+2025-11-12 07:47:33,694 [INFO]    Option C score=0.9177
+2025-11-12 07:47:33,694 [INFO]    Option D score=0.9176
+2025-11-12 07:47:33,694 [INFO]    => chosen: ['C']
+2025-11-12 07:47:33,694 [INFO] [QA] Q96: S\u01a1 \u0111\u1ed3 nh\u1ea5t th\u1ee9 dùng \u0111\u1ec3 bi\u1ec3u di\u1ec5n m\u1ea1ch \u0111i\u1ec7n nào?
+2025-11-12 07:48:49,984 [INFO] [QA-DEBUG] chosen=['C'] | scores_norm=[A=0.53, B=0.00, C=1.00, D=0.43]
+2025-11-12 07:48:49,984 [INFO]    Option A score=0.9330
+2025-11-12 07:48:49,984 [INFO]    Option B score=0.9299
+2025-11-12 07:48:49,984 [INFO]    Option C score=0.9358
+2025-11-12 07:48:49,984 [INFO]    Option D score=0.9324
+2025-11-12 07:48:49,984 [INFO]    => chosen: ['C']
+2025-11-12 07:48:49,984 [INFO] [QA] Q97: \u01afu \u0111i\u1ec3m n\u1ed5i b\u1eadt c\u1ee7a ph\u01b0\u01a1ng pháp c\u1eaft Plasma b\u1eb1ng khí Oxy khi c\u1eaft thép Carbon là gì?
+2025-11-12 07:50:09,611 [INFO] [QA-DEBUG] chosen=['C'] | scores_norm=[A=0.85, B=0.00, C=1.00, D=0.78]
+2025-11-12 07:50:09,611 [INFO]    Option A score=0.9128
+2025-11-12 07:50:09,611 [INFO]    Option B score=0.9110
+2025-11-12 07:50:09,611 [INFO]    Option C score=0.9131
+2025-11-12 07:50:09,611 [INFO]    Option D score=0.9126
+2025-11-12 07:50:09,611 [INFO]    => chosen: ['C']
+2025-11-12 07:50:09,611 [INFO] [QA] Q98: Có bao nhiêu phím thao tác (t\u1eeb f1 \u0111\u1ebfn f12) \u0111\u01b0\u1ee3c mô t\u1ea3 trong tài li\u1ec7u?
+2025-11-12 07:51:28,376 [INFO] [QA-DEBUG] chosen=['A'] | scores_norm=[A=1.00, B=0.07, C=0.00, D=0.49]
+2025-11-12 07:51:28,376 [INFO]    Option A score=0.9202
+2025-11-12 07:51:28,376 [INFO]    Option B score=0.9200
+2025-11-12 07:51:28,376 [INFO]    Option C score=0.9200
+2025-11-12 07:51:28,376 [INFO]    Option D score=0.9201
+2025-11-12 07:51:28,376 [INFO]    => chosen: ['A']
+2025-11-12 07:51:28,376 [INFO] [QA] Q99: H\u1ec7 \u0111i\u1ec1u hành Windows nào \u0111\u01b0\u1ee3c phát hành n\u0103m 1995?
+2025-11-12 07:52:46,205 [INFO] [QA-DEBUG] chosen=['A'] | scores_norm=[A=1.00, B=0.52, C=0.13, D=0.00]
+2025-11-12 07:52:46,205 [INFO]    Option A score=0.9402
+2025-11-12 07:52:46,205 [INFO]    Option B score=0.9390
+2025-11-12 07:52:46,205 [INFO]    Option C score=0.9381
+2025-11-12 07:52:46,205 [INFO]    Option D score=0.9378
+2025-11-12 07:52:46,205 [INFO]    => chosen: ['A']
+2025-11-12 07:52:46,205 [INFO] [QA] Q100: Trong ph\u1ea7n “Injection Pressure”, khi máy không ho\u1ea1t \u0111\u1ed9ng thì giá tr\u1ecb này th\u1ec3 hi\u1ec7n \u0111i\u1ec1u gì?
+2025-11-12 07:54:02,889 [INFO] [QA-DEBUG] chosen=['C'] | scores_norm=[A=1.00, B=0.59, C=0.00, D=0.50]
+2025-11-12 07:54:02,889 [INFO]    Option A score=0.9290
+2025-11-12 07:54:02,889 [INFO]    Option B score=0.9282
+2025-11-12 07:54:02,889 [INFO]    Option C score=0.9272
+2025-11-12 07:54:02,889 [INFO]    Option D score=0.9281
+2025-11-12 07:54:02,889 [INFO]    => chosen: ['C']
+2025-11-12 07:54:02,889 [INFO] [QA] Q101: Lò xo xo\u1eafn ph\u1eb3ng th\u01b0\u1eddng \u0111\u01b0\u1ee3c dùng làm gì?
+2025-11-12 07:55:21,434 [INFO] [QA-DEBUG] chosen=['B'] | scores_norm=[A=0.00, B=1.00, C=0.84, D=0.50]
+2025-11-12 07:55:21,434 [INFO]    Option A score=0.9284
+2025-11-12 07:55:21,434 [INFO]    Option B score=0.9338
+2025-11-12 07:55:21,434 [INFO]    Option C score=0.9329
+2025-11-12 07:55:21,434 [INFO]    Option D score=0.9311
+2025-11-12 07:55:21,436 [INFO]    => chosen: ['B']
+2025-11-12 07:55:21,436 [INFO] [QA] Q102: Các tr\u1ea1ng thái nào liên quan \u0111\u1ebfn m\u1ef1c in (Toner): “TONER LOW” và “TONER ENDED” l\u1ea7n l\u01b0\u1ee3t có ý ngh\u0129a gì?
+2025-11-12 07:56:39,757 [INFO] [QA-DEBUG] chosen=['B'] | scores_norm=[A=0.00, B=1.00, C=0.11, D=0.64]
+2025-11-12 07:56:39,757 [INFO]    Option A score=0.9038
+2025-11-12 07:56:39,757 [INFO]    Option B score=0.9060
+2025-11-12 07:56:39,757 [INFO]    Option C score=0.9040
+2025-11-12 07:56:39,757 [INFO]    Option D score=0.9052
+2025-11-12 07:56:39,757 [INFO]    => chosen: ['B']
+2025-11-12 07:56:39,759 [INFO] [QA] Q103: Theo tài li\u1ec7u Public_469, yêu c\u1ea7u chung c\u1ee7a h\u1ec7 th\u1ed1ng phanh \u0111\u1ed1i v\u1edbi xe ch\u01b0a qua s\u1eed d\u1ee5ng là gì?
+2025-11-12 07:57:58,636 [INFO] [QA-DEBUG] chosen=['B'] | scores_norm=[A=0.00, B=1.00, C=0.78, D=0.54]
+2025-11-12 07:57:58,636 [INFO]    Option A score=0.9098
+2025-11-12 07:57:58,636 [INFO]    Option B score=0.9165
+2025-11-12 07:57:58,636 [INFO]    Option C score=0.9150
+2025-11-12 07:57:58,636 [INFO]    Option D score=0.9134
+2025-11-12 07:57:58,636 [INFO]    => chosen: ['B']
+2025-11-12 07:57:58,650 [INFO] [QA] Q104: Theo c\u1ea5u trúc tài li\u1ec7u TD634, các nhóm thông tin chính \u0111\u01b0\u1ee3c trình bày g\u1ed3m nh\u1eefng gì?
+2025-11-12 07:59:15,854 [INFO] [QA-DEBUG] chosen=['C'] | scores_norm=[A=0.00, B=0.59, C=1.00, D=0.41]
+2025-11-12 07:59:15,854 [INFO]    Option A score=0.9284
+2025-11-12 07:59:15,854 [INFO]    Option B score=0.9316
+2025-11-12 07:59:15,854 [INFO]    Option C score=0.9338
+2025-11-12 07:59:15,854 [INFO]    Option D score=0.9306
+2025-11-12 07:59:15,854 [INFO]    => chosen: ['C']
+2025-11-12 07:59:15,867 [INFO] [QA] Q105: Trong quy ho\u1ea1ch giao thông vùng, nh\u1eefng lo\u1ea1i hình c\u1ea3ng nào c\u1ea7n \u0111\u01b0\u1ee3c xác \u0111\u1ecbnh v\u1ecb trí và quy mô?
+2025-11-12 08:00:15,580 [INFO] [QA-DEBUG] chosen=['A'] | scores_norm=[A=1.00, B=0.24, C=0.00, D=0.60]
+2025-11-12 08:00:15,580 [INFO]    Option A score=0.9306
+2025-11-12 08:00:15,580 [INFO]    Option B score=0.9290
+2025-11-12 08:00:15,580 [INFO]    Option C score=0.9285
+2025-11-12 08:00:15,580 [INFO]    Option D score=0.9297
+2025-11-12 08:00:15,580 [INFO]    => chosen: ['A']
+2025-11-12 08:00:15,580 [INFO] [QA] Q106: \u0110èn nào sáng khi bàn di chu\u1ed9t \u0111ang b\u1ecb t\u1eaft?
+2025-11-12 08:01:31,054 [INFO] [QA-DEBUG] chosen=['A'] | scores_norm=[A=1.00, B=0.41, C=0.00, D=0.40]
+2025-11-12 08:01:31,054 [INFO]    Option A score=0.9256
+2025-11-12 08:01:31,054 [INFO]    Option B score=0.9214
+2025-11-12 08:01:31,054 [INFO]    Option C score=0.9185
+2025-11-12 08:01:31,054 [INFO]    Option D score=0.9214
+2025-11-12 08:01:31,054 [INFO]    => chosen: ['A']
+2025-11-12 08:01:31,054 [INFO] [QA] Q107: \u01afu \u0111i\u1ec3m n\u1ed5i b\u1eadt c\u1ee7a h\u1ec7 th\u1ed1ng \u0111i\u1ec1u khi\u1ec3n bay fly-by-wire trên Airbus A321 là gì?
+2025-11-12 08:02:48,263 [INFO] [QA-DEBUG] chosen=['C'] | scores_norm=[A=0.81, B=0.00, C=1.00, D=0.38]
+2025-11-12 08:02:48,263 [INFO]    Option A score=0.9240
+2025-11-12 08:02:48,263 [INFO]    Option B score=0.9215
+2025-11-12 08:02:48,263 [INFO]    Option C score=0.9245
+2025-11-12 08:02:48,275 [INFO]    Option D score=0.9226
+2025-11-12 08:02:48,275 [INFO]    => chosen: ['C']
+2025-11-12 08:02:48,275 [INFO] [QA] Q108: Xe ch\u01b0a qua s\u1eed d\u1ee5ng ph\u1ea3i có nhãn hàng hóa th\u1ec3 hi\u1ec7n nh\u1eefng thông tin nào?
+2025-11-12 08:04:06,808 [INFO] [QA-DEBUG] chosen=['C'] | scores_norm=[A=0.50, B=0.32, C=1.00, D=0.00]
+2025-11-12 08:04:06,808 [INFO]    Option A score=0.9301
+2025-11-12 08:04:06,808 [INFO]    Option B score=0.9296
+2025-11-12 08:04:06,808 [INFO]    Option C score=0.9316
+2025-11-12 08:04:06,808 [INFO]    Option D score=0.9287
+2025-11-12 08:04:06,808 [INFO]    => chosen: ['C']
+2025-11-12 08:04:06,808 [INFO] [QA] Q109: V\u0103n b\u1ea3n Public_668 ch\u1ee7 y\u1ebfu mô t\u1ea3 v\u1ec1 n\u1ed9i dung gì?
+2025-11-12 08:05:19,758 [INFO] [QA-DEBUG] chosen=['B'] | scores_norm=[A=0.23, B=1.00, C=0.05, D=0.00]
+2025-11-12 08:05:19,758 [INFO]    Option A score=0.9117
+2025-11-12 08:05:19,759 [INFO]    Option B score=0.9157
+2025-11-12 08:05:19,759 [INFO]    Option C score=0.9108
+2025-11-12 08:05:19,759 [INFO]    Option D score=0.9105
+2025-11-12 08:05:19,759 [INFO]    => chosen: ['B']
+2025-11-12 08:05:19,760 [INFO] [QA] Q110: Trong ph\u1ea7n “Các lo\u1ea1i thi\u1ebft b\u1ecb \u0111o l\u01b0\u1eddng”, có t\u1ed5ng c\u1ed9ng bao nhiêu thi\u1ebft b\u1ecb \u0111\u01b0\u1ee3c li\u1ec7t kê?
+2025-11-12 08:06:45,375 [INFO] [QA-DEBUG] chosen=['D'] | scores_norm=[A=0.00, B=0.55, C=0.67, D=1.00]
+2025-11-12 08:06:45,375 [INFO]    Option A score=0.9210
+2025-11-12 08:06:45,375 [INFO]    Option B score=0.9211
+2025-11-12 08:06:45,375 [INFO]    Option C score=0.9211
+2025-11-12 08:06:45,377 [INFO]    Option D score=0.9212
+2025-11-12 08:06:45,377 [INFO]    => chosen: ['D']
+2025-11-12 08:06:45,377 [INFO] [QA] Q111: Nh\u1eefng yêu c\u1ea7u b\u1eaft bu\u1ed9c \u0111\u1ed1i v\u1edbi h\u1ec7 th\u1ed1ng truy\u1ec1n \u0111\u1ed9ng th\u1ee7y l\u1ef1c c\u1ee7a xe \u0111\u01b0\u1ee3c nêu trong Public_469 là gì?
+2025-11-12 08:08:07,005 [INFO] [QA-DEBUG] chosen=['B'] | scores_norm=[A=0.00, B=1.00, C=0.39, D=0.63]
+2025-11-12 08:08:07,005 [INFO]    Option A score=0.9057
+2025-11-12 08:08:07,005 [INFO]    Option B score=0.9122
+2025-11-12 08:08:07,005 [INFO]    Option C score=0.9082
+2025-11-12 08:08:07,005 [INFO]    Option D score=0.9097
+2025-11-12 08:08:07,005 [INFO]    => chosen: ['B']
+2025-11-12 08:08:07,005 [INFO] [QA] Q112: V\u0103n b\u1ea3n `Public_659` mô t\u1ea3 ch\u1ee7 y\u1ebfu v\u1ec1 n\u1ed9i dung gì?
+2025-11-12 08:09:29,818 [INFO] [QA-DEBUG] chosen=['C'] | scores_norm=[A=0.62, B=0.00, C=1.00, D=0.26]
+2025-11-12 08:09:29,818 [INFO]    Option A score=0.9099
+2025-11-12 08:09:29,818 [INFO]    Option B score=0.9033
+2025-11-12 08:09:29,818 [INFO]    Option C score=0.9139
+2025-11-12 08:09:29,818 [INFO]    Option D score=0.9060
+2025-11-12 08:09:29,818 [INFO]    => chosen: ['C']
+2025-11-12 08:09:29,818 [INFO] [QA] Q113: Giá bán (ch\u01b0a VAT) c\u1ee7a “Ch\u1ed1ng th\u1ea5m xi m\u0103ng, bê tông CT-11A Gold” trong TD643 là bao nhiêu \u0111\u1ed3ng/kg?
+2025-11-12 08:10:49,402 [INFO] [QA-DEBUG] chosen=['C'] | scores_norm=[A=0.37, B=0.00, C=1.00, D=0.27]
+2025-11-12 08:10:49,402 [INFO]    Option A score=0.9322
+2025-11-12 08:10:49,402 [INFO]    Option B score=0.9320
+2025-11-12 08:10:49,402 [INFO]    Option C score=0.9324
+2025-11-12 08:10:49,402 [INFO]    Option D score=0.9321
+2025-11-12 08:10:49,402 [INFO]    => chosen: ['C']
+2025-11-12 08:10:49,402 [INFO] [QA] Q114: Theo TCVN 1615-75, c\u1ea7u dao 1 pha \u0111\u01b0\u1ee3c dùng \u0111\u1ec3 làm gì trong m\u1ea1ng \u0111i\u1ec7n gia d\u1ee5ng?
+2025-11-12 08:12:05,898 [INFO] [QA-DEBUG] chosen=['B', 'D'] | scores_norm=[A=0.68, B=1.00, C=0.00, D=0.98]
+2025-11-12 08:12:05,900 [INFO]    Option A score=0.9154
+2025-11-12 08:12:05,900 [INFO]    Option B score=0.9170
+2025-11-12 08:12:05,900 [INFO]    Option C score=0.9123
+2025-11-12 08:12:05,900 [INFO]    Option D score=0.9169
+2025-11-12 08:12:05,900 [INFO]    => chosen: ['B', 'D']
+2025-11-12 08:12:05,900 [INFO] [QA] Q115: Trên màn hình cài \u0111\u1eb7t ph\u1ee5c h\u1ed3i, s\u1ed1 b\u01b0\u1edbc ph\u1ee5c h\u1ed3i có th\u1ec3 \u0111i\u1ec1u ch\u1ec9nh t\u1ed1i \u0111a là bao nhiêu?
+2025-11-12 08:13:24,287 [INFO] [QA-DEBUG] chosen=['C'] | scores_norm=[A=0.00, B=0.57, C=1.00, D=0.68]
+2025-11-12 08:13:24,287 [INFO]    Option A score=0.9234
+2025-11-12 08:13:24,287 [INFO]    Option B score=0.9237
+2025-11-12 08:13:24,287 [INFO]    Option C score=0.9240
+2025-11-12 08:13:24,287 [INFO]    Option D score=0.9238
+2025-11-12 08:13:24,287 [INFO]    => chosen: ['C']
+2025-11-12 08:13:24,301 [INFO] [QA] Q116: Nh\u1ea5n nhanh nút ngu\u1ed3n s\u1ebd làm gì khi máy tính \u0111ang \u1edf tr\u1ea1ng thái Ng\u1ee7 ho\u1eb7c Ng\u1ee7 \u0111ông?
+2025-11-12 08:14:39,899 [INFO] [QA-DEBUG] chosen=['C'] | scores_norm=[A=0.57, B=0.00, C=1.00, D=0.54]
+2025-11-12 08:14:39,899 [INFO]    Option A score=0.9290
+2025-11-12 08:14:39,899 [INFO]    Option B score=0.9283
+2025-11-12 08:14:39,899 [INFO]    Option C score=0.9295
+2025-11-12 08:14:39,899 [INFO]    Option D score=0.9289
+2025-11-12 08:14:39,899 [INFO]    => chosen: ['C']
+2025-11-12 08:14:39,899 [INFO] [QA] Q117: N\u1ebfu c\u1ea7n c\u1eaft thép không g\u1ec9 dày 10 cm, nên ch\u1ecdn lo\u1ea1i khí nào \u0111\u1ec3 \u0111\u1ea1t ch\u1ea5t l\u01b0\u1ee3ng t\u1ed1t nh\u1ea5t?
+2025-11-12 08:15:56,822 [INFO] [QA-DEBUG] chosen=['A'] | scores_norm=[A=0.00, B=0.84, C=1.00, D=0.54]
+2025-11-12 08:15:56,822 [INFO]    Option A score=0.9048
+2025-11-12 08:15:56,822 [INFO]    Option B score=0.9093
+2025-11-12 08:15:56,822 [INFO]    Option C score=0.9101
+2025-11-12 08:15:56,822 [INFO]    Option D score=0.9077
+2025-11-12 08:15:56,822 [INFO]    => chosen: ['A']
+2025-11-12 08:15:56,822 [INFO] [QA] Q118: V\u0103n b\u1ea3n Public 447 yêu c\u1ea7u ki\u1ec3m th\u1eed nh\u1eefng gì khi th\u1ef1c hi\u1ec7n API stress test? Và k\u1ebft qu\u1ea3 nào ph\u1ea3i \u0111\u01b0\u1ee3c ghi nh\u1eadn?
+2025-11-12 08:17:03,383 [INFO] [QA-DEBUG] chosen=['B', 'C'] | scores_norm=[A=0.42, B=1.00, C=0.96, D=0.00]
+2025-11-12 08:17:03,385 [INFO]    Option A score=0.9124
+2025-11-12 08:17:03,385 [INFO]    Option B score=0.9149
+2025-11-12 08:17:03,385 [INFO]    Option C score=0.9147
+2025-11-12 08:17:03,385 [INFO]    Option D score=0.9106
+2025-11-12 08:17:03,385 [INFO]    => chosen: ['B', 'C']
+2025-11-12 08:17:03,385 [INFO] [QA] Q119: Trong ký hi\u1ec7u c\u1eeda \u0111i, ký hi\u1ec7u chi\u1ec1u quay c\u1ee7a cánh c\u1eeda \u0111\u01a1n m\u1ed9t cánh th\u1ec3 hi\u1ec7n trên m\u1eb7t b\u1eb1ng theo góc bao nhiêu?
+2025-11-12 08:18:21,194 [INFO] [QA-DEBUG] chosen=['A', 'C'] | scores_norm=[A=1.00, B=0.00, C=0.98, D=0.83]
+2025-11-12 08:18:21,194 [INFO]    Option A score=0.9168
+2025-11-12 08:18:21,194 [INFO]    Option B score=0.9144
+2025-11-12 08:18:21,194 [INFO]    Option C score=0.9167
+2025-11-12 08:18:21,194 [INFO]    Option D score=0.9164
+2025-11-12 08:18:21,194 [INFO]    => chosen: ['A', 'C']
+2025-11-12 08:18:21,194 [INFO] [QA] Q120: Trong TD648, có t\u1ed5ng c\u1ed9ng bao nhiêu tên m\u1eb7t hàng có Mã s\u1ed1 theo bi\u1ec3u thu\u1ebf nh\u1eadp kh\u1ea9u theo nhóm 8517?
+2025-11-12 08:19:09,245 [INFO] [QA-DEBUG] chosen=['A', 'B'] | scores_norm=[A=1.00, B=0.99, C=0.39, D=0.00]
+2025-11-12 08:19:09,245 [INFO]    Option A score=0.9392
+2025-11-12 08:19:09,245 [INFO]    Option B score=0.9392
+2025-11-12 08:19:09,245 [INFO]    Option C score=0.9388
+2025-11-12 08:19:09,245 [INFO]    Option D score=0.9386
+2025-11-12 08:19:09,245 [INFO]    => chosen: ['A', 'B']
+2025-11-12 08:19:09,245 [INFO] [QA] Q121: Màn hình c\u1ee7a máy siêu âm Doppler màu trong TD634 có kích th\u01b0\u1edbc bao nhiêu inch?
+2025-11-12 08:19:31,731 [INFO] [QA-DEBUG] chosen=['C'] | scores_norm=[A=0.07, B=0.00, C=1.00, D=0.03]
+2025-11-12 08:19:31,732 [INFO]    Option A score=0.8718
+2025-11-12 08:19:31,732 [INFO]    Option B score=0.8715
+2025-11-12 08:19:31,732 [INFO]    Option C score=0.8760
+2025-11-12 08:19:31,732 [INFO]    Option D score=0.8717
+2025-11-12 08:19:31,732 [INFO]    => chosen: ['C']
+2025-11-12 08:19:31,733 [INFO] [QA] Q122: \u0110i\u1ec3m chuy\u1ec3n ti\u1ebfp trong bi\u1ec3u \u0111\u1ed3 s\u1ea3n xu\u1ea5t \u0111\u01b0\u1ee3c hi\u1ec3n th\u1ecb b\u1eb1ng d\u1ea1ng nào trong tài li\u1ec7u Public_662?
+2025-11-12 08:20:40,173 [INFO] [QA-DEBUG] chosen=['B', 'D'] | scores_norm=[A=0.00, B=0.91, C=0.45, D=1.00]
+2025-11-12 08:20:40,174 [INFO]    Option A score=0.9145
+2025-11-12 08:20:40,174 [INFO]    Option B score=0.9167
+2025-11-12 08:20:40,174 [INFO]    Option C score=0.9156
+2025-11-12 08:20:40,174 [INFO]    Option D score=0.9169
+2025-11-12 08:20:40,174 [INFO]    => chosen: ['B', 'D']
+2025-11-12 08:20:40,174 [INFO] [QA] Q123: Trong BCCS2: (1) Quy\u1ec1n TD_DC_HM_MB áp d\u1ee5ng cho vi\u1ec7c gì? (2) Quy\u1ec1n TD_DC_HM_QUYEN_NANG_HM dùng khi nào?
+2025-11-12 08:21:47,938 [INFO] [QA-DEBUG] chosen=['C'] | scores_norm=[A=0.45, B=0.24, C=1.00, D=0.00]
+2025-11-12 08:21:47,938 [INFO]    Option A score=0.9226
+2025-11-12 08:21:47,938 [INFO]    Option B score=0.9215
+2025-11-12 08:21:47,938 [INFO]    Option C score=0.9256
+2025-11-12 08:21:47,938 [INFO]    Option D score=0.9202
+2025-11-12 08:21:47,938 [INFO]    => chosen: ['C']
+2025-11-12 08:21:47,938 [INFO] [QA] Q124: chi\u1ec1u dài t\u1ed1i thi\u1ec3u n\u1ec1n ga c\u1ee7a ga hành khách thông qua là bao nhiêu mét?
+2025-11-12 08:23:00,885 [INFO] [QA-DEBUG] chosen=['A', 'B'] | scores_norm=[A=0.91, B=1.00, C=0.00, D=0.36]
+2025-11-12 08:23:00,885 [INFO]    Option A score=0.9156
+2025-11-12 08:23:00,885 [INFO]    Option B score=0.9158
+2025-11-12 08:23:00,887 [INFO]    Option C score=0.9135
+2025-11-12 08:23:00,887 [INFO]    Option D score=0.9143
+2025-11-12 08:23:00,887 [INFO]    => chosen: ['A', 'B']
+2025-11-12 08:23:00,887 [INFO] [QA] Q125: V\u0103n b\u1ea3n Public_661 mô t\u1ea3 ch\u1ee7 y\u1ebfu v\u1ec1 n\u1ed9i dung gì?
+2025-11-12 08:24:24,209 [INFO] [QA-DEBUG] chosen=['C'] | scores_norm=[A=0.27, B=0.12, C=1.00, D=0.00]
+2025-11-12 08:24:24,209 [INFO]    Option A score=0.9023
+2025-11-12 08:24:24,209 [INFO]    Option B score=0.9011
+2025-11-12 08:24:24,209 [INFO]    Option C score=0.9076
+2025-11-12 08:24:24,209 [INFO]    Option D score=0.9003
+2025-11-12 08:24:24,209 [INFO]    => chosen: ['C']
+2025-11-12 08:24:24,209 [INFO] [QA] Q126: \u0110ai \u1ed1c x\u1ebb rãnh 1-M16 thu\u1ed9c tiêu chu\u1ea9n nào theo tài li\u1ec7u Public_665?
+2025-11-12 08:25:45,362 [INFO] [QA-DEBUG] chosen=['D'] | scores_norm=[A=0.00, B=0.54, C=0.70, D=1.00]
+2025-11-12 08:25:45,362 [INFO]    Option A score=0.9139
+2025-11-12 08:25:45,362 [INFO]    Option B score=0.9150
+2025-11-12 08:25:45,362 [INFO]    Option C score=0.9154
+2025-11-12 08:25:45,362 [INFO]    Option D score=0.9160
+2025-11-12 08:25:45,362 [INFO]    => chosen: ['D']
+2025-11-12 08:25:45,362 [INFO] [QA] Q127: Trong TD645, t\u1ed5ng c\u1ed9ng có bao nhiêu lo\u1ea1i cáp 4 lõi h\u1ea1 th\u1ebf \u0111\u01b0\u1ee3c li\u1ec7t kê trong b\u1ea3ng giá?
+2025-11-12 08:27:01,599 [INFO] [QA-DEBUG] chosen=['C'] | scores_norm=[A=0.38, B=0.00, C=1.00, D=0.81]
+2025-11-12 08:27:01,599 [INFO]    Option A score=0.9265
+2025-11-12 08:27:01,599 [INFO]    Option B score=0.9264
+2025-11-12 08:27:01,599 [INFO]    Option C score=0.9266
+2025-11-12 08:27:01,599 [INFO]    Option D score=0.9266
+2025-11-12 08:27:01,599 [INFO]    => chosen: ['C']
+2025-11-12 08:27:01,599 [INFO] [QA] Q128: Trong TD644, có t\u1ed5ng c\u1ed9ng bao nhiêu lo\u1ea1i "Nh\u1ef1a \u0111\u01b0\u1eddng"v\u1eadt li\u1ec7u thu\u1ed9c nhóm “C\u1ed9t thép” \u0111\u01b0\u1ee3c li\u1ec7t kê?
+2025-11-12 08:28:19,892 [INFO] [QA-DEBUG] chosen=['B'] | scores_norm=[A=0.07, B=1.00, C=0.02, D=0.00]
+2025-11-12 08:28:19,892 [INFO]    Option A score=0.9412
+2025-11-12 08:28:19,892 [INFO]    Option B score=0.9414
+2025-11-12 08:28:19,892 [INFO]    Option C score=0.9412
+2025-11-12 08:28:19,892 [INFO]    Option D score=0.9412
+2025-11-12 08:28:19,892 [INFO]    => chosen: ['B']
+2025-11-12 08:28:19,892 [INFO] [QA] Q129: Giá bán t\u1ea1i m\u1ecf c\u1ee7a “\u0110á d\u0103m 1x2” \u1edf m\u1ecf Kh\u01b0a V\u1eb7n (xã Chu Trinh) và \u1edf Công ty C\u1ed5 ph\u1ea7n Sea Holdings l\u1ea7n l\u01b0\u1ee3t là bao nhiêu?
+2025-11-12 08:29:31,531 [INFO] [QA-DEBUG] chosen=['B', 'D'] | scores_norm=[A=0.00, B=0.93, C=0.02, D=1.00]
+2025-11-12 08:29:31,531 [INFO]    Option A score=0.9323
+2025-11-12 08:29:31,531 [INFO]    Option B score=0.9334
+2025-11-12 08:29:31,531 [INFO]    Option C score=0.9324
+2025-11-12 08:29:31,531 [INFO]    Option D score=0.9335
+2025-11-12 08:29:31,531 [INFO]    => chosen: ['B', 'D']
+2025-11-12 08:29:31,531 [INFO] [QA] Q130: M\u1eadt \u0111\u1ed9 quang h\u1ecdc t\u1ed1i thi\u1ec3u c\u1ee7a hình \u1ea3nh \u0111en in b\u1eb1ng máy in laser theo quy \u0111\u1ecbnh là bao nhiêu?
+2025-11-12 08:30:47,790 [INFO] [QA-DEBUG] chosen=['A'] | scores_norm=[A=1.00, B=0.00, C=0.72, D=0.44]
+2025-11-12 08:30:47,790 [INFO]    Option A score=0.9202
+2025-11-12 08:30:47,790 [INFO]    Option B score=0.9200
+2025-11-12 08:30:47,790 [INFO]    Option C score=0.9201
+2025-11-12 08:30:47,790 [INFO]    Option D score=0.9201
+2025-11-12 08:30:47,790 [INFO]    => chosen: ['A']
+2025-11-12 08:30:47,790 [INFO] [QA] Q131: Theo tài li\u1ec7u Public_465, các h\u1ec7 th\u1ed1ng \u0111i\u1ec7n m\u1eb7t tr\u1eddi ph\u1ed5 bi\u1ebfn hi\u1ec7n nay g\u1ed3m nh\u1eefng lo\u1ea1i nào?
+2025-11-12 08:32:06,515 [INFO] [QA-DEBUG] chosen=['A'] | scores_norm=[A=1.00, B=0.18, C=0.27, D=0.00]
+2025-11-12 08:32:06,515 [INFO]    Option A score=0.9222
+2025-11-12 08:32:06,515 [INFO]    Option B score=0.9185
+2025-11-12 08:32:06,515 [INFO]    Option C score=0.9189
+2025-11-12 08:32:06,515 [INFO]    Option D score=0.9177
+2025-11-12 08:32:06,515 [INFO]    => chosen: ['A']
+2025-11-12 08:32:06,515 [INFO] [QA] Q132: Giá bán (ch\u01b0a VAT) c\u1ee7a “Mô t\u01a1 Singdoor 300kg” và “Mô t\u01a1 Singdoor 500kg” trong TD642 l\u1ea7n l\u01b0\u1ee3t là bao nhiêu \u0111\u1ed3ng/m²?
+2025-11-12 08:33:18,667 [INFO] [QA-DEBUG] chosen=['C'] | scores_norm=[A=0.52, B=0.81, C=1.00, D=0.00]
+2025-11-12 08:33:18,667 [INFO]    Option A score=0.9296
+2025-11-12 08:33:18,667 [INFO]    Option B score=0.9296
+2025-11-12 08:33:18,667 [INFO]    Option C score=0.9297
+2025-11-12 08:33:18,667 [INFO]    Option D score=0.9295
+2025-11-12 08:33:18,667 [INFO]    => chosen: ['C']
+2025-11-12 08:33:18,667 [INFO] [QA] Q133: Vai trò c\u1ee7a inverter trong h\u1ec7 th\u1ed1ng \u0111i\u1ec7n m\u1eb7t tr\u1eddi là gì?
+2025-11-12 08:34:39,916 [INFO] [QA-DEBUG] chosen=['D'] | scores_norm=[A=0.23, B=0.00, C=0.23, D=1.00]
+2025-11-12 08:34:39,917 [INFO]    Option A score=0.9148
+2025-11-12 08:34:39,917 [INFO]    Option B score=0.9115
+2025-11-12 08:34:39,917 [INFO]    Option C score=0.9148
+2025-11-12 08:34:39,918 [INFO]    Option D score=0.9259
+2025-11-12 08:34:39,918 [INFO]    => chosen: ['D']
+2025-11-12 08:34:39,921 [INFO] [QA] Q134: Giá bán t\u1ea1i thành ph\u1ed1 L\u1ea1ng S\u01a1n c\u1ee7a “Cáp CVV-(3x50 mm² +1x25 mm²)” là bao nhiêu \u0111\u1ed3ng/m?
+2025-11-12 08:35:59,776 [INFO] [QA-DEBUG] chosen=['C'] | scores_norm=[A=0.04, B=0.00, C=1.00, D=0.03]
+2025-11-12 08:35:59,783 [INFO]    Option A score=0.9263
+2025-11-12 08:35:59,784 [INFO]    Option B score=0.9260
+2025-11-12 08:35:59,784 [INFO]    Option C score=0.9321
+2025-11-12 08:35:59,784 [INFO]    Option D score=0.9262
+2025-11-12 08:35:59,785 [INFO]    => chosen: ['C']
+2025-11-12 08:35:59,811 [INFO] [QA] Q135: Trong tr\u01b0\u1eddng h\u1ee3p m\u1ed9t API có c\u1ea5u hình 'Retry t\u1ed1i \u0111a 3 l\u1ea7n' và 'Rollback khi l\u1ed7i', c\u01a1 ch\u1ebf 'Rollback khi l\u1ed7i' s\u1ebd \u0111\u01b0\u1ee3c kích ho\u1ea1t khi nào so v\u1edbi quá trình th\u1eed l\u1ea1i?
+2025-11-12 08:37:06,819 [INFO] [QA-DEBUG] chosen=['B'] | scores_norm=[A=0.74, B=1.00, C=0.53, D=0.00]
+2025-11-12 08:37:06,819 [INFO]    Option A score=0.9245
+2025-11-12 08:37:06,819 [INFO]    Option B score=0.9251
+2025-11-12 08:37:06,819 [INFO]    Option C score=0.9239
+2025-11-12 08:37:06,819 [INFO]    Option D score=0.9226
+2025-11-12 08:37:06,819 [INFO]    => chosen: ['B']
+2025-11-12 08:37:06,819 [INFO] [QA] Q136: Trên màn hình Desktop, thanh nào th\u01b0\u1eddng n\u1eb1m ngang \u1edf phía d\u01b0\u1edbi cùng và hi\u1ec3n th\u1ecb bi\u1ec3u t\u01b0\u1ee3ng các ph\u1ea7n m\u1ec1m \u0111ang ch\u1ea1y?
+2025-11-12 08:38:21,956 [INFO] [QA-DEBUG] chosen=['D'] | scores_norm=[A=0.81, B=0.00, C=0.19, D=1.00]
+2025-11-12 08:38:21,956 [INFO]    Option A score=0.9374
+2025-11-12 08:38:21,956 [INFO]    Option B score=0.9370
+2025-11-12 08:38:21,956 [INFO]    Option C score=0.9371
+2025-11-12 08:38:21,956 [INFO]    Option D score=0.9375
+2025-11-12 08:38:21,956 [INFO]    => chosen: ['D']
+2025-11-12 08:38:21,963 [INFO] [QA] Q137: Trong tài li\u1ec7u Public_646, có t\u1ed5ng c\u1ed9ng bao nhiêu lo\u1ea1i “Van c\u1ed5ng ty chìm m\u1eb7t bích tay quay” \u0111\u01b0\u1ee3c li\u1ec7t kê?
+2025-11-12 08:39:34,418 [INFO] [QA-DEBUG] chosen=['A'] | scores_norm=[A=1.00, B=0.00, C=0.69, D=0.53]
+2025-11-12 08:39:34,418 [INFO]    Option A score=0.9008
+2025-11-12 08:39:34,418 [INFO]    Option B score=0.9006
+2025-11-12 08:39:34,418 [INFO]    Option C score=0.9007
+2025-11-12 08:39:34,418 [INFO]    Option D score=0.9007
+2025-11-12 08:39:34,419 [INFO]    => chosen: ['A']
+2025-11-12 08:39:34,419 [INFO] [QA] Q138: Trong b\u1ea3n v\u1ebd h\u1ec7 th\u1ed1ng \u0111i\u1ec7n, ký hi\u1ec7u MC bi\u1ec3u th\u1ecb cho thi\u1ebft b\u1ecb nào?
+2025-11-12 08:40:14,897 [INFO] [QA-DEBUG] chosen=['C'] | scores_norm=[A=0.65, B=0.00, C=1.00, D=0.09]
+2025-11-12 08:40:14,897 [INFO]    Option A score=0.9341
+2025-11-12 08:40:14,897 [INFO]    Option B score=0.9306
+2025-11-12 08:40:14,897 [INFO]    Option C score=0.9360
+2025-11-12 08:40:14,897 [INFO]    Option D score=0.9311
+2025-11-12 08:40:14,897 [INFO]    => chosen: ['C']
+2025-11-12 08:40:14,897 [INFO] [QA] Q139: \u1ed0ng HDPE 100 D25 PN20 trong TD640 có giá bán (ch\u01b0a VAT) là bao nhiêu \u0111\u1ed3ng/m?
+2025-11-12 08:41:20,201 [INFO] [QA-DEBUG] chosen=['B'] | scores_norm=[A=0.66, B=1.00, C=0.00, D=0.16]
+2025-11-12 08:41:20,201 [INFO]    Option A score=0.9333
+2025-11-12 08:41:20,201 [INFO]    Option B score=0.9334
+2025-11-12 08:41:20,201 [INFO]    Option C score=0.9331
+2025-11-12 08:41:20,201 [INFO]    Option D score=0.9331
+2025-11-12 08:41:20,201 [INFO]    => chosen: ['B']
+2025-11-12 08:41:20,211 [INFO] [QA] Q140: Vì sao các tuy\u1ebfn \u0111\u01b0\u1eddng ô-tô cao t\u1ed1c c\u1ea5p 80, 100, 120 không \u0111\u01b0\u1ee3c phép \u0111i xuyên qua \u0111ô th\u1ecb mà ph\u1ea3i b\u1ed1 trí \u0111\u01b0\u1eddng tránh?
+2025-11-12 08:42:29,337 [INFO] [QA-DEBUG] chosen=['D'] | scores_norm=[A=0.65, B=0.45, C=1.00, D=0.00]
+2025-11-12 08:42:29,337 [INFO]    Option A score=0.9071
+2025-11-12 08:42:29,337 [INFO]    Option B score=0.9059
+2025-11-12 08:42:29,337 [INFO]    Option C score=0.9094
+2025-11-12 08:42:29,337 [INFO]    Option D score=0.9030
+2025-11-12 08:42:29,337 [INFO]    => chosen: ['D']
+2025-11-12 08:42:29,337 [INFO] [QA] Q141: V\u0103n b\u1ea3n Public_656 ch\u1ee7 y\u1ebfu mô t\u1ea3 n\u1ed9i dung gì?
+2025-11-12 08:43:37,095 [INFO] [QA-DEBUG] chosen=['B'] | scores_norm=[A=0.43, B=1.00, C=0.00, D=0.47]
+2025-11-12 08:43:37,095 [INFO]    Option A score=0.9085
+2025-11-12 08:43:37,095 [INFO]    Option B score=0.9129
+2025-11-12 08:43:37,095 [INFO]    Option C score=0.9051
+2025-11-12 08:43:37,095 [INFO]    Option D score=0.9088
+2025-11-12 08:43:37,095 [INFO]    => chosen: ['B']
+2025-11-12 08:43:37,095 [INFO] [QA] Q142: V\u0103n b\u1ea3n này ch\u1ee7 y\u1ebfu mô t\u1ea3 v\u1ec1 n\u1ed9i dung gì?
+2025-11-12 08:44:53,059 [INFO] [QA-DEBUG] chosen=['B'] | scores_norm=[A=0.51, B=1.00, C=0.00, D=0.58]
+2025-11-12 08:44:53,059 [INFO]    Option A score=0.9195
+2025-11-12 08:44:53,059 [INFO]    Option B score=0.9251
+2025-11-12 08:44:53,059 [INFO]    Option C score=0.9135
+2025-11-12 08:44:53,059 [INFO]    Option D score=0.9203
+2025-11-12 08:44:53,059 [INFO]    => chosen: ['B']
+2025-11-12 08:44:53,070 [INFO] [QA] Q143: N\u1ed9i dung chính c\u1ee7a v\u0103n b\u1ea3n Public 442 là gì?
+2025-11-12 08:46:05,543 [INFO] [QA-DEBUG] chosen=['B'] | scores_norm=[A=0.20, B=1.00, C=0.65, D=0.00]
+2025-11-12 08:46:05,543 [INFO]    Option A score=0.8990
+2025-11-12 08:46:05,545 [INFO]    Option B score=0.9037
+2025-11-12 08:46:05,545 [INFO]    Option C score=0.9016
+2025-11-12 08:46:05,545 [INFO]    Option D score=0.8978
+2025-11-12 08:46:05,545 [INFO]    => chosen: ['B']
+2025-11-12 08:46:05,545 [INFO] [QA] Q144: Trong TD641, t\u1ed5ng c\u1ed9ng có bao nhiêu lo\u1ea1i G\u1ea1ch xây d\u1ef1ng
+2025-11-12 08:46:15,660 [INFO] [QA-DEBUG] chosen=['A'] | scores_norm=[A=0.99, B=0.41, C=0.74, D=0.00]
+2025-11-12 08:46:15,660 [INFO]    Option A score=0.8820
+2025-11-12 08:46:15,660 [INFO]    Option B score=0.8820
+2025-11-12 08:46:15,660 [INFO]    Option C score=0.8820
+2025-11-12 08:46:15,662 [INFO]    Option D score=0.8820
+2025-11-12 08:46:15,662 [INFO]    => chosen: ['A']
+2025-11-12 08:46:15,662 [INFO] [QA] Q145: Theo c\u1ea5u trúc b\u1ea3ng giá trong TD642, các c\u1ed9t thông tin chính g\u1ed3m nh\u1eefng m\u1ee5c nào?
+2025-11-12 08:47:26,382 [INFO] [QA-DEBUG] chosen=['B', 'D'] | scores_norm=[A=0.00, B=0.94, C=0.39, D=1.00]
+2025-11-12 08:47:26,384 [INFO]    Option A score=0.9174
+2025-11-12 08:47:26,384 [INFO]    Option B score=0.9184
+2025-11-12 08:47:26,384 [INFO]    Option C score=0.9178
+2025-11-12 08:47:26,384 [INFO]    Option D score=0.9184
+2025-11-12 08:47:26,384 [INFO]    => chosen: ['B', 'D']
+2025-11-12 08:47:26,384 [INFO] [QA] Q146: Màn hình c\u1ee7a máy siêu âm Doppler màu trong TD635 có kích th\u01b0\u1edbc bao nhiêu inch?
+2025-11-12 08:47:45,271 [INFO] [QA-DEBUG] chosen=['C'] | scores_norm=[A=0.00, B=0.15, C=1.00, D=0.11]
+2025-11-12 08:47:45,271 [INFO]    Option A score=0.8713
+2025-11-12 08:47:45,271 [INFO]    Option B score=0.8719
+2025-11-12 08:47:45,287 [INFO]    Option C score=0.8753
+2025-11-12 08:47:45,287 [INFO]    Option D score=0.8717
+2025-11-12 08:47:45,287 [INFO]    => chosen: ['C']
+2025-11-12 08:47:45,288 [INFO] [QA] Q147: Nh\u1eefng y\u1ebfu t\u1ed1 nào c\u1ea7n \u0111áp \u1ee9ng \u0111\u1ec3 hình \u1ea3nh in/ghi \u0111\u1ea1t yêu c\u1ea7u v\u1ec1 ngo\u1ea1i quan theo tài li\u1ec7u Public_471?
+2025-11-12 08:48:51,832 [INFO] [QA-DEBUG] chosen=['D'] | scores_norm=[A=0.56, B=0.37, C=0.00, D=1.00]
+2025-11-12 08:48:51,833 [INFO]    Option A score=0.9146
+2025-11-12 08:48:51,833 [INFO]    Option B score=0.9141
+2025-11-12 08:48:51,833 [INFO]    Option C score=0.9130
+2025-11-12 08:48:51,833 [INFO]    Option D score=0.9159
+2025-11-12 08:48:51,834 [INFO]    => chosen: ['D']
+2025-11-12 08:48:51,834 [INFO] [QA] Q148: Theo tài li\u1ec7u Public_468, các lo\u1ea1i khí nào phù h\u1ee3p khi c\u1eaft thép không g\u1ec9 và nhôm v\u1edbi ch\u1ea5t l\u01b0\u1ee3ng cao?
+2025-11-12 08:50:00,234 [INFO] [QA-DEBUG] chosen=['B'] | scores_norm=[A=0.55, B=0.00, C=1.00, D=0.24]
+2025-11-12 08:50:00,234 [INFO]    Option A score=0.8978
+2025-11-12 08:50:00,235 [INFO]    Option B score=0.8959
+2025-11-12 08:50:00,235 [INFO]    Option C score=0.8993
+2025-11-12 08:50:00,235 [INFO]    Option D score=0.8967
+2025-11-12 08:50:00,235 [INFO]    => chosen: ['B']
+2025-11-12 08:50:00,235 [INFO] [QA] Q149: Trong TD639, có t\u1ed5ng c\u1ed9ng bao nhiêu lo\u1ea1i \u1ed1ng nh\u1ef1a gân xo\u1eafn HDPE \u0111\u01b0\u1ee3c li\u1ec7t kê trong b\u1ea3ng giá?
+2025-11-12 08:51:16,924 [INFO] [QA-DEBUG] chosen=['C'] | scores_norm=[A=0.37, B=0.72, C=1.00, D=0.00]
+2025-11-12 08:51:16,924 [INFO]    Option A score=0.8990
+2025-11-12 08:51:16,924 [INFO]    Option B score=0.8991
+2025-11-12 08:51:16,924 [INFO]    Option C score=0.8992
+2025-11-12 08:51:16,924 [INFO]    Option D score=0.8989
+2025-11-12 08:51:16,924 [INFO]    => chosen: ['C']
+2025-11-12 08:51:16,927 [INFO] [QA] Q150: Lò xo xo\u1eafn \u1ed1c g\u1ed3m nh\u1eefng lo\u1ea1i nào và \u0111\u01b0\u1ee3c chia theo tác d\u1ee5ng gì?
+2025-11-12 08:52:35,502 [INFO] [QA-DEBUG] chosen=['D'] | scores_norm=[A=0.76, B=0.70, C=0.00, D=1.00]
+2025-11-12 08:52:35,502 [INFO]    Option A score=0.9282
+2025-11-12 08:52:35,502 [INFO]    Option B score=0.9279
+2025-11-12 08:52:35,518 [INFO]    Option C score=0.9249
+2025-11-12 08:52:35,518 [INFO]    Option D score=0.9292
+2025-11-12 08:52:35,518 [INFO]    => chosen: ['D']
+2025-11-12 08:52:35,519 [INFO] [QA] Q151: CPU trong laptop có vai trò gì?
+2025-11-12 08:53:49,479 [INFO] [QA-DEBUG] chosen=['D'] | scores_norm=[A=0.23, B=0.00, C=0.29, D=1.00]
+2025-11-12 08:53:49,480 [INFO]    Option A score=0.9161
+2025-11-12 08:53:49,480 [INFO]    Option B score=0.9139
+2025-11-12 08:53:49,480 [INFO]    Option C score=0.9167
+2025-11-12 08:53:49,480 [INFO]    Option D score=0.9233
+2025-11-12 08:53:49,480 [INFO]    => chosen: ['D']
+2025-11-12 08:53:49,481 [INFO] [QA] Q152: Dòng \u0111i\u1ec7n xoay chi\u1ec1u \u0111\u01b0\u1ee3c ký hi\u1ec7u nh\u01b0 th\u1ebf nào và m\u1ea1ng \u0111i\u1ec7n 3 pha 4 dây \u0111\u01b0\u1ee3c ký hi\u1ec7u ra sao?
+2025-11-12 08:55:04,207 [INFO] [QA-DEBUG] chosen=['B'] | scores_norm=[A=0.73, B=1.00, C=0.76, D=0.00]
+2025-11-12 08:55:04,221 [INFO]    Option A score=0.9313
+2025-11-12 08:55:04,222 [INFO]    Option B score=0.9313
+2025-11-12 08:55:04,222 [INFO]    Option C score=0.9313
+2025-11-12 08:55:04,222 [INFO]    Option D score=0.9311
+2025-11-12 08:55:04,222 [INFO]    => chosen: ['B']
+2025-11-12 08:55:04,224 [INFO] [QA] Q153: (V\u1ebf 1) Ch\u1ebf \u0111\u1ed9 th\u1ee7 công máy ch\u1ea1y \u1edf t\u1ed1c \u0111\u1ed9 nào? — (V\u1ebf 2) Ch\u1ebf \u0111\u1ed9 t\u1ef1 \u0111\u1ed9ng máy s\u1ebd v\u1eadn hành khi nào?
+2025-11-12 08:56:11,786 [INFO] [QA-DEBUG] chosen=['D'] | scores_norm=[A=0.00, B=0.45, C=0.59, D=1.00]
+2025-11-12 08:56:11,786 [INFO]    Option A score=0.9075
+2025-11-12 08:56:11,787 [INFO]    Option B score=0.9143
+2025-11-12 08:56:11,787 [INFO]    Option C score=0.9163
+2025-11-12 08:56:11,787 [INFO]    Option D score=0.9225
+2025-11-12 08:56:11,787 [INFO]    => chosen: ['D']
+2025-11-12 08:56:11,787 [INFO] [QA] Q154: Giá c\u1ee7a Lam ch\u1eafn n\u1eafng Foster Sun Louver hình h\u1ed9p FT - HH 300 x 100 x 1.5mm và FT - HH 400 x 100 x 1.5mm l\u1ea7n l\u01b0\u1ee3t là bao nhiêu?
+2025-11-12 08:57:15,691 [INFO] [QA-DEBUG] chosen=['D'] | scores_norm=[A=0.22, B=0.00, C=0.06, D=1.00]
+2025-11-12 08:57:15,691 [INFO]    Option A score=0.9033
+2025-11-12 08:57:15,691 [INFO]    Option B score=0.9031
+2025-11-12 08:57:15,692 [INFO]    Option C score=0.9032
+2025-11-12 08:57:15,692 [INFO]    Option D score=0.9041
+2025-11-12 08:57:15,692 [INFO]    => chosen: ['D']
+2025-11-12 08:57:15,692 [INFO] [QA] Q155: Public_466 cung c\u1ea5p gi\u1ea3i pháp nào \u0111\u1ec3 gia \u0111ình ch\u1ee7 \u0111\u1ed9ng s\u1eed d\u1ee5ng \u0111i\u1ec7n ngay c\u1ea3 khi m\u1ea5t \u0111i\u1ec7n l\u01b0\u1edbi?
+2025-11-12 08:58:24,698 [INFO] [QA-DEBUG] chosen=['A'] | scores_norm=[A=1.00, B=0.00, C=0.28, D=0.90]
+2025-11-12 08:58:24,698 [INFO]    Option A score=0.9183
+2025-11-12 08:58:24,698 [INFO]    Option B score=0.9161
+2025-11-12 08:58:24,698 [INFO]    Option C score=0.9167
+2025-11-12 08:58:24,698 [INFO]    Option D score=0.9180
+2025-11-12 08:58:24,698 [INFO]    => chosen: ['A']
+2025-11-12 08:58:24,698 [INFO] [QA] Q156: D\u1ef1a trên thông tin trong tài li\u1ec7u Public_472, dòng chip nào là phù h\u1ee3p nh\u1ea5t cho laptop t\u1ed1i \u01b0u AI và hi\u1ec7u n\u0103ng cao?
+2025-11-12 08:59:44,777 [INFO] [QA-DEBUG] chosen=['C'] | scores_norm=[A=0.21, B=0.00, C=1.00, D=0.59]
+2025-11-12 08:59:44,777 [INFO]    Option A score=0.9080
+2025-11-12 08:59:44,777 [INFO]    Option B score=0.9076
+2025-11-12 08:59:44,777 [INFO]    Option C score=0.9094
+2025-11-12 08:59:44,777 [INFO]    Option D score=0.9087
+2025-11-12 08:59:44,777 [INFO]    => chosen: ['C']
+2025-11-12 08:59:44,777 [INFO] [QA] Q157: Trong tài li\u1ec7u Public_448, API /invoice/export yêu c\u1ea7u c\u01a1 ch\u1ebf xác th\u1ef1c nào và k\u1ebft qu\u1ea3 nào ph\u1ea3i \u0111\u01b0\u1ee3c ghi l\u1ea1i sau m\u1ed7i l\u1ea7n g\u1ecdi?
+2025-11-12 09:00:57,513 [INFO] [QA-DEBUG] chosen=['A'] | scores_norm=[A=1.00, B=0.13, C=0.00, D=0.32]
+2025-11-12 09:00:57,513 [INFO]    Option A score=0.9419
+2025-11-12 09:00:57,513 [INFO]    Option B score=0.9395
+2025-11-12 09:00:57,513 [INFO]    Option C score=0.9391
+2025-11-12 09:00:57,513 [INFO]    Option D score=0.9400
+2025-11-12 09:00:57,513 [INFO]    => chosen: ['A']
+2025-11-12 09:00:57,513 [INFO] [QA] Q158: Lò xo ho\u1ea1t \u0111\u1ed9ng d\u1ef1a trên \u0111\u1eb7c tính \u0111àn h\u1ed3i nh\u01b0 th\u1ebf nào?
+2025-11-12 09:02:18,444 [INFO] [QA-DEBUG] chosen=['D'] | scores_norm=[A=0.00, B=0.57, C=0.28, D=1.00]
+2025-11-12 09:02:18,444 [INFO]    Option A score=0.9211
+2025-11-12 09:02:18,444 [INFO]    Option B score=0.9237
+2025-11-12 09:02:18,444 [INFO]    Option C score=0.9224
+2025-11-12 09:02:18,444 [INFO]    Option D score=0.9257
+2025-11-12 09:02:18,444 [INFO]    => chosen: ['D']
+2025-11-12 09:02:18,444 [INFO] [QA] Q159: Theo c\u1ea5u trúc TD636, các nhóm thông tin chính \u0111\u01b0\u1ee3c trình bày g\u1ed3m nh\u1eefng gì?
+2025-11-12 09:03:35,281 [INFO] [QA-DEBUG] chosen=['C'] | scores_norm=[A=0.00, B=0.69, C=1.00, D=0.47]
+2025-11-12 09:03:35,281 [INFO]    Option A score=0.9279
+2025-11-12 09:03:35,281 [INFO]    Option B score=0.9337
+2025-11-12 09:03:35,282 [INFO]    Option C score=0.9362
+2025-11-12 09:03:35,282 [INFO]    Option D score=0.9318
+2025-11-12 09:03:35,282 [INFO]    => chosen: ['C']
+2025-11-12 09:03:35,289 [INFO] [QA] Q160: Theo tài li\u1ec7u Public_471, nh\u1eefng tiêu chí \u0111ánh giá và k\u1ebft lu\u1eadn c\u1ee5 th\u1ec3 nào áp d\u1ee5ng khi hình \u1ea3nh in b\u1ecb bong tróc m\u1ed9t ph\u1ea7n sau khi th\u1eed mài mòn?
+2025-11-12 09:04:47,459 [INFO] [QA-DEBUG] chosen=['A', 'D'] | scores_norm=[A=1.00, B=0.42, C=0.00, D=0.90]
+2025-11-12 09:04:47,459 [INFO]    Option A score=0.9129
+2025-11-12 09:04:47,459 [INFO]    Option B score=0.9109
+2025-11-12 09:04:47,459 [INFO]    Option C score=0.9095
+2025-11-12 09:04:47,459 [INFO]    Option D score=0.9125
+2025-11-12 09:04:47,459 [INFO]    => chosen: ['A', 'D']
+2025-11-12 09:04:47,459 [INFO] [QA] Q161: “\u1ed0ng d\u1eabn dung môi (ph\u1ee5 ki\u1ec7n c\u1ee7a b\u1ed3n ch\u1eefa cháy)” và “Anot hy sinh nhôm ch\u1ed1ng \u0103n mòn – d\u1ea1ng t\u1ea5m, tr\u1ee5, th\u1eb3ng” trong TD649 có Mã s\u1ed1 theo bi\u1ec3u thu\u1ebf nh\u1eadp kh\u1ea9u theo nhóm l\u1ea7n l\u01b0\u1ee3t là gì?
+2025-11-12 09:05:34,304 [INFO] [QA-DEBUG] chosen=['A'] | scores_norm=[A=0.00, B=0.82, C=1.00, D=0.54]
+2025-11-12 09:05:34,304 [INFO]    Option A score=0.8954
+2025-11-12 09:05:34,304 [INFO]    Option B score=0.8955
+2025-11-12 09:05:34,304 [INFO]    Option C score=0.8956
+2025-11-12 09:05:34,304 [INFO]    Option D score=0.8955
+2025-11-12 09:05:34,304 [INFO]    => chosen: ['A']
+2025-11-12 09:05:34,310 [INFO] [QA] Q162: D\u1ef1a trên tài li\u1ec7u, có bao nhiêu nút menu ng\u1eef c\u1ea3nh \u0111\u01b0\u1ee3c li\u1ec7t kê \u1edf màn hình cài \u0111\u1eb7t phun?
+2025-11-12 09:06:43,286 [INFO] [QA-DEBUG] chosen=['A'] | scores_norm=[A=1.00, B=0.73, C=0.20, D=0.00]
+2025-11-12 09:06:43,286 [INFO]    Option A score=0.9018
+2025-11-12 09:06:43,286 [INFO]    Option B score=0.9017
+2025-11-12 09:06:43,286 [INFO]    Option C score=0.9016
+2025-11-12 09:06:43,286 [INFO]    Option D score=0.9015
+2025-11-12 09:06:43,286 [INFO]    => chosen: ['A']
+2025-11-12 09:06:43,286 [INFO] [QA] Q163: Theo tài li\u1ec7u Public_446, n\u1ebfu log Audit không \u0111\u01b0\u1ee3c ghi nh\u1eadn \u0111\u1ea7y \u0111\u1ee7 trong h\u1ec7 th\u1ed1ng, có th\u1ec3 suy ra h\u1ec7 qu\u1ea3 gì?
+2025-11-12 09:07:44,740 [INFO] [QA-DEBUG] chosen=['B'] | scores_norm=[A=1.00, B=0.00, C=0.46, D=0.69]
+2025-11-12 09:07:44,740 [INFO]    Option A score=0.9320
+2025-11-12 09:07:44,740 [INFO]    Option B score=0.9289
+2025-11-12 09:07:44,740 [INFO]    Option C score=0.9303
+2025-11-12 09:07:44,740 [INFO]    Option D score=0.9310
+2025-11-12 09:07:44,740 [INFO]    => chosen: ['B']
+2025-11-12 09:07:44,743 [INFO] [QA] Q164: Trong TD641, “G\u1ea1ch bê tông KN l\u1ed7 GTTLS 012, Mac 8” có giá bán (ch\u01b0a VAT) là bao nhiêu \u0111\u1ed3ng/viên?
+2025-11-12 09:08:54,650 [INFO] [QA-DEBUG] chosen=['A'] | scores_norm=[A=1.00, B=0.68, C=0.78, D=0.00]
+2025-11-12 09:08:54,650 [INFO]    Option A score=0.9464
+2025-11-12 09:08:54,650 [INFO]    Option B score=0.9460
+2025-11-12 09:08:54,652 [INFO]    Option C score=0.9462
+2025-11-12 09:08:54,652 [INFO]    Option D score=0.9452
+2025-11-12 09:08:54,652 [INFO]    => chosen: ['A']
+2025-11-12 09:08:54,652 [INFO] [QA] Q165: Giá bán t\u1ea1i thành ph\u1ed1 L\u1ea1ng S\u01a1n c\u1ee7a “Cáp CVV-(4x16 mm²)” là bao nhiêu \u0111\u1ed3ng/m?
+2025-11-12 09:10:05,525 [INFO] [QA-DEBUG] chosen=['A'] | scores_norm=[A=1.00, B=0.06, C=0.00, D=0.08]
+2025-11-12 09:10:05,525 [INFO]    Option A score=0.9296
+2025-11-12 09:10:05,525 [INFO]    Option B score=0.9237
+2025-11-12 09:10:05,525 [INFO]    Option C score=0.9233
+2025-11-12 09:10:05,525 [INFO]    Option D score=0.9238
+2025-11-12 09:10:05,525 [INFO]    => chosen: ['A']
+2025-11-12 09:10:05,525 [INFO] [QA] Q166: Theo tài li\u1ec7u Public_470, m\u1ee5c tiêu c\u1ee7a vi\u1ec7c gán d\u1eef li\u1ec7u \u0111\u1eb7c t\u1ea3 cho hình \u1ea3nh s\u1ed1 hóa 3D là gì?
+2025-11-12 09:11:24,736 [INFO] [QA-DEBUG] chosen=['C'] | scores_norm=[A=0.17, B=0.00, C=1.00, D=0.14]
+2025-11-12 09:11:24,736 [INFO]    Option A score=0.9169
+2025-11-12 09:11:24,749 [INFO]    Option B score=0.9165
+2025-11-12 09:11:24,749 [INFO]    Option C score=0.9188
+2025-11-12 09:11:24,749 [INFO]    Option D score=0.9168
+2025-11-12 09:11:24,749 [INFO]    => chosen: ['C']
+2025-11-12 09:11:24,749 [INFO] [QA] Q167: Thi\u1ebft b\u1ecb trong TD635 ph\u1ea3i \u0111\u01b0\u1ee3c s\u1ea3n xu\u1ea5t t\u1eeb n\u0103m nào tr\u1edf v\u1ec1 sau?
+2025-11-12 09:12:02,041 [INFO] [QA-DEBUG] chosen=['B', 'D'] | scores_norm=[A=0.00, B=1.00, C=0.52, D=0.97]
+2025-11-12 09:12:02,041 [INFO]    Option A score=0.9402
+2025-11-12 09:12:02,041 [INFO]    Option B score=0.9414
+2025-11-12 09:12:02,041 [INFO]    Option C score=0.9408
+2025-11-12 09:12:02,041 [INFO]    Option D score=0.9414
+2025-11-12 09:12:02,041 [INFO]    => chosen: ['B', 'D']
+2025-11-12 09:12:02,041 [INFO] [QA] Q168: Tr\u1ea1ng thái nào cho bi\u1ebft máy \u0111ang nh\u1eadn ho\u1eb7c x\u1eed lý d\u1eef li\u1ec7u t\u1eeb máy tính?
+2025-11-12 09:13:20,617 [INFO] [QA-DEBUG] chosen=['D'] | scores_norm=[A=0.12, B=0.34, C=0.00, D=1.00]
+2025-11-12 09:13:20,617 [INFO]    Option A score=0.9287
+2025-11-12 09:13:20,617 [INFO]    Option B score=0.9300
+2025-11-12 09:13:20,617 [INFO]    Option C score=0.9280
+2025-11-12 09:13:20,617 [INFO]    Option D score=0.9340
+2025-11-12 09:13:20,617 [INFO]    => chosen: ['D']
+2025-11-12 09:13:20,617 [INFO] [QA] Q169: N\u1ebfu m\u1ed9t ch\u1ee9c n\u0103ng trong Public 444 không \u0111\u01b0\u1ee3c g\u1eafn mã \u0111\u1ecbnh danh k\u1ef9 thu\u1eadt, h\u1ec7 qu\u1ea3 có th\u1ec3 là gì?
+2025-11-12 09:14:39,385 [INFO] [QA-DEBUG] chosen=['A', 'B', 'C'] | scores_norm=[A=0.04, B=0.00, C=0.06, D=1.00]
+2025-11-12 09:14:39,385 [INFO]    Option A score=0.8988
+2025-11-12 09:14:39,385 [INFO]    Option B score=0.8985
+2025-11-12 09:14:39,385 [INFO]    Option C score=0.8990
+2025-11-12 09:14:39,385 [INFO]    Option D score=0.9063
+2025-11-12 09:14:39,385 [INFO]    => chosen: ['A', 'B', 'C']
+2025-11-12 09:14:39,385 [INFO] [QA] Q170: Trong TD651, “\u1ed4 c\u1ee9ng hay \u1ed5 \u0111\u0129a c\u1ee9ng” c\u1ee7a máy tính g\u1ed3m nh\u1eefng lo\u1ea1i nào?
+2025-11-12 09:15:55,891 [INFO] [QA-DEBUG] chosen=['A', 'C'] | scores_norm=[A=0.90, B=0.34, C=1.00, D=0.00]
+2025-11-12 09:15:55,891 [INFO]    Option A score=0.9224
+2025-11-12 09:15:55,891 [INFO]    Option B score=0.9213
+2025-11-12 09:15:55,891 [INFO]    Option C score=0.9225
+2025-11-12 09:15:55,893 [INFO]    Option D score=0.9207
+2025-11-12 09:15:55,893 [INFO]    => chosen: ['A', 'C']
+2025-11-12 09:15:55,893 [INFO] [QA] Q171: V\u0103n b\u1ea3n Public 446 có n\u1ed9i dung t\u1ed5ng th\u1ec3 liên quan nhi\u1ec1u nh\u1ea5t \u0111\u1ebfn l\u0129nh v\u1ef1c nào?
+2025-11-12 09:17:02,301 [INFO] [QA-DEBUG] chosen=['D'] | scores_norm=[A=0.42, B=0.00, C=0.84, D=1.00]
+2025-11-12 09:17:02,301 [INFO]    Option A score=0.8930
+2025-11-12 09:17:02,301 [INFO]    Option B score=0.8912
+2025-11-12 09:17:02,301 [INFO]    Option C score=0.8949
+2025-11-12 09:17:02,301 [INFO]    Option D score=0.8956
+2025-11-12 09:17:02,305 [INFO]    => chosen: ['D']
+2025-11-12 09:17:02,305 [INFO] [QA] Q172: Theo c\u1ea5u trúc b\u1ea3ng trong TD649, các c\u1ed9t thông tin chính g\u1ed3m nh\u1eefng m\u1ee5c nào?
+2025-11-12 09:18:11,728 [INFO] [QA-DEBUG] chosen=['D'] | scores_norm=[A=0.00, B=0.89, C=0.62, D=1.00]
+2025-11-12 09:18:11,730 [INFO]    Option A score=0.9059
+2025-11-12 09:18:11,730 [INFO]    Option B score=0.9089
+2025-11-12 09:18:11,730 [INFO]    Option C score=0.9080
+2025-11-12 09:18:11,730 [INFO]    Option D score=0.9092
+2025-11-12 09:18:11,730 [INFO]    => chosen: ['D']
+2025-11-12 09:18:11,730 [INFO] [QA] Q173: Màu \u0111èn báo trên gi\u1eafc RJ-45 th\u1ec3 hi\u1ec7n \u0111i\u1ec1u gì: màu tr\u1eafng và màu h\u1ed5 phách l\u1ea7n l\u01b0\u1ee3t ngh\u0129a là gì?
+2025-11-12 09:19:17,449 [INFO] [QA-DEBUG] chosen=['A', 'D'] | scores_norm=[A=0.91, B=0.00, C=0.87, D=1.00]
+2025-11-12 09:19:17,449 [INFO]    Option A score=0.9297
+2025-11-12 09:19:17,449 [INFO]    Option B score=0.9283
+2025-11-12 09:19:17,449 [INFO]    Option C score=0.9296
+2025-11-12 09:19:17,449 [INFO]    Option D score=0.9298
+2025-11-12 09:19:17,449 [INFO]    => chosen: ['A', 'D']
+2025-11-12 09:19:17,449 [INFO] [QA] Q174: Giá bán (ch\u01b0a VAT) c\u1ee7a “S\u01a1n lót kháng ki\u1ec1m n\u1ed9i th\u1ea5t LA” và “S\u01a1n lót kháng ki\u1ec1m ngo\u1ea1i th\u1ea5t LB” trong TD643 l\u1ea7n l\u01b0\u1ee3t là bao nhiêu \u0111\u1ed3ng/lít?
+2025-11-12 09:20:12,961 [INFO] [QA-DEBUG] chosen=['C', 'D'] | scores_norm=[A=0.26, B=0.00, C=0.91, D=1.00]
+2025-11-12 09:20:12,961 [INFO]    Option A score=0.9202
+2025-11-12 09:20:12,961 [INFO]    Option B score=0.9196
+2025-11-12 09:20:12,961 [INFO]    Option C score=0.9216
+2025-11-12 09:20:12,961 [INFO]    Option D score=0.9218
+2025-11-12 09:20:12,965 [INFO]    => chosen: ['C', 'D']
+2025-11-12 09:20:12,965 [INFO] [QA] Q175: Max. decomp. time có ý ngh\u0129a gì và Max. plasticize time có ý ngh\u0129a gì?
+2025-11-12 09:21:30,395 [INFO] [QA-DEBUG] chosen=['C', 'D'] | scores_norm=[A=0.00, B=0.59, C=1.00, D=0.91]
+2025-11-12 09:21:30,395 [INFO]    Option A score=0.8909
+2025-11-12 09:21:30,395 [INFO]    Option B score=0.8919
+2025-11-12 09:21:30,395 [INFO]    Option C score=0.8926
+2025-11-12 09:21:30,395 [INFO]    Option D score=0.8924
+2025-11-12 09:21:30,395 [INFO]    => chosen: ['C', 'D']
+2025-11-12 09:21:30,395 [INFO] [QA] Q176: N\u1ed9i dung chính c\u1ee7a v\u0103n b\u1ea3n Public 444 là gì?
+2025-11-12 09:22:44,176 [INFO] [QA-DEBUG] chosen=['D'] | scores_norm=[A=0.40, B=0.62, C=0.00, D=1.00]
+2025-11-12 09:22:44,176 [INFO]    Option A score=0.8981
+2025-11-12 09:22:44,176 [INFO]    Option B score=0.8996
+2025-11-12 09:22:44,176 [INFO]    Option C score=0.8956
+2025-11-12 09:22:44,176 [INFO]    Option D score=0.9021
+2025-11-12 09:22:44,176 [INFO]    => chosen: ['D']
+2025-11-12 09:22:44,178 [INFO] [QA] Q177: Giá thi công l\u1eafp \u0111\u1eb7t Tr\u1ea7n nhôm Foster C300 ph\u1eb3ng- Shaped, chi\u1ec1u dày 0,9mm trong TD638 là bao nhiêu \u0111\u1ed3ng/m2?
+2025-11-12 09:23:57,561 [INFO] [QA-DEBUG] chosen=['B'] | scores_norm=[A=0.30, B=1.00, C=0.39, D=0.00]
+2025-11-12 09:23:57,561 [INFO]    Option A score=0.9224
+2025-11-12 09:23:57,561 [INFO]    Option B score=0.9227
+2025-11-12 09:23:57,563 [INFO]    Option C score=0.9224
+2025-11-12 09:23:57,563 [INFO]    Option D score=0.9223
+2025-11-12 09:23:57,563 [INFO]    => chosen: ['B']
+2025-11-12 09:23:57,563 [INFO] [QA] Q178: Kho\u1ea3ng cách t\u1ed1i thi\u1ec3u gi\u1eefa t\u1ea5m pin và mái khi l\u1eafp \u0111\u1eb7t là bao nhiêu mm?
+2025-11-12 09:25:16,814 [INFO] [QA-DEBUG] chosen=['C'] | scores_norm=[A=0.32, B=0.00, C=1.00, D=0.66]
+2025-11-12 09:25:16,814 [INFO]    Option A score=0.9209
+2025-11-12 09:25:16,814 [INFO]    Option B score=0.9199
+2025-11-12 09:25:16,814 [INFO]    Option C score=0.9232
+2025-11-12 09:25:16,814 [INFO]    Option D score=0.9221
+2025-11-12 09:25:16,814 [INFO]    => chosen: ['C']
+2025-11-12 09:25:16,814 [INFO] [QA] Q179: Theo tài li\u1ec7u Public_624, b\u1ec1 r\u1ed9ng t\u1ed1i thi\u1ec3u v\u1ec9a hè \u0111\u01b0\u1eddng c\u1ea5p \u0111ô th\u1ecb là bao nhiêu mét, và b\u1ec1 r\u1ed9ng t\u1ed1i thi\u1ec3u \u0111\u01b0\u1eddng xe \u0111\u1ea1p là bao nhiêu mét?
+2025-11-12 09:26:35,206 [INFO] [QA-DEBUG] chosen=['C'] | scores_norm=[A=0.54, B=0.00, C=1.00, D=0.30]
+2025-11-12 09:26:35,213 [INFO]    Option A score=0.9191
+2025-11-12 09:26:35,213 [INFO]    Option B score=0.9190
+2025-11-12 09:26:35,213 [INFO]    Option C score=0.9192
+2025-11-12 09:26:35,213 [INFO]    Option D score=0.9191
+2025-11-12 09:26:35,213 [INFO]    => chosen: ['C']
+2025-11-12 09:26:35,213 [INFO] [QA] Q180: “Cát cho bê tông và v\u1eefa” có Tiêu chu\u1ea9n l\u1ea5y m\u1eabu, yêu c\u1ea7u k\u1ef9 thu\u1eadt nào theo TD647?
+2025-11-12 09:27:52,705 [INFO] [QA-DEBUG] chosen=['C', 'D'] | scores_norm=[A=0.23, B=0.00, C=1.00, D=0.92]
+2025-11-12 09:27:52,705 [INFO]    Option A score=0.9368
+2025-11-12 09:27:52,705 [INFO]    Option B score=0.9365
+2025-11-12 09:27:52,705 [INFO]    Option C score=0.9375
+2025-11-12 09:27:52,705 [INFO]    Option D score=0.9375
+2025-11-12 09:27:52,707 [INFO]    => chosen: ['C', 'D']
+2025-11-12 09:27:52,707 [INFO] [QA] Q181: Trên màn hình cài \u0111\u1eb7t phun, s\u1ed1 b\u01b0\u1edbc phun có th\u1ec3 \u0111i\u1ec1u ch\u1ec9nh t\u1ed1i \u0111a là bao nhiêu?
+2025-11-12 09:29:10,090 [INFO] [QA-DEBUG] chosen=['A'] | scores_norm=[A=1.00, B=0.81, C=0.00, D=0.19]
+2025-11-12 09:29:10,090 [INFO]    Option A score=0.9405
+2025-11-12 09:29:10,090 [INFO]    Option B score=0.9405
+2025-11-12 09:29:10,090 [INFO]    Option C score=0.9403
+2025-11-12 09:29:10,090 [INFO]    Option D score=0.9403
+2025-11-12 09:29:10,090 [INFO]    => chosen: ['A']
+2025-11-12 09:29:10,090 [INFO] [QA] Q182: M\u1ed9t h\u1ed9 gia \u0111ình s\u1eed d\u1ee5ng \u0111i\u1ec7n sinh ho\u1ea1t, v\u1eady nhóm \u0111i\u1ec7n \u0111\u01b0\u1ee3c tính giá thu\u1ed9c lo\u1ea1i nào?
+2025-11-12 09:30:24,050 [INFO] [QA-DEBUG] chosen=['B'] | scores_norm=[A=0.76, B=1.00, C=0.00, D=0.78]
+2025-11-12 09:30:24,050 [INFO]    Option A score=0.9376
+2025-11-12 09:30:24,052 [INFO]    Option B score=0.9377
+2025-11-12 09:30:24,052 [INFO]    Option C score=0.9372
+2025-11-12 09:30:24,052 [INFO]    Option D score=0.9376
+2025-11-12 09:30:24,052 [INFO]    => chosen: ['B']
+2025-11-12 09:30:24,054 [INFO] [QA] Q183: S\u01a1 \u0111\u1ed3 nh\u1ea5t th\u1ee9 có nh\u1eefng lo\u1ea1i nào và s\u01a1 \u0111\u1ed3 m\u1ed9t s\u1ee3i bi\u1ec3u th\u1ecb \u0111i\u1ec1u gì?
+2025-11-12 09:31:42,124 [INFO] [QA-DEBUG] chosen=['B'] | scores_norm=[A=0.43, B=1.00, C=0.54, D=0.00]
+2025-11-12 09:31:42,124 [INFO]    Option A score=0.9073
+2025-11-12 09:31:42,124 [INFO]    Option B score=0.9091
+2025-11-12 09:31:42,124 [INFO]    Option C score=0.9077
+2025-11-12 09:31:42,124 [INFO]    Option D score=0.9060
+2025-11-12 09:31:42,124 [INFO]    => chosen: ['B']
+2025-11-12 09:31:42,124 [INFO] [QA] Q184: Theo tài li\u1ec7u Public_657, n\u1ebfu có báo \u0111\u1ed9ng, h\u1ed9p thông báo trên màn hình s\u1ebd hi\u1ec3n th\u1ecb màu gì?
+2025-11-12 09:32:53,213 [INFO] [QA-DEBUG] chosen=['D'] | scores_norm=[A=0.58, B=0.00, C=0.51, D=1.00]
+2025-11-12 09:32:53,213 [INFO]    Option A score=0.9164
+2025-11-12 09:32:53,213 [INFO]    Option B score=0.9163
+2025-11-12 09:32:53,213 [INFO]    Option C score=0.9164
+2025-11-12 09:32:53,213 [INFO]    Option D score=0.9166
+2025-11-12 09:32:53,213 [INFO]    => chosen: ['D']
+2025-11-12 09:32:53,215 [INFO] [QA] Q185: “B\u1ed9 s\u1ea1c n\u0103ng l\u01b0\u1ee3ng m\u1eb7t tr\u1eddi (solar charger)” trong TD650 có Mã s\u1ed1 theo bi\u1ec3u thu\u1ebf nh\u1eadp kh\u1ea9u theo nhóm nào?
+2025-11-12 09:33:35,598 [INFO] [QA-DEBUG] chosen=['B'] | scores_norm=[A=0.00, B=1.00, C=0.49, D=0.22]
+2025-11-12 09:33:35,600 [INFO]    Option A score=0.9182
+2025-11-12 09:33:35,600 [INFO]    Option B score=0.9183
+2025-11-12 09:33:35,600 [INFO]    Option C score=0.9183
+2025-11-12 09:33:35,600 [INFO]    Option D score=0.9182
+2025-11-12 09:33:35,600 [INFO]    => chosen: ['B']
+2025-11-12 09:33:35,600 [INFO] [QA] Q186: Theo Public 447, trong k\u1ecbch b\u1ea3n ki\u1ec3m th\u1eed Cluster failover, h\u1ec7 th\u1ed1ng ph\u1ea3i t\u1ef1 \u0111\u1ed9ng chuy\u1ec3n \u0111\u1ed5i trong bao lâu?
+2025-11-12 09:34:36,571 [INFO] [QA-DEBUG] chosen=['D'] | scores_norm=[A=0.33, B=0.00, C=0.50, D=1.00]
+2025-11-12 09:34:36,571 [INFO]    Option A score=0.9276
+2025-11-12 09:34:36,571 [INFO]    Option B score=0.9273
+2025-11-12 09:34:36,571 [INFO]    Option C score=0.9277
+2025-11-12 09:34:36,571 [INFO]    Option D score=0.9281
+2025-11-12 09:34:36,571 [INFO]    => chosen: ['D']
+2025-11-12 09:34:36,571 [INFO] [QA] Q187: Trong TD638, có bao nhiêu m\u1eb7t hàng có giá bán l\u1edbn h\u01a1n 1.000.000 \u0111\u1ed3ng?
+2025-11-12 09:35:45,621 [INFO] [QA-DEBUG] chosen=['A', 'D'] | scores_norm=[A=0.93, B=0.89, C=0.00, D=1.00]
+2025-11-12 09:35:45,621 [INFO]    Option A score=0.9212
+2025-11-12 09:35:45,621 [INFO]    Option B score=0.9211
+2025-11-12 09:35:45,621 [INFO]    Option C score=0.9207
+2025-11-12 09:35:45,621 [INFO]    Option D score=0.9212
+2025-11-12 09:35:45,621 [INFO]    => chosen: ['A', 'D']
+2025-11-12 09:35:45,621 [INFO] [QA] Q188: Tài li\u1ec7u Public_660 mô t\u1ea3 ch\u1ee7 y\u1ebfu v\u1ec1 n\u1ed9i dung gì?
+2025-11-12 09:36:45,815 [INFO] [QA-DEBUG] chosen=['A', 'B'] | scores_norm=[A=1.00, B=1.00, C=0.23, D=0.00]
+2025-11-12 09:36:45,816 [INFO]    Option A score=0.9315
+2025-11-12 09:36:45,816 [INFO]    Option B score=0.9315
+2025-11-12 09:36:45,816 [INFO]    Option C score=0.9236
+2025-11-12 09:36:45,816 [INFO]    Option D score=0.9213
+2025-11-12 09:36:45,817 [INFO]    => chosen: ['A', 'B']
+2025-11-12 09:36:45,822 [INFO] [QA] Q189: Tr\u01b0\u1eddng “Charge torque” có ch\u1ee9c n\u0103ng gì?
+2025-11-12 09:37:48,519 [INFO] [QA-DEBUG] chosen=['C'] | scores_norm=[A=0.00, B=0.29, C=1.00, D=0.85]
+2025-11-12 09:37:48,519 [INFO]    Option A score=0.9103
+2025-11-12 09:37:48,519 [INFO]    Option B score=0.9134
+2025-11-12 09:37:48,519 [INFO]    Option C score=0.9209
+2025-11-12 09:37:48,519 [INFO]    Option D score=0.9194
+2025-11-12 09:37:48,519 [INFO]    => chosen: ['C']
+2025-11-12 09:37:48,519 [INFO] [QA] Q190: \u0110\u1ea7u dò Convex (Model và d\u1ea3i t\u1ea7n s\u1ed1) và \u0110\u1ea7u dò th\u1ef1c qu\u1ea3n (Model và d\u1ea3i t\u1ea7n s\u1ed1) l\u1ea7n l\u01b0\u1ee3t là gì?
+2025-11-12 09:39:08,009 [INFO] [QA-DEBUG] chosen=['D'] | scores_norm=[A=0.75, B=0.12, C=0.00, D=1.00]
+2025-11-12 09:39:08,009 [INFO]    Option A score=0.9173
+2025-11-12 09:39:08,009 [INFO]    Option B score=0.9155
+2025-11-12 09:39:08,009 [INFO]    Option C score=0.9151
+2025-11-12 09:39:08,009 [INFO]    Option D score=0.9180
+2025-11-12 09:39:08,009 [INFO]    => chosen: ['D']
+2025-11-12 09:39:08,009 [INFO] [QA] Q191: Tr\u01b0\u1eddng “Inject time” có ch\u1ee9c n\u0103ng gì?
+2025-11-12 09:40:26,156 [INFO] [QA-DEBUG] chosen=['B'] | scores_norm=[A=0.00, B=1.00, C=0.41, D=0.24]
+2025-11-12 09:40:26,156 [INFO]    Option A score=0.9236
+2025-11-12 09:40:26,156 [INFO]    Option B score=0.9379
+2025-11-12 09:40:26,156 [INFO]    Option C score=0.9295
+2025-11-12 09:40:26,156 [INFO]    Option D score=0.9270
+2025-11-12 09:40:26,156 [INFO]    => chosen: ['B']
+2025-11-12 09:40:26,156 [INFO] [QA] Q192: Có m\u1ea5y b\u01b0\u1edbc \u0111\u1ec3 m\u1edf bàn phím \u1ea3o (On-Screen Keyboard) trong Windows?
+2025-11-12 09:41:39,673 [INFO] [QA-DEBUG] chosen=['B'] | scores_norm=[A=0.07, B=1.00, C=0.74, D=0.00]
+2025-11-12 09:41:39,673 [INFO]    Option A score=0.9304
+2025-11-12 09:41:39,673 [INFO]    Option B score=0.9308
+2025-11-12 09:41:39,673 [INFO]    Option C score=0.9307
+2025-11-12 09:41:39,673 [INFO]    Option D score=0.9303
+2025-11-12 09:41:39,673 [INFO]    => chosen: ['B']
+2025-11-12 09:41:39,673 [INFO] [QA] Q193: Theo tài li\u1ec7u Public_652, phím nào dùng \u0111\u1ec3 m\u1edf màn hình Tr\u1ee3 giúp?
+2025-11-12 09:42:56,028 [INFO] [QA-DEBUG] chosen=['B', 'C'] | scores_norm=[A=0.00, B=0.93, C=1.00, D=0.85]
+2025-11-12 09:42:56,028 [INFO]    Option A score=0.9144
+2025-11-12 09:42:56,028 [INFO]    Option B score=0.9155
+2025-11-12 09:42:56,028 [INFO]    Option C score=0.9156
+2025-11-12 09:42:56,028 [INFO]    Option D score=0.9154
+2025-11-12 09:42:56,030 [INFO]    => chosen: ['B', 'C']
+2025-11-12 09:42:56,030 [INFO] [QA] Q194: Trong TD634, có t\u1ed5ng c\u1ed9ng bao nhiêu lo\u1ea1i \u0111\u1ea7u dò \u0111\u01b0\u1ee3c mô t\u1ea3 chi ti\u1ebft kèm theo \u1ee9ng d\u1ee5ng?
+2025-11-12 09:43:25,445 [INFO] [QA-DEBUG] chosen=['C'] | scores_norm=[A=0.73, B=0.00, C=1.00, D=0.82]
+2025-11-12 09:43:25,445 [INFO]    Option A score=0.8881
+2025-11-12 09:43:25,445 [INFO]    Option B score=0.8857
+2025-11-12 09:43:25,445 [INFO]    Option C score=0.8889
+2025-11-12 09:43:25,445 [INFO]    Option D score=0.8884
+2025-11-12 09:43:25,445 [INFO]    => chosen: ['C']
+2025-11-12 09:43:25,445 [INFO] [QA] Q195: Tài li\u1ec7u Public_671 ch\u1ee7 y\u1ebfu mô t\u1ea3 v\u1ec1 n\u1ed9i dung gì?
+2025-11-12 09:44:48,203 [INFO] [QA-DEBUG] chosen=['D'] | scores_norm=[A=0.46, B=0.39, C=0.00, D=1.00]
+2025-11-12 09:44:48,203 [INFO]    Option A score=0.9251
+2025-11-12 09:44:48,203 [INFO]    Option B score=0.9244
+2025-11-12 09:44:48,203 [INFO]    Option C score=0.9200
+2025-11-12 09:44:48,203 [INFO]    Option D score=0.9311
+2025-11-12 09:44:48,203 [INFO]    => chosen: ['D']
+2025-11-12 09:44:48,203 [INFO] [QA] Q196: Màn hình LCD c\u1ee7a máy siêu âm ICU trong TD636 có kích th\u01b0\u1edbc bao nhiêu inch?
+2025-11-12 09:46:02,767 [INFO] [QA-DEBUG] chosen=['B', 'C'] | scores_norm=[A=0.16, B=0.90, C=1.00, D=0.00]
+2025-11-12 09:46:02,767 [INFO]    Option A score=0.9367
+2025-11-12 09:46:02,767 [INFO]    Option B score=0.9387
+2025-11-12 09:46:02,767 [INFO]    Option C score=0.9389
+2025-11-12 09:46:02,767 [INFO]    Option D score=0.9363
+2025-11-12 09:46:02,767 [INFO]    => chosen: ['B', 'C']
+2025-11-12 09:46:02,767 [INFO] [QA] Q197: Trong b\u1ea3ng ví d\u1ee5 quy \u01b0\u1edbc v\u1ebd, có bao nhiêu lo\u1ea1i lò xo \u0111\u01b0\u1ee3c li\u1ec7t kê?
+2025-11-12 09:47:21,903 [INFO] [QA-DEBUG] chosen=['D'] | scores_norm=[A=0.64, B=0.85, C=0.00, D=1.00]
+2025-11-12 09:47:21,903 [INFO]    Option A score=0.9224
+2025-11-12 09:47:21,903 [INFO]    Option B score=0.9225
+2025-11-12 09:47:21,903 [INFO]    Option C score=0.9219
+2025-11-12 09:47:21,903 [INFO]    Option D score=0.9226
+2025-11-12 09:47:21,903 [INFO]    => chosen: ['D']
+2025-11-12 09:47:21,903 [INFO] [QA] Q198: Trong quy trình x\u1eed lý d\u1eef li\u1ec7u \u0111\u01b0\u1ee3c mô t\u1ea3 trong tài li\u1ec7u Public_446, b\u01b0\u1edbc nào \u0111\u01b0\u1ee3c th\u1ef1c hi\u1ec7n tr\u01b0\u1edbc khi l\u01b0u d\u1eef li\u1ec7u chính th\u1ee9c?
+2025-11-12 09:48:30,353 [INFO] [QA-DEBUG] chosen=['A'] | scores_norm=[A=1.00, B=0.72, C=0.04, D=0.00]
+2025-11-12 09:48:30,354 [INFO]    Option A score=0.9349
+2025-11-12 09:48:30,354 [INFO]    Option B score=0.9335
+2025-11-12 09:48:30,354 [INFO]    Option C score=0.9303
+2025-11-12 09:48:30,354 [INFO]    Option D score=0.9301
+2025-11-12 09:48:30,354 [INFO]    => chosen: ['A']
+2025-11-12 09:48:30,354 [INFO] [QA] Q199: T\u01b0\u1eddng hi\u1ec7n có c\u1ea7n s\u1eeda ch\u1eefa \u0111\u01b0\u1ee3c ký hi\u1ec7u riêng \u0111\u1ec3 làm gì và t\u01b0\u1eddng m\u1edbi thi\u1ebft k\u1ebf khi s\u1eeda ch\u1eefa hay xây m\u1edbi c\u1ea7n th\u1ec3 hi\u1ec7n th\u1ebf nào?
+2025-11-12 09:49:48,297 [INFO] [QA-DEBUG] chosen=['A'] | scores_norm=[A=1.00, B=0.00, C=0.51, D=0.87]
+2025-11-12 09:49:48,297 [INFO]    Option A score=0.9065
+2025-11-12 09:49:48,297 [INFO]    Option B score=0.9002
+2025-11-12 09:49:48,297 [INFO]    Option C score=0.9034
+2025-11-12 09:49:48,297 [INFO]    Option D score=0.9057
+2025-11-12 09:49:48,297 [INFO]    => chosen: ['A']
+2025-11-12 09:49:48,297 [INFO] [QA] Q200: Trong ki\u1ec3m th\u1eed Database recovery test, s\u1ef1 ki\u1ec7n nào c\u1ea7n \u0111\u01b0\u1ee3c mô ph\u1ecfng \u0111\u1ec3 \u0111ánh giá kh\u1ea3 n\u0103ng ph\u1ee5c h\u1ed3i?
+2025-11-12 09:50:50,272 [INFO] [QA-DEBUG] chosen=['A', 'B'] | scores_norm=[A=0.98, B=1.00, C=0.28, D=0.00]
+2025-11-12 09:50:50,272 [INFO]    Option A score=0.9409
+2025-11-12 09:50:50,272 [INFO]    Option B score=0.9409
+2025-11-12 09:50:50,272 [INFO]    Option C score=0.9396
+2025-11-12 09:50:50,272 [INFO]    Option D score=0.9391
+2025-11-12 09:50:50,272 [INFO]    => chosen: ['A', 'B']
+2025-11-12 09:50:50,272 [INFO] [QA] Q201: Có bao nhiêu cách \u0111\u1ec3 cài \u0111\u1eb7t ngày và gi\u1edd (Date & Time) theo tài li\u1ec7u Public_653?
+2025-11-12 09:52:07,719 [INFO] [QA-DEBUG] chosen=['A'] | scores_norm=[A=1.00, B=0.83, C=0.16, D=0.00]
+2025-11-12 09:52:07,719 [INFO]    Option A score=0.9196
+2025-11-12 09:52:07,719 [INFO]    Option B score=0.9195
+2025-11-12 09:52:07,719 [INFO]    Option C score=0.9192
+2025-11-12 09:52:07,719 [INFO]    Option D score=0.9191
+2025-11-12 09:52:07,719 [INFO]    => chosen: ['A']
+2025-11-12 09:52:07,719 [INFO] [QA] Q202: “Máy ti\u1ec7n v\u1ea1n n\u0103ng ph\u1ed5 thông” và “Máy c\u1eaft v\u1eadt li\u1ec7u nh\u1ef1a PE” trong TD648 có Mã s\u1ed1 theo bi\u1ec3u thu\u1ebf nh\u1eadp kh\u1ea9u theo nhóm l\u1ea7n l\u01b0\u1ee3t là gì?
+2025-11-12 09:52:55,030 [INFO] [QA-DEBUG] chosen=['A', 'D'] | scores_norm=[A=0.99, B=0.46, C=0.00, D=1.00]
+2025-11-12 09:52:55,046 [INFO]    Option A score=0.8882
+2025-11-12 09:52:55,046 [INFO]    Option B score=0.8870
+2025-11-12 09:52:55,046 [INFO]    Option C score=0.8859
+2025-11-12 09:52:55,046 [INFO]    Option D score=0.8883
+2025-11-12 09:52:55,046 [INFO]    => chosen: ['A', 'D']
+2025-11-12 09:52:55,046 [INFO] [QA] Q203: N\u1ebfu log không ghi \u0111\u1ea7y \u0111\u1ee7 chi ti\u1ebft transaction trong quá trình rollback, nh\u1eefng thách th\u1ee9c chính trong vi\u1ec7c ch\u1ea9n \u0111oán và khôi ph\u1ee5c h\u1ec7 th\u1ed1ng là gì?
+2025-11-12 09:54:03,321 [INFO] [QA-DEBUG] chosen=['C'] | scores_norm=[A=0.34, B=0.29, C=0.00, D=1.00]
+2025-11-12 09:54:03,321 [INFO]    Option A score=0.9287
+2025-11-12 09:54:03,321 [INFO]    Option B score=0.9283
+2025-11-12 09:54:03,322 [INFO]    Option C score=0.9260
+2025-11-12 09:54:03,322 [INFO]    Option D score=0.9339
+2025-11-12 09:54:03,322 [INFO]    => chosen: ['C']
+2025-11-12 09:54:03,323 [INFO] [QA] Q204: Tài li\u1ec7u Public_442 có \u0111\u1ec1 c\u1eadp \u0111\u1ebfn tính n\u0103ng “phát âm báo theo t\u1ec9nh” và yêu c\u1ea7u popup thông tin khách hàng không?
+2025-11-12 09:55:16,617 [INFO] [QA-DEBUG] chosen=['C'] | scores_norm=[A=0.96, B=1.00, C=0.00, D=0.99]
+2025-11-12 09:55:16,617 [INFO]    Option A score=0.9111
+2025-11-12 09:55:16,617 [INFO]    Option B score=0.9112
+2025-11-12 09:55:16,617 [INFO]    Option C score=0.9089
+2025-11-12 09:55:16,617 [INFO]    Option D score=0.9112
+2025-11-12 09:55:16,617 [INFO]    => chosen: ['C']
+2025-11-12 09:55:16,632 [INFO] [QA] Q205: V\u0103n b\u1ea3n Public_655 ch\u1ee7 y\u1ebfu nói v\u1ec1 n\u1ed9i dung gì?
+2025-11-12 09:56:26,219 [INFO] [QA-DEBUG] chosen=['A'] | scores_norm=[A=1.00, B=0.00, C=0.62, D=0.70]
+2025-11-12 09:56:26,219 [INFO]    Option A score=0.9291
+2025-11-12 09:56:26,219 [INFO]    Option B score=0.9033
+2025-11-12 09:56:26,219 [INFO]    Option C score=0.9193
+2025-11-12 09:56:26,219 [INFO]    Option D score=0.9214
+2025-11-12 09:56:26,219 [INFO]    => chosen: ['A']
+2025-11-12 09:56:26,219 [INFO] [QA] Q206: Lo\u1ea1i \u0111á nào trong danh m\u1ee5c TD637 có giá bán t\u1ea1i m\u1ecf là 160.000 \u0111\u1ed3ng/m³?
+2025-11-12 09:57:39,829 [INFO] [QA-DEBUG] chosen=['B'] | scores_norm=[A=0.10, B=1.00, C=0.00, D=0.76]
+2025-11-12 09:57:39,830 [INFO]    Option A score=0.9188
+2025-11-12 09:57:39,830 [INFO]    Option B score=0.9216
+2025-11-12 09:57:39,830 [INFO]    Option C score=0.9185
+2025-11-12 09:57:39,830 [INFO]    Option D score=0.9209
+2025-11-12 09:57:39,831 [INFO]    => chosen: ['B']
+2025-11-12 09:57:39,831 [INFO] [QA] Q207: “Thi\u1ebft b\u1ecb \u0111\u1ea7u cu\u1ed1i OLT” và “Thi\u1ebft b\u1ecb âm thanh không dây” trong TD650 có Mã s\u1ed1 theo bi\u1ec3u thu\u1ebf nh\u1eadp kh\u1ea9u theo nhóm l\u1ea7n l\u01b0\u1ee3t là gì?
+2025-11-12 09:58:27,721 [INFO] [QA-DEBUG] chosen=['B'] | scores_norm=[A=0.79, B=0.00, C=0.82, D=1.00]
+2025-11-12 09:58:27,721 [INFO]    Option A score=0.8923
+2025-11-12 09:58:27,721 [INFO]    Option B score=0.8919
+2025-11-12 09:58:27,721 [INFO]    Option C score=0.8923
+2025-11-12 09:58:27,721 [INFO]    Option D score=0.8924
+2025-11-12 09:58:27,721 [INFO]    => chosen: ['B']
+2025-11-12 09:58:27,721 [INFO] [QA] Q208: Card \u0111\u1ed3 h\u1ecda r\u1eddi (VGA r\u1eddi) th\u01b0\u1eddng phù h\u1ee3p v\u1edbi nhu c\u1ea7u nào?
+2025-11-12 09:59:45,353 [INFO] [QA-DEBUG] chosen=['D'] | scores_norm=[A=0.46, B=0.15, C=0.00, D=1.00]
+2025-11-12 09:59:45,353 [INFO]    Option A score=0.9172
+2025-11-12 09:59:45,353 [INFO]    Option B score=0.9158
+2025-11-12 09:59:45,353 [INFO]    Option C score=0.9151
+2025-11-12 09:59:45,353 [INFO]    Option D score=0.9197
+2025-11-12 09:59:45,353 [INFO]    => chosen: ['D']
+2025-11-12 09:59:45,368 [INFO] [QA] Q209: Tên g\u1ecdi ph\u1ed5 bi\u1ebfn c\u1ee7a b\u1ed1 c\u1ee5c bàn phím g\u1ed3m 6 ch\u1eef cái \u0111\u1ea7u tiên là gì?
+2025-11-12 10:01:03,699 [INFO] [QA-DEBUG] chosen=['B'] | scores_norm=[A=0.00, B=1.00, C=0.75, D=0.66]
+2025-11-12 10:01:03,699 [INFO]    Option A score=0.9111
+2025-11-12 10:01:03,699 [INFO]    Option B score=0.9129
+2025-11-12 10:01:03,699 [INFO]    Option C score=0.9124
+2025-11-12 10:01:03,699 [INFO]    Option D score=0.9123
+2025-11-12 10:01:03,699 [INFO]    => chosen: ['B']
+2025-11-12 10:01:03,699 [INFO] [QA] Q210: Trên màn hình Overview \u0111\u01b0\u1ee3c mô t\u1ea3 trong tài li\u1ec7u Public_658, có bao nhiêu nút menu ng\u1eef c\u1ea3nh \u0111\u01b0\u1ee3c li\u1ec7t kê?
+2025-11-12 10:02:22,483 [INFO] [QA-DEBUG] chosen=['A'] | scores_norm=[A=1.00, B=0.55, C=0.54, D=0.00]
+2025-11-12 10:02:22,483 [INFO]    Option A score=0.9181
+2025-11-12 10:02:22,483 [INFO]    Option B score=0.9180
+2025-11-12 10:02:22,483 [INFO]    Option C score=0.9180
+2025-11-12 10:02:22,483 [INFO]    Option D score=0.9179
+2025-11-12 10:02:22,483 [INFO]    => chosen: ['A']
+2025-11-12 10:02:22,483 [INFO] [QA] Q211: N\u1ebfu h\u1ec7 th\u1ed1ng không rollback khi thêm m\u1edbi d\u1eef li\u1ec7u b\u1ecb thi\u1ebfu tr\u01b0\u1eddng, có th\u1ec3 d\u1eabn t\u1edbi h\u1eadu qu\u1ea3 nào?
+2025-11-12 10:03:31,027 [INFO] [QA-DEBUG] chosen=['B'] | scores_norm=[A=0.22, B=0.00, C=0.63, D=1.00]
+2025-11-12 10:03:31,027 [INFO]    Option A score=0.9468
+2025-11-12 10:03:31,027 [INFO]    Option B score=0.9462
+2025-11-12 10:03:31,027 [INFO]    Option C score=0.9479
+2025-11-12 10:03:31,027 [INFO]    Option D score=0.9489
+2025-11-12 10:03:31,027 [INFO]    => chosen: ['B']
+2025-11-12 10:03:31,027 [INFO] [QA] Q212: Theo c\u1ea5u trúc b\u1ea3ng trong TD650, các c\u1ed9t thông tin chính g\u1ed3m nh\u1eefng m\u1ee5c nào?
+2025-11-12 10:04:28,991 [INFO] [QA-DEBUG] chosen=['D'] | scores_norm=[A=0.00, B=0.78, C=0.89, D=1.00]
+2025-11-12 10:04:28,992 [INFO]    Option A score=0.9259
+2025-11-12 10:04:28,992 [INFO]    Option B score=0.9330
+2025-11-12 10:04:28,992 [INFO]    Option C score=0.9341
+2025-11-12 10:04:28,992 [INFO]    Option D score=0.9350
+2025-11-12 10:04:28,992 [INFO]    => chosen: ['D']
+2025-11-12 10:04:28,993 [INFO] [QA] Q213: Theo c\u1ea5u trúc b\u1ea3ng giá trong TD646, các c\u1ed9t thông tin chính g\u1ed3m nh\u1eefng m\u1ee5c nào?
+2025-11-12 10:05:47,687 [INFO] [QA-DEBUG] chosen=['D'] | scores_norm=[A=0.00, B=0.78, C=0.32, D=1.00]
+2025-11-12 10:05:47,687 [INFO]    Option A score=0.9137
+2025-11-12 10:05:47,687 [INFO]    Option B score=0.9144
+2025-11-12 10:05:47,687 [INFO]    Option C score=0.9140
+2025-11-12 10:05:47,687 [INFO]    Option D score=0.9146
+2025-11-12 10:05:47,687 [INFO]    => chosen: ['D']
+2025-11-12 10:05:47,687 [INFO] [QA] Q214: Theo tài li\u1ec7u Public_447, n\u1ebfu trong ki\u1ec3m th\u1eed Load test h\u1ec7 th\u1ed1ng không l\u01b0u l\u1ea1i log \u0111\u1ea7y \u0111\u1ee7, h\u1eadu qu\u1ea3 nào có th\u1ec3 x\u1ea3y ra?
+2025-11-12 10:06:56,935 [INFO] [QA-DEBUG] chosen=['A', 'B'] | scores_norm=[A=0.00, B=0.05, C=0.29, D=1.00]
+2025-11-12 10:06:56,935 [INFO]    Option A score=0.9211
+2025-11-12 10:06:56,935 [INFO]    Option B score=0.9215
+2025-11-12 10:06:56,935 [INFO]    Option C score=0.9233
+2025-11-12 10:06:56,935 [INFO]    Option D score=0.9285
+2025-11-12 10:06:56,935 [INFO]    => chosen: ['A', 'B']
+2025-11-12 10:06:56,935 [INFO] [QA] Q215: Trong v\u0103n b\u1ea3n, b\u1ea5t c\u1eadp khi không có tính n\u0103ng “t\u1ef1 \u0111\u1ed9ng check ng\u01b0\u1ee1ng ngh\u1ebdn” là gì?
+2025-11-12 10:08:12,246 [INFO] [QA-DEBUG] chosen=['A'] | scores_norm=[A=0.00, B=0.30, C=1.00, D=0.67]
+2025-11-12 10:08:12,246 [INFO]    Option A score=0.9204
+2025-11-12 10:08:12,246 [INFO]    Option B score=0.9214
+2025-11-12 10:08:12,246 [INFO]    Option C score=0.9238
+2025-11-12 10:08:12,246 [INFO]    Option D score=0.9227
+2025-11-12 10:08:12,246 [INFO]    => chosen: ['A']
+2025-11-12 10:08:12,249 [INFO] [QA] Q216: (V\u1ebf 1) Trên màn hình Overview, Cycle time hi\u1ec3n th\u1ecb m\u1ea5y giá tr\u1ecb khác nhau? — (V\u1ebf 2) Các tr\u01b0\u1eddng này g\u1ed3m nh\u1eefng gì?
+2025-11-12 10:09:29,016 [INFO] [QA-DEBUG] chosen=['B'] | scores_norm=[A=0.68, B=1.00, C=0.52, D=0.00]
+2025-11-12 10:09:29,017 [INFO]    Option A score=0.9316
+2025-11-12 10:09:29,017 [INFO]    Option B score=0.9323
+2025-11-12 10:09:29,017 [INFO]    Option C score=0.9312
+2025-11-12 10:09:29,017 [INFO]    Option D score=0.9300
+2025-11-12 10:09:29,017 [INFO]    => chosen: ['B']
+2025-11-12 10:09:29,018 [INFO] [QA] Q217: Giá bán \u0111\u1ebfn chân công trình c\u1ee7a “Van c\u1ed5ng ty chìm m\u1eb7t bích tay quay - DN 300” là bao nhiêu \u0111\u1ed3ng/cái?
+2025-11-12 10:10:37,574 [INFO] [QA-DEBUG] chosen=['A'] | scores_norm=[A=1.00, B=0.00, C=0.23, D=0.59]
+2025-11-12 10:10:37,574 [INFO]    Option A score=0.9101
+2025-11-12 10:10:37,574 [INFO]    Option B score=0.9095
+2025-11-12 10:10:37,574 [INFO]    Option C score=0.9097
+2025-11-12 10:10:37,574 [INFO]    Option D score=0.9099
+2025-11-12 10:10:37,574 [INFO]    => chosen: ['A']
+2025-11-12 10:10:37,574 [INFO] [QA] Q218: T\u1ed5ng c\u1ed9ng có bao nhiêu lo\u1ea1i màn hình ch\u1ee9c n\u0103ng \u0111i\u1ec1u h\u01b0\u1edbng \u0111\u01b0\u1ee3c li\u1ec7t kê \u1edf thanh d\u01b0\u1edbi cùng?
+2025-11-12 10:11:53,394 [INFO] [QA-DEBUG] chosen=['B'] | scores_norm=[A=0.60, B=1.00, C=0.46, D=0.00]
+2025-11-12 10:11:53,394 [INFO]    Option A score=0.9228
+2025-11-12 10:11:53,394 [INFO]    Option B score=0.9229
+2025-11-12 10:11:53,394 [INFO]    Option C score=0.9227
+2025-11-12 10:11:53,394 [INFO]    Option D score=0.9226
+2025-11-12 10:11:53,394 [INFO]    => chosen: ['B']
+2025-11-12 10:11:53,400 [INFO] [QA] Q219: \u01afu \u0111i\u1ec3m c\u1ee7a \u0111i\u1ec7n m\u1eb7t tr\u1eddi so v\u1edbi \u0111i\u1ec7n l\u01b0\u1edbi nhà n\u01b0\u1edbc là gì?
+2025-11-12 10:13:12,442 [INFO] [QA-DEBUG] chosen=['D'] | scores_norm=[A=0.47, B=0.00, C=0.61, D=1.00]
+2025-11-12 10:13:12,442 [INFO]    Option A score=0.9158
+2025-11-12 10:13:12,442 [INFO]    Option B score=0.9142
+2025-11-12 10:13:12,442 [INFO]    Option C score=0.9163
+2025-11-12 10:13:12,442 [INFO]    Option D score=0.9176
+2025-11-12 10:13:12,442 [INFO]    => chosen: ['D']
+2025-11-12 10:13:12,442 [INFO] [QA] Q220: Theo c\u1ea5u trúc tài li\u1ec7u TD635, các nhóm thông tin chính \u0111\u01b0\u1ee3c trình bày g\u1ed3m nh\u1eefng gì?
+2025-11-12 10:14:28,706 [INFO] [QA-DEBUG] chosen=['C'] | scores_norm=[A=0.00, B=0.59, C=1.00, D=0.87]
+2025-11-12 10:14:28,706 [INFO]    Option A score=0.9246
+2025-11-12 10:14:28,706 [INFO]    Option B score=0.9283
+2025-11-12 10:14:28,706 [INFO]    Option C score=0.9309
+2025-11-12 10:14:28,706 [INFO]    Option D score=0.9300
+2025-11-12 10:14:28,706 [INFO]    => chosen: ['C']
+2025-11-12 10:14:28,708 [INFO] [QA] Q221: Giá bán \u0111\u1ebfn chân công trình c\u1ee7a “Cút 45 \u0111\u1ed9 EE DN 280” và “Cút 45 \u0111\u1ed9 EE DN 300” l\u1ea7n l\u01b0\u1ee3t là bao nhiêu \u0111\u1ed3ng/b\u1ed9?
+2025-11-12 10:15:29,755 [INFO] [QA-DEBUG] chosen=['B'] | scores_norm=[A=0.00, B=1.00, C=0.23, D=0.11]
+2025-11-12 10:15:29,755 [INFO]    Option A score=0.9367
+2025-11-12 10:15:29,755 [INFO]    Option B score=0.9388
+2025-11-12 10:15:29,755 [INFO]    Option C score=0.9372
+2025-11-12 10:15:29,755 [INFO]    Option D score=0.9369
+2025-11-12 10:15:29,755 [INFO]    => chosen: ['B']
+2025-11-12 10:15:29,758 [INFO] [QA] Q222: Trong tài li\u1ec7u Public_660, m\u1ee5c “Ch\u1ebf \u0111\u1ed9 (Mode)” li\u1ec7t kê bao nhiêu ch\u1ebf \u0111\u1ed9?
+2025-11-12 10:16:43,648 [INFO] [QA-DEBUG] chosen=['A'] | scores_norm=[A=1.00, B=0.83, C=0.70, D=0.00]
+2025-11-12 10:16:43,648 [INFO]    Option A score=0.9224
+2025-11-12 10:16:43,648 [INFO]    Option B score=0.9223
+2025-11-12 10:16:43,648 [INFO]    Option C score=0.9223
+2025-11-12 10:16:43,648 [INFO]    Option D score=0.9220
+2025-11-12 10:16:43,648 [INFO]    => chosen: ['A']
+2025-11-12 10:16:43,648 [INFO] [QA] Q223: Trên b\u1ea3n v\u1ebd t\u1ef7 l\u1ec7 1:200, vách ng\u0103n \u0111\u01b0\u1ee3c th\u1ec3 hi\u1ec7n b\u1eb1ng lo\u1ea1i nét nào?
+2025-11-12 10:17:33,987 [INFO] [QA-DEBUG] chosen=['A'] | scores_norm=[A=1.00, B=0.00, C=0.78, D=0.09]
+2025-11-12 10:17:33,987 [INFO]    Option A score=0.9121
+2025-11-12 10:17:33,987 [INFO]    Option B score=0.9087
+2025-11-12 10:17:33,987 [INFO]    Option C score=0.9113
+2025-11-12 10:17:33,987 [INFO]    Option D score=0.9090
+2025-11-12 10:17:33,987 [INFO]    => chosen: ['A']
+2025-11-12 10:17:33,987 [INFO] [QA] Q224: \u0110\u1ed9 phân gi\u1ea3i màn hình LCD c\u1ee7a máy in 3D Elegoo Saturn 4 Ultra là bao nhiêu?
+2025-11-12 10:18:49,486 [INFO] [QA-DEBUG] chosen=['B', 'C'] | scores_norm=[A=0.00, B=0.94, C=1.00, D=0.60]
+2025-11-12 10:18:49,486 [INFO]    Option A score=0.9248
+2025-11-12 10:18:49,486 [INFO]    Option B score=0.9276
+2025-11-12 10:18:49,486 [INFO]    Option C score=0.9278
+2025-11-12 10:18:49,486 [INFO]    Option D score=0.9266
+2025-11-12 10:18:49,486 [INFO]    => chosen: ['B', 'C']
+2025-11-12 10:18:49,486 [INFO] [QA] Q225: Nút Set all ref. curves dùng \u0111\u1ec3 làm gì và nút Export dùng \u0111\u1ec3 làm gì?
+2025-11-12 10:20:05,957 [INFO] [QA-DEBUG] chosen=['C'] | scores_norm=[A=0.00, B=0.23, C=1.00, D=0.76]
+2025-11-12 10:20:05,957 [INFO]    Option A score=0.9077
+2025-11-12 10:20:05,957 [INFO]    Option B score=0.9086
+2025-11-12 10:20:05,957 [INFO]    Option C score=0.9117
+2025-11-12 10:20:05,957 [INFO]    Option D score=0.9107
+2025-11-12 10:20:05,957 [INFO]    => chosen: ['C']
+2025-11-12 10:20:05,957 [INFO] [QA] Q226: Theo kh\u1ea3o sát, tính n\u0103ng nào \u0111\u01b0\u1ee3c mong mu\u1ed1n b\u1ed5 sung \u0111\u1ec3 ki\u1ec3m tra tình tr\u1ea1ng âm báo t\u1ea1i t\u1eebng t\u1ec9nh?
+2025-11-12 10:21:22,235 [INFO] [QA-DEBUG] chosen=['C'] | scores_norm=[A=0.44, B=0.24, C=1.00, D=0.00]
+2025-11-12 10:21:22,235 [INFO]    Option A score=0.9254
+2025-11-12 10:21:22,235 [INFO]    Option B score=0.9245
+2025-11-12 10:21:22,235 [INFO]    Option C score=0.9280
+2025-11-12 10:21:22,235 [INFO]    Option D score=0.9234
+2025-11-12 10:21:22,238 [INFO]    => chosen: ['C']
+2025-11-12 10:21:22,238 [INFO] [QA] Q227: \u01afu \u0111i\u1ec3m n\u1ed5i b\u1eadt c\u1ee7a màn hình LCD m\u1ea1 crôm trên Saturn 4 Ultra 16K là gì?
+2025-11-12 10:22:41,381 [INFO] [QA-DEBUG] chosen=['A'] | scores_norm=[A=1.00, B=0.82, C=0.00, D=0.42]
+2025-11-12 10:22:41,381 [INFO]    Option A score=0.9276
+2025-11-12 10:22:41,382 [INFO]    Option B score=0.9265
+2025-11-12 10:22:41,382 [INFO]    Option C score=0.9220
+2025-11-12 10:22:41,382 [INFO]    Option D score=0.9243
+2025-11-12 10:22:41,382 [INFO]    => chosen: ['A']
+2025-11-12 10:22:41,383 [INFO] [QA] Q228: “Cân ô tô \u0111i\u1ec7n t\u1eed” trong TD648 có Mã s\u1ed1 theo bi\u1ec3u thu\u1ebf nh\u1eadp kh\u1ea9u theo nhóm nào?
+2025-11-12 10:23:33,172 [INFO] [QA-DEBUG] chosen=['A'] | scores_norm=[A=1.00, B=0.50, C=0.43, D=0.00]
+2025-11-12 10:23:33,172 [INFO]    Option A score=0.9444
+2025-11-12 10:23:33,172 [INFO]    Option B score=0.9443
+2025-11-12 10:23:33,175 [INFO]    Option C score=0.9442
+2025-11-12 10:23:33,175 [INFO]    Option D score=0.9441
+2025-11-12 10:23:33,175 [INFO]    => chosen: ['A']
+2025-11-12 10:23:33,175 [INFO] [QA] Q229: Kích th\u01b0\u1edbc th\u1ec3 tích in c\u1ee7a Elegoo Saturn 4 Ultra 16K là bao nhiêu?
+2025-11-12 10:24:50,689 [INFO] [QA-DEBUG] chosen=['A'] | scores_norm=[A=1.00, B=0.75, C=0.00, D=0.69]
+2025-11-12 10:24:50,691 [INFO]    Option A score=0.9122
+2025-11-12 10:24:50,691 [INFO]    Option B score=0.9118
+2025-11-12 10:24:50,691 [INFO]    Option C score=0.9106
+2025-11-12 10:24:50,691 [INFO]    Option D score=0.9117
+2025-11-12 10:24:50,691 [INFO]    => chosen: ['A']
+2025-11-12 10:24:50,691 [INFO] [QA] Q230: Các v\u1ecb trí nào trên m\u1ed9t máy tính th\u01b0\u1eddng có khe thông gió?
+2025-11-12 10:26:06,552 [INFO] [QA-DEBUG] chosen=['A'] | scores_norm=[A=1.00, B=0.12, C=0.00, D=0.75]
+2025-11-12 10:26:06,552 [INFO]    Option A score=0.9393
+2025-11-12 10:26:06,552 [INFO]    Option B score=0.9368
+2025-11-12 10:26:06,552 [INFO]    Option C score=0.9365
+2025-11-12 10:26:06,552 [INFO]    Option D score=0.9386
+2025-11-12 10:26:06,552 [INFO]    => chosen: ['A']
+2025-11-12 10:26:06,552 [INFO] [QA] Q231: (1) H\u1ec7 th\u1ed1ng vCOC cung c\u1ea5p báo cáo theo th\u1eddi gian nào? (2) K\u1ebft qu\u1ea3 \u0111\u01b0\u1ee3c hi\u1ec3n th\u1ecb d\u01b0\u1edbi hình th\u1ee9c gì?
+2025-11-12 10:27:22,554 [INFO] [QA-DEBUG] chosen=['A'] | scores_norm=[A=1.00, B=0.00, C=0.73, D=0.27]
+2025-11-12 10:27:22,555 [INFO]    Option A score=0.9014
+2025-11-12 10:27:22,555 [INFO]    Option B score=0.8944
+2025-11-12 10:27:22,556 [INFO]    Option C score=0.8995
+2025-11-12 10:27:22,556 [INFO]    Option D score=0.8963
+2025-11-12 10:27:22,556 [INFO]    => chosen: ['A']
+2025-11-12 10:27:22,557 [INFO] [QA] Q232: V\u0103n b\u1ea3n Public_658 ch\u1ee7 y\u1ebfu mô t\u1ea3 v\u1ec1 n\u1ed9i dung gì?
+2025-11-12 10:28:36,952 [INFO] [QA-DEBUG] chosen=['A'] | scores_norm=[A=1.00, B=0.64, C=0.68, D=0.00]
+2025-11-12 10:28:36,952 [INFO]    Option A score=0.9097
+2025-11-12 10:28:36,952 [INFO]    Option B score=0.9065
+2025-11-12 10:28:36,953 [INFO]    Option C score=0.9068
+2025-11-12 10:28:36,953 [INFO]    Option D score=0.9009
+2025-11-12 10:28:36,953 [INFO]    => chosen: ['A']
+2025-11-12 10:28:36,953 [INFO] [QA] Q233: Public_471 quy \u0111\u1ecbnh \u0111\u1ed9 b\u1ec1n mài mòn c\u1ee7a hình \u1ea3nh in/ghi \u0111\u1ea1t yêu c\u1ea7u trong \u0111i\u1ec1u ki\u1ec7n nào?
+2025-11-12 10:29:54,639 [INFO] [QA-DEBUG] chosen=['A', 'D'] | scores_norm=[A=1.00, B=0.65, C=0.00, D=0.97]
+2025-11-12 10:29:54,639 [INFO]    Option A score=0.9148
+2025-11-12 10:29:54,639 [INFO]    Option B score=0.9141
+2025-11-12 10:29:54,639 [INFO]    Option C score=0.9129
+2025-11-12 10:29:54,639 [INFO]    Option D score=0.9147
+2025-11-12 10:29:54,639 [INFO]    => chosen: ['A', 'D']
+2025-11-12 10:29:54,639 [INFO] [QA] Q234: Trong TD644, “C\u1ed9t thép \u0111a giác, tròn côn THGT dày 6mm, tay v\u01b0\u01a1n vuông góc 5m + 2m dày
+4mm” có giá bán (ch\u01b0a VAT) là bao nhiêu \u0111\u1ed3ng/c\u1ed9t?
+2025-11-12 10:31:09,093 [INFO] [QA-DEBUG] chosen=['D'] | scores_norm=[A=0.79, B=0.64, C=0.00, D=1.00]
+2025-11-12 10:31:09,093 [INFO]    Option A score=0.9263
+2025-11-12 10:31:09,093 [INFO]    Option B score=0.9263
+2025-11-12 10:31:09,093 [INFO]    Option C score=0.9260
+2025-11-12 10:31:09,093 [INFO]    Option D score=0.9264
+2025-11-12 10:31:09,093 [INFO]    => chosen: ['D']
+2025-11-12 10:31:09,093 [INFO] [QA] Q235: Trong tài li\u1ec7u Public_639, theo c\u1ea5u trúc c\u1ee7a TD639, các c\u1ed9t thông tin chính trong b\u1ea3ng giá v\u1eadt li\u1ec7u g\u1ed3m nh\u1eefng m\u1ee5c nào?
+2025-11-12 10:32:28,837 [INFO] [QA-DEBUG] chosen=['D'] | scores_norm=[A=0.00, B=0.71, C=0.69, D=1.00]
+2025-11-12 10:32:28,837 [INFO]    Option A score=0.9106
+2025-11-12 10:32:28,837 [INFO]    Option B score=0.9180
+2025-11-12 10:32:28,837 [INFO]    Option C score=0.9178
+2025-11-12 10:32:28,837 [INFO]    Option D score=0.9209
+2025-11-12 10:32:28,837 [INFO]    => chosen: ['D']
+2025-11-12 10:32:28,837 [INFO] [QA] Q236: V\u0103n b\u1ea3n này ch\u1ee7 y\u1ebfu mô t\u1ea3 v\u1ec1 n\u1ed9i dung gì?
+2025-11-12 10:33:43,242 [INFO] [QA-DEBUG] chosen=['C', 'D'] | scores_norm=[A=0.00, B=0.74, C=0.91, D=1.00]
+2025-11-12 10:33:43,257 [INFO]    Option A score=0.9068
+2025-11-12 10:33:43,257 [INFO]    Option B score=0.9161
+2025-11-12 10:33:43,258 [INFO]    Option C score=0.9182
+2025-11-12 10:33:43,258 [INFO]    Option D score=0.9193
+2025-11-12 10:33:43,258 [INFO]    => chosen: ['C', 'D']
+2025-11-12 10:33:43,258 [INFO] [QA] Q237: Giá bán (ch\u01b0a VAT) c\u1ee7a “Tr\u1ee5 t\u1ee7 \u0111i\u1ec1u khi\u1ec3n tín hi\u1ec7u giao thông” và “T\u1ee7 \u0111i\u1ec1u khi\u1ec3n tín hi\u1ec7u giao thông 2 pha, \u1ed5n áp 2000VA” trong TD644 l\u1ea7n l\u01b0\u1ee3t là bao nhiêu \u0111\u1ed3ng/b\u1ed9?
+2025-11-12 10:34:59,839 [INFO] [QA-DEBUG] chosen=['C'] | scores_norm=[A=0.09, B=0.06, C=1.00, D=0.00]
+2025-11-12 10:34:59,839 [INFO]    Option A score=0.9124
+2025-11-12 10:34:59,839 [INFO]    Option B score=0.9124
+2025-11-12 10:34:59,839 [INFO]    Option C score=0.9135
+2025-11-12 10:34:59,839 [INFO]    Option D score=0.9123
+2025-11-12 10:34:59,839 [INFO]    => chosen: ['C']
+2025-11-12 10:34:59,839 [INFO] [QA] Q238: Trong ký hi\u1ec7u ngu\u1ed3n \u0111i\u1ec7n, dây trung tính \u0111\u01b0\u1ee3c bi\u1ec3u th\u1ecb b\u1eb1ng ch\u1eef nào?
+2025-11-12 10:36:17,289 [INFO] [QA-DEBUG] chosen=['C'] | scores_norm=[A=0.00, B=0.54, C=1.00, D=0.31]
+2025-11-12 10:36:17,289 [INFO]    Option A score=0.9238
+2025-11-12 10:36:17,289 [INFO]    Option B score=0.9239
+2025-11-12 10:36:17,289 [INFO]    Option C score=0.9240
+2025-11-12 10:36:17,289 [INFO]    Option D score=0.9239
+2025-11-12 10:36:17,289 [INFO]    => chosen: ['C']
+2025-11-12 10:36:17,289 [INFO] [QA] Q239: Giá bán (ch\u01b0a VAT) c\u1ee7a “\u0110èn LED \u0111\u01b0\u1eddng ph\u1ed1 VHL1-60W (Dim 5 c\u1ea5p)” và “\u0110èn LED \u0111\u01b0\u1eddng ph\u1ed1 VHL2-120W” l\u1ea7n l\u01b0\u1ee3t là bao nhiêu \u0111\u1ed3ng?
+2025-11-12 10:37:28,567 [INFO] [QA-DEBUG] chosen=['B'] | scores_norm=[A=0.00, B=1.00, C=0.69, D=0.35]
+2025-11-12 10:37:28,568 [INFO]    Option A score=0.9135
+2025-11-12 10:37:28,568 [INFO]    Option B score=0.9136
+2025-11-12 10:37:28,568 [INFO]    Option C score=0.9135
+2025-11-12 10:37:28,568 [INFO]    Option D score=0.9135
+2025-11-12 10:37:28,569 [INFO]    => chosen: ['B']
+2025-11-12 10:37:28,569 [INFO] [QA] Q240: “\u1ed0ng thép b\u1ecdc cách nhi\u1ec7t” trong TD649 có Mã s\u1ed1 theo bi\u1ec3u thu\u1ebf nh\u1eadp kh\u1ea9u theo nhóm nào?
+2025-11-12 10:38:17,122 [INFO] [QA-DEBUG] chosen=['C'] | scores_norm=[A=0.01, B=0.40, C=1.00, D=0.00]
+2025-11-12 10:38:17,122 [INFO]    Option A score=0.9387
+2025-11-12 10:38:17,122 [INFO]    Option B score=0.9389
+2025-11-12 10:38:17,122 [INFO]    Option C score=0.9392
+2025-11-12 10:38:17,122 [INFO]    Option D score=0.9387
+2025-11-12 10:38:17,122 [INFO]    => chosen: ['C']
+2025-11-12 10:38:17,122 [INFO] [QA] Q241: Trong TD636, t\u1ed5ng c\u1ed9ng có bao nhiêu lo\u1ea1i thi\u1ebft b\u1ecb \u0111\u01b0\u1ee3c mô t\u1ea3 chi ti\u1ebft kèm c\u1ea5u hình và thông s\u1ed1 k\u1ef9 thu\u1eadt?
+2025-11-12 10:38:55,550 [INFO] [QA-DEBUG] chosen=['C'] | scores_norm=[A=0.76, B=0.78, C=1.00, D=0.00]
+2025-11-12 10:38:55,550 [INFO]    Option A score=0.9192
+2025-11-12 10:38:55,550 [INFO]    Option B score=0.9193
+2025-11-12 10:38:55,550 [INFO]    Option C score=0.9200
+2025-11-12 10:38:55,550 [INFO]    Option D score=0.9168
+2025-11-12 10:38:55,550 [INFO]    => chosen: ['C']
+2025-11-12 10:38:55,552 [INFO] [QA] Q242: “Cáp DUL, thép c\u01b0\u1eddng \u0111\u1ed9 cao” có quy \u0111\u1ecbnh v\u1ec1 S\u1ed1 l\u01b0\u1ee3ng/ Kh\u1ed1i l\u01b0\u1ee3ng/ Quy cách m\u1eabu th\u1eed nh\u01b0 th\u1ebf nào?
+2025-11-12 10:40:10,727 [INFO] [QA-DEBUG] chosen=['A'] | scores_norm=[A=1.00, B=0.18, C=0.60, D=0.00]
+2025-11-12 10:40:10,727 [INFO]    Option A score=0.9078
+2025-11-12 10:40:10,727 [INFO]    Option B score=0.9075
+2025-11-12 10:40:10,727 [INFO]    Option C score=0.9076
+2025-11-12 10:40:10,727 [INFO]    Option D score=0.9074
+2025-11-12 10:40:10,727 [INFO]    => chosen: ['A']
+2025-11-12 10:40:10,727 [INFO] [QA] Q243: Trong TD642, “Vách d\u1ef1ng li\u1ec1n c\u1eeda s\u1ed5, 1 cánh, m\u1edf h\u1ea5t (\u0111\u1ed1 c\u1eeda h\u1edf)” có giá bán (ch\u01b0a VAT) là bao nhiêu \u0111\u1ed3ng/m²?
+2025-11-12 10:41:28,023 [INFO] [QA-DEBUG] chosen=['A'] | scores_norm=[A=1.00, B=0.62, C=0.00, D=0.62]
+2025-11-12 10:41:28,023 [INFO]    Option A score=0.9192
+2025-11-12 10:41:28,023 [INFO]    Option B score=0.9191
+2025-11-12 10:41:28,023 [INFO]    Option C score=0.9188
+2025-11-12 10:41:28,023 [INFO]    Option D score=0.9191
+2025-11-12 10:41:28,023 [INFO]    => chosen: ['A']
+2025-11-12 10:41:28,025 [INFO] [QA] Q244: N\u1ed9i dung chính c\u1ee7a Public 447 t\u1eadp trung vào v\u1ea5n \u0111\u1ec1 nào?
+2025-11-12 10:42:50,493 [INFO] [QA-DEBUG] chosen=['B'] | scores_norm=[A=0.00, B=1.00, C=0.71, D=0.12]
+2025-11-12 10:42:50,493 [INFO]    Option A score=0.9073
+2025-11-12 10:42:50,493 [INFO]    Option B score=0.9125
+2025-11-12 10:42:50,493 [INFO]    Option C score=0.9110
+2025-11-12 10:42:50,493 [INFO]    Option D score=0.9079
+2025-11-12 10:42:50,493 [INFO]    => chosen: ['B']
+2025-11-12 10:42:50,493 [INFO] [QA] Q245: Giá bán (ch\u01b0a VAT) c\u1ee7a “G\u1ea1ch bê tông KN 2 l\u1ed7 GT5, Mác 10” và “G\u1ea1ch bê tông KN \u0111\u1eb7c GT1, Mác 10” trong tài li\u1ec7u Public_641 l\u1ea7n l\u01b0\u1ee3t là bao nhiêu \u0111\u1ed3ng/m³?
+2025-11-12 10:44:04,261 [INFO] [QA-DEBUG] chosen=['A'] | scores_norm=[A=1.00, B=0.40, C=0.24, D=0.00]
+2025-11-12 10:44:04,261 [INFO]    Option A score=0.9416
+2025-11-12 10:44:04,261 [INFO]    Option B score=0.9411
+2025-11-12 10:44:04,261 [INFO]    Option C score=0.9410
+2025-11-12 10:44:04,261 [INFO]    Option D score=0.9408
+2025-11-12 10:44:04,261 [INFO]    => chosen: ['A']
+2025-11-12 10:44:04,261 [INFO] [QA] Q246: V\u0103n b\u1ea3n này ch\u1ee7 y\u1ebfu mô t\u1ea3 n\u1ed9i dung gì?
+2025-11-12 10:45:18,726 [INFO] [QA-DEBUG] chosen=['D'] | scores_norm=[A=0.00, B=0.31, C=0.09, D=1.00]
+2025-11-12 10:45:18,726 [INFO]    Option A score=0.9136
+2025-11-12 10:45:18,726 [INFO]    Option B score=0.9165
+2025-11-12 10:45:18,726 [INFO]    Option C score=0.9145
+2025-11-12 10:45:18,726 [INFO]    Option D score=0.9231
+2025-11-12 10:45:18,726 [INFO]    => chosen: ['D']
+2025-11-12 10:45:18,726 [INFO] [QA] Q247: \u0110\u01a1n v\u1ecb tính c\u1ee7a công tác “Ván khuôn móng” \u0111\u01b0\u1ee3c ghi trong b\u1ea3ng là gì?
+2025-11-12 10:46:34,375 [INFO] [QA-DEBUG] chosen=['C'] | scores_norm=[A=0.00, B=0.26, C=1.00, D=0.71]
+2025-11-12 10:46:34,375 [INFO]    Option A score=0.9279
+2025-11-12 10:46:34,375 [INFO]    Option B score=0.9282
+2025-11-12 10:46:34,376 [INFO]    Option C score=0.9290
+2025-11-12 10:46:34,376 [INFO]    Option D score=0.9287
+2025-11-12 10:46:34,376 [INFO]    => chosen: ['C']
+2025-11-12 10:46:34,377 [INFO] [QA] Q248: Ch\u1ee9c n\u0103ng c\u1ee7a API /customer/update khi s\u1eed d\u1ee5ng ph\u01b0\u01a1ng th\u1ee9c PATCH \u0111\u01b0\u1ee3c mô t\u1ea3 trong tài li\u1ec7u Public_448 là gì?
+2025-11-12 10:47:28,389 [INFO] [QA-DEBUG] chosen=['D'] | scores_norm=[A=0.00, B=0.54, C=0.10, D=1.00]
+2025-11-12 10:47:28,389 [INFO]    Option A score=0.9133
+2025-11-12 10:47:28,390 [INFO]    Option B score=0.9157
+2025-11-12 10:47:28,390 [INFO]    Option C score=0.9137
+2025-11-12 10:47:28,390 [INFO]    Option D score=0.9178
+2025-11-12 10:47:28,390 [INFO]    => chosen: ['D']
+2025-11-12 10:47:28,391 [INFO] [QA] Q249: H\u1ec7 \u0111i\u1ec1u hành nào có th\u1ec3 \u0111\u01b0\u1ee3c s\u1eed d\u1ee5ng cho máy tính \u0111\u1ec3 bàn \u0111\u01b0\u1ee3c mô t\u1ea3 trong tài li\u1ec7u Public_651?
+2025-11-12 10:48:47,887 [INFO] [QA-DEBUG] chosen=['A'] | scores_norm=[A=1.00, B=0.68, C=0.00, D=0.43]
+2025-11-12 10:48:47,887 [INFO]    Option A score=0.8994
+2025-11-12 10:48:47,887 [INFO]    Option B score=0.8987
+2025-11-12 10:48:47,887 [INFO]    Option C score=0.8974
+2025-11-12 10:48:47,888 [INFO]    Option D score=0.8982
+2025-11-12 10:48:47,888 [INFO]    => chosen: ['A']
+2025-11-12 10:48:47,889 [INFO] [QA] Q250: S\u1ed1 l\u01b0\u1ee3ng t\u1ea5m pin c\u1ea7n cho h\u1ec7 \u0111i\u1ec7n m\u1eb7t tr\u1eddi 5 kWp (s\u1eed d\u1ee5ng t\u1ea5m pin 555W) là bao nhiêu?
+2025-11-12 10:50:32,792 [INFO] [QA-DEBUG] chosen=['C'] | scores_norm=[A=0.80, B=0.82, C=1.00, D=0.00]
+2025-11-12 10:50:32,792 [INFO]    Option A score=0.9009
+2025-11-12 10:50:32,792 [INFO]    Option B score=0.9009
+2025-11-12 10:50:32,792 [INFO]    Option C score=0.9009
+2025-11-12 10:50:32,792 [INFO]    Option D score=0.9009
+2025-11-12 10:50:32,792 [INFO]    => chosen: ['C']
+2025-11-12 10:50:32,796 [INFO] [QA] Q251: Chi\u1ec1u dài vít c\u1ea5y \u0111\u01b0\u1ee3c l\u1ea5y b\u1eb1ng bao nhiêu khi chi ti\u1ebft có l\u1ed7 ren b\u1eb1ng gang và khi b\u1eb1ng h\u1ee3p kim nh\u1eb9?
+2025-11-12 10:52:23,688 [INFO] [QA-DEBUG] chosen=['A'] | scores_norm=[A=1.00, B=0.77, C=0.00, D=0.50]
+2025-11-12 10:52:23,690 [INFO]    Option A score=0.9205
+2025-11-12 10:52:23,690 [INFO]    Option B score=0.9203
+2025-11-12 10:52:23,690 [INFO]    Option C score=0.9198
+2025-11-12 10:52:23,690 [INFO]    Option D score=0.9202
+2025-11-12 10:52:23,690 [INFO]    => chosen: ['A']
+2025-11-12 10:52:23,693 [INFO] [QA] Q252: Vì sao h\u1ec7 th\u1ed1ng GBOC ngoài báo cáo SXKD còn c\u1ea7n thêm ch\u1ee9c n\u0103ng GBOC.DASHBOARD.ALARM (c\u1ea3nh báo kinh doanh)?
+2025-11-12 10:54:05,609 [INFO] [QA-DEBUG] chosen=['A'] | scores_norm=[A=1.00, B=0.37, C=0.00, D=0.61]
+2025-11-12 10:54:05,610 [INFO]    Option A score=0.9351
+2025-11-12 10:54:05,614 [INFO]    Option B score=0.9342
+2025-11-12 10:54:05,614 [INFO]    Option C score=0.9337
+2025-11-12 10:54:05,614 [INFO]    Option D score=0.9346
+2025-11-12 10:54:05,614 [INFO]    => chosen: ['A']
+2025-11-12 10:54:05,619 [INFO] [QA] Q253: Lo\u1ea1i khí nào th\u01b0\u1eddng \u0111\u01b0\u1ee3c s\u1eed d\u1ee5ng ph\u1ed5 bi\u1ebfn nh\u1ea5t trong c\u1eaft Plasma?
+2025-11-12 10:55:29,583 [INFO] [QA-DEBUG] chosen=['B', 'D'] | scores_norm=[A=0.36, B=0.91, C=0.00, D=1.00]
+2025-11-12 10:55:29,583 [INFO]    Option A score=0.9172
+2025-11-12 10:55:29,583 [INFO]    Option B score=0.9187
+2025-11-12 10:55:29,583 [INFO]    Option C score=0.9162
+2025-11-12 10:55:29,583 [INFO]    Option D score=0.9189
+2025-11-12 10:55:29,583 [INFO]    => chosen: ['B', 'D']
+2025-11-12 10:55:29,583 [INFO] [QA] Q254: Plasma \u0111\u01b0\u1ee3c \u0111\u1ec1 c\u1eadp trong tài li\u1ec7u Public_468 là gì?
+2025-11-12 10:57:17,079 [INFO] [QA-DEBUG] chosen=['B'] | scores_norm=[A=0.00, B=1.00, C=0.75, D=0.75]
+2025-11-12 10:57:17,081 [INFO]    Option A score=0.9041
+2025-11-12 10:57:17,081 [INFO]    Option B score=0.9074
+2025-11-12 10:57:17,081 [INFO]    Option C score=0.9066
+2025-11-12 10:57:17,081 [INFO]    Option D score=0.9065
+2025-11-12 10:57:17,082 [INFO]    => chosen: ['B']
+2025-11-12 10:57:17,082 [INFO] [QA] Q255: Máy h\u1ea1 thân nhi\u1ec7t ch\u1ec9 huy trong TD636 có màn hình c\u1ea3m \u1ee9ng TFT kích th\u01b0\u1edbc bao nhiêu?
+2025-11-12 10:58:33,739 [INFO] [QA-DEBUG] chosen=['C'] | scores_norm=[A=0.49, B=0.46, C=1.00, D=0.00]
+2025-11-12 10:58:33,741 [INFO]    Option A score=0.9470
+2025-11-12 10:58:33,741 [INFO]    Option B score=0.9469
+2025-11-12 10:58:33,741 [INFO]    Option C score=0.9484
+2025-11-12 10:58:33,741 [INFO]    Option D score=0.9456
+2025-11-12 10:58:33,741 [INFO]    => chosen: ['C']
+2025-11-12 10:58:33,743 [INFO] [QA] Q256: Khi th\u1ef1c hi\u1ec7n export d\u1eef li\u1ec7u Contact trong CRM, h\u1ec7 th\u1ed1ng c\u1ea7n làm gì tr\u01b0\u1edbc tiên?
+2025-11-12 11:00:08,760 [INFO] [QA-DEBUG] chosen=['A', 'B'] | scores_norm=[A=1.00, B=0.91, C=0.88, D=0.00]
+2025-11-12 11:00:08,760 [INFO]    Option A score=0.9242
+2025-11-12 11:00:08,760 [INFO]    Option B score=0.9232
+2025-11-12 11:00:08,762 [INFO]    Option C score=0.9229
+2025-11-12 11:00:08,762 [INFO]    Option D score=0.9135
+2025-11-12 11:00:08,762 [INFO]    => chosen: ['A', 'B']
+2025-11-12 11:00:08,763 [INFO] [QA] Q257: Theo c\u1ea5u trúc tài li\u1ec7u TD637, các c\u1ed9t thông tin chính trong b\u1ea3ng giá v\u1eadt li\u1ec7u xây d\u1ef1ng g\u1ed3m nh\u1eefng gì?
+2025-11-12 11:00:25,133 [INFO] [QA-DEBUG] chosen=['C', 'D'] | scores_norm=[A=0.00, B=0.68, C=1.00, D=0.91]
+2025-11-12 11:00:25,133 [INFO]    Option A score=0.9154
+2025-11-12 11:00:25,133 [INFO]    Option B score=0.9235
+2025-11-12 11:00:25,135 [INFO]    Option C score=0.9272
+2025-11-12 11:00:25,135 [INFO]    Option D score=0.9262
+2025-11-12 11:00:25,135 [INFO]    => chosen: ['C', 'D']
+2025-11-12 11:00:25,137 [INFO] [QA] Q258: Elegoo Saturn 4 Ultra 16K th\u01b0\u1eddng \u0111\u01b0\u1ee3c \u1ee9ng d\u1ee5ng trong nh\u1eefng l\u0129nh v\u1ef1c nào?
+2025-11-12 11:02:15,718 [INFO] [QA-DEBUG] chosen=['A'] | scores_norm=[A=1.00, B=0.70, C=0.00, D=0.87]
+2025-11-12 11:02:15,720 [INFO]    Option A score=0.9135
+2025-11-12 11:02:15,720 [INFO]    Option B score=0.9126
+2025-11-12 11:02:15,720 [INFO]    Option C score=0.9104
+2025-11-12 11:02:15,720 [INFO]    Option D score=0.9131
+2025-11-12 11:02:15,720 [INFO]    => chosen: ['A']
+2025-11-12 11:02:15,720 [INFO] [QA] Q259: Theo tài li\u1ec7u Public_473, hãng hàng không giá r\u1ebb nên ch\u1ecdn phiên b\u1ea3n máy bay ho\u1eb7c h\u1ec7 th\u1ed1ng nào \u0111\u1ec3 t\u1ed1i \u01b0u chi phí khai thác?
+2025-11-12 11:04:11,150 [INFO] [QA-DEBUG] chosen=['A', 'C'] | scores_norm=[A=0.00, B=1.00, C=0.00, D=0.16]
+2025-11-12 11:04:11,154 [INFO]    Option A score=0.9147
+2025-11-12 11:04:11,154 [INFO]    Option B score=0.9159
+2025-11-12 11:04:11,154 [INFO]    Option C score=0.9147
+2025-11-12 11:04:11,154 [INFO]    Option D score=0.9149
+2025-11-12 11:04:11,156 [INFO]    => chosen: ['A', 'C']
+2025-11-12 11:04:11,160 [INFO] [QA] Q260: Trong Public 444, mã ch\u1ee9c n\u0103ng nào \u0111\u01b0\u1ee3c g\u1eafn v\u1edbi nghi\u1ec7p v\u1ee5 Qu\u1ea3n lý công n\u1ee3?
+2025-11-12 11:05:45,162 [INFO] [QA-DEBUG] chosen=['B'] | scores_norm=[A=0.89, B=1.00, C=0.83, D=0.00]
+2025-11-12 11:05:45,162 [INFO]    Option A score=0.9275
+2025-11-12 11:05:45,162 [INFO]    Option B score=0.9277
+2025-11-12 11:05:45,162 [INFO]    Option C score=0.9274
+2025-11-12 11:05:45,162 [INFO]    Option D score=0.9264
+2025-11-12 11:05:45,162 [INFO]    => chosen: ['B']
+2025-11-12 11:05:45,165 [INFO] [QA] Q261: Theo c\u1ea5u trúc TD638, các c\u1ed9t thông tin chính trong b\u1ea3ng giá v\u1eadt li\u1ec7u xây d\u1ef1ng g\u1ed3m nh\u1eefng gì?
+2025-11-12 11:06:00,478 [INFO] [QA-DEBUG] chosen=['B', 'C'] | scores_norm=[A=0.00, B=1.00, C=0.99, D=0.73]
+2025-11-12 11:06:00,478 [INFO]    Option A score=0.9200
+2025-11-12 11:06:00,478 [INFO]    Option B score=0.9290
+2025-11-12 11:06:00,478 [INFO]    Option C score=0.9289
+2025-11-12 11:06:00,478 [INFO]    Option D score=0.9266
+2025-11-12 11:06:00,478 [INFO]    => chosen: ['B', 'C']
+2025-11-12 11:06:00,482 [INFO] [QA] Q262: N\u1ebfu xe \u0111\u01b0\u1ee3c th\u1eed phanh chính và d\u1ef1 phòng \u1edf v\u1eadn t\u1ed1c 32 km/h mà không \u0111\u1ea1t kho\u1ea3ng cách d\u1eebng quy \u0111\u1ecbnh, k\u1ebft lu\u1eadn th\u1ebf nào?
+2025-11-12 11:07:46,756 [INFO] [QA-DEBUG] chosen=['C'] | scores_norm=[A=0.83, B=1.00, C=0.00, D=0.53]
+2025-11-12 11:07:46,756 [INFO]    Option A score=0.9140
+2025-11-12 11:07:46,756 [INFO]    Option B score=0.9154
+2025-11-12 11:07:46,758 [INFO]    Option C score=0.9074
+2025-11-12 11:07:46,758 [INFO]    Option D score=0.9116
+2025-11-12 11:07:46,758 [INFO]    => chosen: ['C']
+2025-11-12 11:07:46,758 [INFO] [QA] Q263: Theo tài li\u1ec7u Public_441, \u0111\u01a1n v\u1ecb nào ch\u1ecbu trách nhi\u1ec7m phát tri\u1ec3n và tri\u1ec3n khai h\u1ec7 th\u1ed1ng vCOC?
+2025-11-12 11:09:41,055 [INFO] [QA-DEBUG] chosen=['A'] | scores_norm=[A=1.00, B=0.00, C=0.39, D=0.65]
+2025-11-12 11:09:41,057 [INFO]    Option A score=0.8977
+2025-11-12 11:09:41,057 [INFO]    Option B score=0.8946
+2025-11-12 11:09:41,057 [INFO]    Option C score=0.8958
+2025-11-12 11:09:41,057 [INFO]    Option D score=0.8966
+2025-11-12 11:09:41,057 [INFO]    => chosen: ['A']
+2025-11-12 11:09:41,057 [INFO] [QA] Q264: Chi\u1ec1u dài c\u1ee7a máy bay Airbus A321 là bao nhiêu?
+2025-11-12 11:11:35,602 [INFO] [QA-DEBUG] chosen=['A', 'D'] | scores_norm=[A=1.00, B=0.13, C=0.00, D=0.99]
+2025-11-12 11:11:35,602 [INFO]    Option A score=0.9191
+2025-11-12 11:11:35,602 [INFO]    Option B score=0.9176
+2025-11-12 11:11:35,602 [INFO]    Option C score=0.9174
+2025-11-12 11:11:35,602 [INFO]    Option D score=0.9191
+2025-11-12 11:11:35,606 [INFO]    => chosen: ['A', 'D']
+2025-11-12 11:11:35,606 [INFO] [QA] Q265: C\u1eeda s\u1ed5 \u0111\u01a1n hai cánh quay theo b\u1ea3n l\u1ec1 \u0111\u1ee9ng m\u1edf ra ngoài \u0111\u01b0\u1ee3c ký hi\u1ec7u nh\u01b0 th\u1ebf nào và tam giác bi\u1ec3u th\u1ecb \u0111i\u1ec1u gì?
+2025-11-12 11:13:30,956 [INFO] [QA-DEBUG] chosen=['A'] | scores_norm=[A=1.00, B=0.12, C=0.51, D=0.00]
+2025-11-12 11:13:30,956 [INFO]    Option A score=0.9211
+2025-11-12 11:13:30,958 [INFO]    Option B score=0.9155
+2025-11-12 11:13:30,958 [INFO]    Option C score=0.9180
+2025-11-12 11:13:30,958 [INFO]    Option D score=0.9147
+2025-11-12 11:13:30,958 [INFO]    => chosen: ['A']
+2025-11-12 11:13:30,960 [INFO] [QA] Q266: Theo n\u1ed9i dung v\u0103n b\u1ea3n, m\u1ee5c tiêu chính c\u1ee7a h\u1ec7 th\u1ed1ng vCOC là gì?
+2025-11-12 11:14:41,590 [INFO] [QA-DEBUG] chosen=['C', 'D'] | scores_norm=[A=0.00, B=0.44, C=1.00, D=0.95]
+2025-11-12 11:14:41,592 [INFO]    Option A score=0.8947
+2025-11-12 11:14:41,592 [INFO]    Option B score=0.9006
+2025-11-12 11:14:41,592 [INFO]    Option C score=0.9081
+2025-11-12 11:14:41,592 [INFO]    Option D score=0.9074
+2025-11-12 11:14:41,592 [INFO]    => chosen: ['C', 'D']
+2025-11-12 11:14:41,594 [INFO] [QA] Q267: Trong BCCS2, mã ch\u1ee9c n\u0103ng BCCS2_SALE_BO_CHECK_DIEU_KIEN_THUE_BAO_DANG_KY cho phép làm gì?
+2025-11-12 11:15:45,833 [INFO] [QA-DEBUG] chosen=['B', 'C'] | scores_norm=[A=0.61, B=1.00, C=0.90, D=0.00]
+2025-11-12 11:15:45,833 [INFO]    Option A score=0.9195
+2025-11-12 11:15:45,833 [INFO]    Option B score=0.9211
+2025-11-12 11:15:45,835 [INFO]    Option C score=0.9207
+2025-11-12 11:15:45,835 [INFO]    Option D score=0.9170
+2025-11-12 11:15:45,835 [INFO]    => chosen: ['B', 'C']
+2025-11-12 11:15:45,835 [INFO] [QA] Q268: Trên màn hình Bi\u1ec3u \u0111\u1ed3 s\u1ea3n xu\u1ea5t, có bao nhiêu nút menu ng\u1eef c\u1ea3nh \u0111\u01b0\u1ee3c li\u1ec7t kê?
+2025-11-12 11:17:41,346 [INFO] [QA-DEBUG] chosen=['A', 'B'] | scores_norm=[A=0.90, B=1.00, C=0.27, D=0.00]
+2025-11-12 11:17:41,346 [INFO]    Option A score=0.9175
+2025-11-12 11:17:41,346 [INFO]    Option B score=0.9175
+2025-11-12 11:17:41,346 [INFO]    Option C score=0.9174
+2025-11-12 11:17:41,348 [INFO]    Option D score=0.9174
+2025-11-12 11:17:41,348 [INFO]    => chosen: ['A', 'B']
+2025-11-12 11:17:41,348 [INFO] [QA] Q269: Tiêu chu\u1ea9n qu\u1ed1c t\u1ebf nào \u0111\u01b0\u1ee3c tham kh\u1ea3o trong qu\u1ea3n lý d\u1eef li\u1ec7u \u0111\u1eb7c t\u1ea3 s\u1ed1 hóa 3D theo tài li\u1ec7u Public_470?
+2025-11-12 11:19:36,336 [INFO] [QA-DEBUG] chosen=['C'] | scores_norm=[A=0.16, B=0.14, C=1.00, D=0.00]
+2025-11-12 11:19:36,336 [INFO]    Option A score=0.9268
+2025-11-12 11:19:36,338 [INFO]    Option B score=0.9268
+2025-11-12 11:19:36,338 [INFO]    Option C score=0.9272
+2025-11-12 11:19:36,338 [INFO]    Option D score=0.9267
+2025-11-12 11:19:36,338 [INFO]    => chosen: ['C']
+2025-11-12 11:19:36,338 [INFO] [QA] Q270: Vách ng\u0103n b\u1eb1ng kính ho\u1eb7c v\u1eadt li\u1ec7u trong su\u1ed1t th\u01b0\u1eddng \u0111\u01b0\u1ee3c \u01b0u tiên s\u1eed d\u1ee5ng trong tr\u01b0\u1eddng h\u1ee3p nào?
+2025-11-12 11:20:41,832 [INFO] [QA-DEBUG] chosen=['C', 'D'] | scores_norm=[A=0.00, B=0.20, C=0.93, D=1.00]
+2025-11-12 11:20:41,832 [INFO]    Option A score=0.9158
+2025-11-12 11:20:41,832 [INFO]    Option B score=0.9164
+2025-11-12 11:20:41,834 [INFO]    Option C score=0.9185
+2025-11-12 11:20:41,834 [INFO]    Option D score=0.9187
+2025-11-12 11:20:41,834 [INFO]    => chosen: ['C', 'D']
+2025-11-12 11:20:41,836 [INFO] [QA] Q271: \u0110\u1ed9ng c\u01a1 A321neo s\u1eed d\u1ee5ng lo\u1ea1i nào \u0111\u1ec3 ti\u1ebft ki\u1ec7m nhiên li\u1ec7u 15–20%?
+2025-11-12 11:22:33,679 [INFO] [QA-DEBUG] chosen=['B'] | scores_norm=[A=0.01, B=1.00, C=0.00, D=0.13]
+2025-11-12 11:22:33,681 [INFO]    Option A score=0.9232
+2025-11-12 11:22:33,681 [INFO]    Option B score=0.9249
+2025-11-12 11:22:33,681 [INFO]    Option C score=0.9232
+2025-11-12 11:22:33,681 [INFO]    Option D score=0.9234
+2025-11-12 11:22:33,681 [INFO]    => chosen: ['B']
+2025-11-12 11:22:33,683 [INFO] [QA] Q272: N\u1ed9i dung t\u1ed5ng th\u1ec3 c\u1ee7a Public 445 t\u1eadp trung vào ch\u1ee7 \u0111\u1ec1 nào?
+2025-11-12 11:24:34,731 [INFO] [QA-DEBUG] chosen=['D'] | scores_norm=[A=0.07, B=0.81, C=0.00, D=1.00]
+2025-11-12 11:24:34,731 [INFO]    Option A score=0.8993
+2025-11-12 11:24:34,731 [INFO]    Option B score=0.9024
+2025-11-12 11:24:34,731 [INFO]    Option C score=0.8990
+2025-11-12 11:24:34,731 [INFO]    Option D score=0.9032
+2025-11-12 11:24:34,731 [INFO]    => chosen: ['D']
+2025-11-12 11:24:34,734 [INFO] [QA] Q273: V\u0103n b\u1ea3n này mô t\u1ea3 ch\u1ee7 y\u1ebfu v\u1ec1 n\u1ed9i dung gì?
+2025-11-12 11:26:23,337 [INFO] [QA-DEBUG] chosen=['D'] | scores_norm=[A=0.34, B=0.00, C=0.08, D=1.00]
+2025-11-12 11:26:23,339 [INFO]    Option A score=0.9132
+2025-11-12 11:26:23,339 [INFO]    Option B score=0.9063
+2025-11-12 11:26:23,339 [INFO]    Option C score=0.9080
+2025-11-12 11:26:23,339 [INFO]    Option D score=0.9267
+2025-11-12 11:26:23,339 [INFO]    => chosen: ['D']
+2025-11-12 11:26:23,341 [INFO] [QA] Q274: Giá bán (ch\u01b0a VAT) c\u1ee7a “\u0110èn LED \u0111\u01b0\u1eddng ph\u1ed1 VHL2-120W (Dim 5 c\u1ea5p công su\u1ea5t, k\u1ebft n\u1ed1i 1-10V/DALI, lumen > 120lm/w, ch\u1ed1ng xung sét 10kA)” trong TD639 là bao nhiêu \u0111\u1ed3ng?
+2025-11-12 11:28:04,583 [INFO] [QA-DEBUG] chosen=['D'] | scores_norm=[A=0.55, B=0.05, C=0.00, D=1.00]
+2025-11-12 11:28:04,585 [INFO]    Option A score=0.9309
+2025-11-12 11:28:04,585 [INFO]    Option B score=0.9308
+2025-11-12 11:28:04,585 [INFO]    Option C score=0.9307
+2025-11-12 11:28:04,585 [INFO]    Option D score=0.9310
+2025-11-12 11:28:04,585 [INFO]    => chosen: ['D']
+2025-11-12 11:28:04,587 [INFO] [QA] Q275: Trong b\u1ea3n v\u1ebd \u0111i\u1ec7n, h\u01b0\u1edbng \u0111i lên c\u1ee7a c\u1ea7u thang \u0111\u01b0\u1ee3c th\u1ec3 hi\u1ec7n b\u1eb1ng gì?
+2025-11-12 11:29:59,497 [INFO] [QA-DEBUG] chosen=['C'] | scores_norm=[A=0.06, B=0.00, C=1.00, D=0.64]
+2025-11-12 11:29:59,497 [INFO]    Option A score=0.9226
+2025-11-12 11:29:59,497 [INFO]    Option B score=0.9220
+2025-11-12 11:29:59,497 [INFO]    Option C score=0.9310
+2025-11-12 11:29:59,499 [INFO]    Option D score=0.9278
+2025-11-12 11:29:59,499 [INFO]    => chosen: ['C']
+2025-11-12 11:29:59,501 [INFO] [QA] Q276: Theo c\u1ea5u trúc b\u1ea3ng giá trong TD643, các c\u1ed9t thông tin chính g\u1ed3m nh\u1eefng m\u1ee5c nào?
+2025-11-12 11:31:54,117 [INFO] [QA-DEBUG] chosen=['D'] | scores_norm=[A=0.00, B=0.82, C=0.83, D=1.00]
+2025-11-12 11:31:54,117 [INFO]    Option A score=0.9167
+2025-11-12 11:31:54,117 [INFO]    Option B score=0.9187
+2025-11-12 11:31:54,119 [INFO]    Option C score=0.9187
+2025-11-12 11:31:54,119 [INFO]    Option D score=0.9191
+2025-11-12 11:31:54,119 [INFO]    => chosen: ['D']
+2025-11-12 11:31:54,121 [INFO] [QA] Q277: V\u0103n b\u1ea3n Public 428 li\u1ec7t kê các h\u1ec7 th\u1ed1ng chính nào?
+2025-11-12 11:32:47,252 [INFO] [QA-DEBUG] chosen=['A', 'C'] | scores_norm=[A=0.96, B=0.00, C=1.00, D=0.82]
+2025-11-12 11:32:47,252 [INFO]    Option A score=0.9329
+2025-11-12 11:32:47,253 [INFO]    Option B score=0.9238
+2025-11-12 11:32:47,253 [INFO]    Option C score=0.9333
+2025-11-12 11:32:47,253 [INFO]    Option D score=0.9316
+2025-11-12 11:32:47,255 [INFO]    => chosen: ['A', 'C']
+2025-11-12 11:32:47,256 [INFO] [QA] Q278: Trong TD635, có t\u1ed5ng c\u1ed9ng bao nhiêu lo\u1ea1i \u0111\u1ea7u dò siêu âm \u0111\u01b0\u1ee3c mô t\u1ea3 chi ti\u1ebft kèm theo \u1ee9ng d\u1ee5ng?
+2025-11-12 11:33:53,304 [INFO] [QA-DEBUG] chosen=['B'] | scores_norm=[A=0.00, B=1.00, C=0.61, D=0.64]
+2025-11-12 11:33:53,306 [INFO]    Option A score=0.8800
+2025-11-12 11:33:53,306 [INFO]    Option B score=0.8836
+2025-11-12 11:33:53,306 [INFO]    Option C score=0.8822
+2025-11-12 11:33:53,306 [INFO]    Option D score=0.8823
+2025-11-12 11:33:53,306 [INFO]    => chosen: ['B']
+2025-11-12 11:33:53,308 [INFO] [QA] Q279: N\u1ebfu m\u1ed9t th\u1ee3 kim hoàn c\u1ea7n t\u1ea1o khuôn và thi\u1ebft k\u1ebf trang s\u1ee9c chi ti\u1ebft cao, Saturn 4 Ultra 16K có phù h\u1ee3p không?
+2025-11-12 11:35:50,978 [INFO] [QA-DEBUG] chosen=['B'] | scores_norm=[A=1.00, B=0.00, C=0.93, D=0.96]
+2025-11-12 11:35:50,980 [INFO]    Option A score=0.8988
+2025-11-12 11:35:50,980 [INFO]    Option B score=0.8934
+2025-11-12 11:35:50,980 [INFO]    Option C score=0.8984
+2025-11-12 11:35:50,980 [INFO]    Option D score=0.8985
+2025-11-12 11:35:50,980 [INFO]    => chosen: ['B']
+2025-11-12 11:35:50,982 [INFO] [QA] Q280: “Bu lông” và “Cupler” trong TD647 có Tiêu chu\u1ea9n l\u1ea5y m\u1eabu, yêu c\u1ea7u k\u1ef9 thu\u1eadt l\u1ea7n l\u01b0\u1ee3t là gì?
+2025-11-12 11:37:44,047 [INFO] [QA-DEBUG] chosen=['B'] | scores_norm=[A=0.10, B=1.00, C=0.00, D=0.25]
+2025-11-12 11:37:44,047 [INFO]    Option A score=0.9088
+2025-11-12 11:37:44,047 [INFO]    Option B score=0.9113
+2025-11-12 11:37:44,049 [INFO]    Option C score=0.9085
+2025-11-12 11:37:44,049 [INFO]    Option D score=0.9092
+2025-11-12 11:37:44,049 [INFO]    => chosen: ['B']
+2025-11-12 11:37:44,049 [INFO] [QA] Q281: V\u1edbi hóa \u0111\u01a1n \u0111i\u1ec7n hàng tháng kho\u1ea3ng 3 tri\u1ec7u \u0111\u1ed3ng (~1000 kWh), nên l\u1eafp h\u1ec7 th\u1ed1ng \u0111i\u1ec7n m\u1eb7t tr\u1eddi công su\u1ea5t bao nhiêu và lo\u1ea1i nào là phù h\u1ee3p?
+2025-11-12 11:39:38,808 [INFO] [QA-DEBUG] chosen=['B'] | scores_norm=[A=0.00, B=1.00, C=0.84, D=0.26]
+2025-11-12 11:39:38,808 [INFO]    Option A score=0.9108
+2025-11-12 11:39:38,808 [INFO]    Option B score=0.9154
+2025-11-12 11:39:38,808 [INFO]    Option C score=0.9146
+2025-11-12 11:39:38,810 [INFO]    Option D score=0.9120
+2025-11-12 11:39:38,810 [INFO]    => chosen: ['B']
+2025-11-12 11:39:38,810 [INFO] [QA] Q282: Trong TD639, tiêu chu\u1ea9n k\u1ef9 thu\u1eadt áp d\u1ee5ng cho \u0111èn LED chi\u1ebfu sáng \u0111\u01b0\u1eddng ph\u1ed1 là gì?
+2025-11-12 11:41:41,780 [INFO] [QA-DEBUG] chosen=['B'] | scores_norm=[A=0.00, B=1.00, C=0.47, D=0.83]
+2025-11-12 11:41:41,790 [INFO]    Option A score=0.9155
+2025-11-12 11:41:41,790 [INFO]    Option B score=0.9185
+2025-11-12 11:41:41,790 [INFO]    Option C score=0.9169
+2025-11-12 11:41:41,790 [INFO]    Option D score=0.9180
+2025-11-12 11:41:41,790 [INFO]    => chosen: ['B']
+2025-11-12 11:41:42,121 [INFO] [OUTPUT] Wrote submissions\answer.md
+2025-11-12 11:41:42,121 [INFO] [DONE] Pipeline finished in 28757.7s. Answer file at submissions\answer.md
